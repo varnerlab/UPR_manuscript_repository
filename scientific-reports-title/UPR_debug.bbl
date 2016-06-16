@@ -1,0 +1,643 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{naidoo2009er}
+\bibinfo{author}{Naidoo, N.}
+\newblock \bibinfo{title}{Er and aging-protein folding and the er stress
+  response}.
+\newblock \emph{\bibinfo{journal}{Ageing Res Rev}}
+  \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{150--9} (\bibinfo{year}{2009}).
+
+\bibitem{ron2002translational}
+\bibinfo{author}{Ron, D.}
+\newblock \bibinfo{title}{Translational control in the endoplasmic reticulum
+  stress response}.
+\newblock \emph{\bibinfo{journal}{J Clin Invest}}
+  \textbf{\bibinfo{volume}{110}}, \bibinfo{pages}{1383--8}
+  (\bibinfo{year}{2002}).
+
+\bibitem{kaufman2002unfolded}
+\bibinfo{author}{Kaufman, R.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{The unfolded protein response in nutrient sensing and
+  differentiation}.
+\newblock \emph{\bibinfo{journal}{Nat Rev Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{411--21}
+  (\bibinfo{year}{2002}).
+
+\bibitem{ellgaard2003qce}
+\bibinfo{author}{Ellgaard, L.} \& \bibinfo{author}{Helenius, A.}
+\newblock \bibinfo{title}{Quality control in the endoplasmic reticulum}.
+\newblock \emph{\bibinfo{journal}{Nat Rev Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{4}}, \bibinfo{pages}{181--91}
+  (\bibinfo{year}{2003}).
+
+\bibitem{Fonseca:2009fk}
+\bibinfo{author}{Fonseca, S.~G.}, \bibinfo{author}{Burcin, M.},
+  \bibinfo{author}{Gromada, J.} \& \bibinfo{author}{Urano, F.}
+\newblock \bibinfo{title}{Endoplasmic reticulum stress in beta-cells and
+  development of diabetes}.
+\newblock \emph{\bibinfo{journal}{Curr Opin Pharmacol}}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{763--70}
+  (\bibinfo{year}{2009}).
+
+\bibitem{ogata2006aac}
+\bibinfo{author}{Ogata, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Autophagy is activated for cell survival after
+  endoplasmic reticulum stress}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{26}}, \bibinfo{pages}{9220--31}
+  (\bibinfo{year}{2006}).
+
+\bibitem{yorimitsu2006ers}
+\bibinfo{author}{Yorimitsu, T.}, \bibinfo{author}{Nair, U.},
+  \bibinfo{author}{Yang, Z.} \& \bibinfo{author}{Klionsky, D.~J.}
+\newblock \bibinfo{title}{Endoplasmic reticulum stress triggers autophagy}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{281}},
+  \bibinfo{pages}{30299--304} (\bibinfo{year}{2006}).
+
+\bibitem{bernales2006ace}
+\bibinfo{author}{Bernales, S.}, \bibinfo{author}{McDonald, K.~L.} \&
+  \bibinfo{author}{Walter, P.}
+\newblock \bibinfo{title}{Autophagy counterbalances endoplasmic reticulum
+  expansion during the unfolded protein response}.
+\newblock \emph{\bibinfo{journal}{PLoS Biol}} \textbf{\bibinfo{volume}{4}},
+  \bibinfo{pages}{e423} (\bibinfo{year}{2006}).
+
+\bibitem{kamimoto2006iic}
+\bibinfo{author}{Kamimoto, T.} \emph{et~al.}
+\newblock \bibinfo{title}{Intracellular inclusions containing mutant
+  alpha1-antitrypsin z are propagated in the absence of autophagic activity}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{281}},
+  \bibinfo{pages}{4467--76} (\bibinfo{year}{2006}).
+
+\bibitem{hoyerhansen2007cmc}
+\bibinfo{author}{H{\o}yer-Hansen, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Control of macroautophagy by calcium,
+  calmodulin-dependent kinase kinase-beta, and bcl-2}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{25}},
+  \bibinfo{pages}{193--205} (\bibinfo{year}{2007}).
+
+\bibitem{kouroku2006esp}
+\bibinfo{author}{Kouroku, Y.} \emph{et~al.}
+\newblock \bibinfo{title}{Er stress (perk/eif2alpha phosphorylation) mediates
+  the polyglutamine-induced lc3 conversion, an essential step for autophagy
+  formation}.
+\newblock \emph{\bibinfo{journal}{Cell Death Differ}}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{230--9}
+  (\bibinfo{year}{2007}).
+
+\bibitem{fujita2007ter}
+\bibinfo{author}{Fujita, E.} \emph{et~al.}
+\newblock \bibinfo{title}{Two endoplasmic reticulum-associated degradation
+  (erad) systems for the novel variant of the mutant dysferlin:
+  ubiquitin/proteasome erad(i) and autophagy/lysosome erad(ii)}.
+\newblock \emph{\bibinfo{journal}{Hum Mol Genet}}
+  \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{618--29}
+  (\bibinfo{year}{2007}).
+
+\bibitem{KITANO2007}
+\bibinfo{author}{Kitano, H.}
+\newblock \bibinfo{title}{{A robustness based approach to systems-oriented drug
+  design}}.
+\newblock \emph{\bibinfo{journal}{Nat. Rev. Drug Discov.}}
+  \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{202 -- 210}
+  (\bibinfo{year}{2007}).
+
+\bibitem{Gadkar:2005ad}
+\bibinfo{author}{Gadkar, K.~G.}, \bibinfo{author}{Varner, J.} \&
+  \bibinfo{author}{Doyle, F.~J.}
+\newblock \bibinfo{title}{{Model identification of signal transduction networks
+  from data using a state regulator problem.}}
+\newblock \emph{\bibinfo{journal}{Syst Biol (Stevenage)}}
+  \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{17--30} (\bibinfo{year}{2005}).
+
+\bibitem{Battogtokh:2002uq}
+\bibinfo{author}{Battogtokh, D.}, \bibinfo{author}{Asch, D.~K.},
+  \bibinfo{author}{Case, M.~E.}, \bibinfo{author}{Arnold, J.} \&
+  \bibinfo{author}{Schuttler, H.-B.}
+\newblock \bibinfo{title}{An ensemble method for identifying regulatory
+  circuits with special reference to the qa gene cluster of neurospora crassa.}
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
+  \textbf{\bibinfo{volume}{99}}, \bibinfo{pages}{16904--16909}
+  (\bibinfo{year}{2002}).
+
+\bibitem{Kuepfer:2007}
+\bibinfo{author}{Kuepfer, L.}, \bibinfo{author}{Peter, M.},
+  \bibinfo{author}{Sauer, U.} \& \bibinfo{author}{Stelling, J.}
+\newblock \bibinfo{title}{Ensemble modeling for analysis of cell signaling
+  dynamics}.
+\newblock \emph{\bibinfo{journal}{Nat Biotech}} \textbf{\bibinfo{volume}{25}},
+  \bibinfo{pages}{1001--1006} (\bibinfo{year}{2007}).
+
+\bibitem{Brown:2003qy}
+\bibinfo{author}{Brown, K.~S.} \& \bibinfo{author}{Sethna, J.~P.}
+\newblock \bibinfo{title}{Statistical mechanical approaches to models with many
+  poorly known parameters.}
+\newblock \emph{\bibinfo{journal}{Phys Rev E Stat Nonlin Soft Matter Phys}}
+  \textbf{\bibinfo{volume}{68}}, \bibinfo{pages}{021904}
+  (\bibinfo{year}{2003}).
+
+\bibitem{Palmer:2005}
+\bibinfo{author}{Palmer, T.} \emph{et~al.}
+\newblock \bibinfo{title}{Representing model uncertainty in weather and climate
+  prediction}.
+\newblock \emph{\bibinfo{journal}{Ann Rev Earth and Planetary Sci}}
+  \textbf{\bibinfo{volume}{33}}, \bibinfo{pages}{163--193}
+  (\bibinfo{year}{2005}).
+
+\bibitem{Song:2009uq}
+\bibinfo{author}{Song, S.~O.} \& \bibinfo{author}{Varner, J.}
+\newblock \bibinfo{title}{Modeling and analysis of the molecular basis of pain
+  in sensory neurons}.
+\newblock \emph{\bibinfo{journal}{PLoS One}} \textbf{\bibinfo{volume}{4}},
+  \bibinfo{pages}{e6758} (\bibinfo{year}{2009}).
+
+\bibitem{Gutenkunst:2007oq}
+\bibinfo{author}{Gutenkunst, R.~N.} \emph{et~al.}
+\newblock \bibinfo{title}{Universally sloppy parameter sensitivities in systems
+  biology models}.
+\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
+  \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{1871--78}
+  (\bibinfo{year}{2007}).
+
+\bibitem{Luan:2010fc}
+\bibinfo{author}{Luan, D.}, \bibinfo{author}{Szlam, F.},
+  \bibinfo{author}{Tanaka, K.~A.}, \bibinfo{author}{Barie, P.~S.} \&
+  \bibinfo{author}{Varner, J.~D.}
+\newblock \bibinfo{title}{Ensembles of uncertain mathematical models can
+  identify network response to therapeutic interventions}.
+\newblock \emph{\bibinfo{journal}{Mol Biosyst}} \textbf{\bibinfo{volume}{6}},
+  \bibinfo{pages}{2272--86} (\bibinfo{year}{2010}).
+
+\bibitem{Tasseff:2010rq}
+\bibinfo{author}{Tasseff, R.} \emph{et~al.}
+\newblock \bibinfo{title}{Analysis of the molecular networks in androgen
+  dependent and independent prostate cancer revealed fragile and robust
+  subsystems}.
+\newblock \emph{\bibinfo{journal}{PLoS One}} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{e8864} (\bibinfo{year}{2010}).
+
+\bibitem{szegezdi2006mediators}
+\bibinfo{author}{Szegezdi, E.}, \bibinfo{author}{Logue, S.~E.},
+  \bibinfo{author}{Gorman, A.~M.} \& \bibinfo{author}{Samali, A.}
+\newblock \bibinfo{title}{Mediators of endoplasmic reticulum stress-induced
+  apoptosis}.
+\newblock \emph{\bibinfo{journal}{EMBO Rep}} \textbf{\bibinfo{volume}{7}},
+  \bibinfo{pages}{880--5} (\bibinfo{year}{2006}).
+
+\bibitem{Schroder:2005vn}
+\bibinfo{author}{Schr{\"o}der, M.} \& \bibinfo{author}{Kaufman, R.~J.}
+\newblock \bibinfo{title}{The mammalian unfolded protein response}.
+\newblock \emph{\bibinfo{journal}{Annu Rev Biochem}}
+  \textbf{\bibinfo{volume}{74}}, \bibinfo{pages}{739--89}
+  (\bibinfo{year}{2005}).
+
+\bibitem{gotoh:hdc}
+\bibinfo{author}{Gotoh, T.}, \bibinfo{author}{Terada, K.} \&
+  \bibinfo{author}{Mori, M.}
+\newblock \bibinfo{title}{hsp70-dnaj chaperone pairs prevent nitric
+  oxide-mediated apoptosis in raw 264.7 macrophages}.
+\newblock \emph{\bibinfo{journal}{Cell Death Differ}}
+  \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{357--66}
+  (\bibinfo{year}{2001}).
+
+\bibitem{mccullough2001gsc}
+\bibinfo{author}{McCullough, K.~D.}, \bibinfo{author}{Martindale, J.~L.},
+  \bibinfo{author}{Klotz, L.~O.}, \bibinfo{author}{Aw, T.~Y.} \&
+  \bibinfo{author}{Holbrook, N.~J.}
+\newblock \bibinfo{title}{Gadd153 sensitizes cells to endoplasmic reticulum
+  stress by down-regulating bcl2 and perturbing the cellular redox state}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{1249--59}
+  (\bibinfo{year}{2001}).
+
+\bibitem{belmont2008cga}
+\bibinfo{author}{Belmont, P.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{Coordination of growth and endoplasmic reticulum
+  stress signaling by regulator of calcineurin 1 (rcan1), a novel
+  atf6-inducible gene}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{283}},
+  \bibinfo{pages}{14012--21} (\bibinfo{year}{2008}).
+
+\bibitem{Hetz:2009qc}
+\bibinfo{author}{Hetz, C.} \& \bibinfo{author}{Glimcher, L.~H.}
+\newblock \bibinfo{title}{Fine-tuning of the unfolded protein response:
+  Assembling the ire1alpha interactome}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{35}},
+  \bibinfo{pages}{551--61} (\bibinfo{year}{2009}).
+
+\bibitem{Urano:2000uq}
+\bibinfo{author}{Urano, F.} \emph{et~al.}
+\newblock \bibinfo{title}{Coupling of stress in the er to activation of jnk
+  protein kinases by transmembrane protein kinase ire1}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{287}},
+  \bibinfo{pages}{664--6} (\bibinfo{year}{2000}).
+
+\bibitem{Jensen:2009fk}
+\bibinfo{author}{Jensen, L.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{String 8--a global view on proteins and their
+  functional interactions in 630 organisms}.
+\newblock \emph{\bibinfo{journal}{Nucleic Acids Res}}
+  \textbf{\bibinfo{volume}{37}}, \bibinfo{pages}{D412--6}
+  (\bibinfo{year}{2009}).
+
+\bibitem{Linding:2007fk}
+\bibinfo{author}{Linding, R.} \emph{et~al.}
+\newblock \bibinfo{title}{Systematic discovery of in vivo phosphorylation
+  networks}.
+\newblock \emph{\bibinfo{journal}{Cell}} \textbf{\bibinfo{volume}{129}},
+  \bibinfo{pages}{1415--26} (\bibinfo{year}{2007}).
+
+\bibitem{lu2004tra}
+\bibinfo{author}{Lu, P.~D.}, \bibinfo{author}{Harding, H.~P.} \&
+  \bibinfo{author}{Ron, D.}
+\newblock \bibinfo{title}{Translation reinitiation at alternative open reading
+  frames regulates gene expression in an integrated stress response}.
+\newblock \emph{\bibinfo{journal}{J Cell Biol}} \textbf{\bibinfo{volume}{167}},
+  \bibinfo{pages}{27--33} (\bibinfo{year}{2004}).
+
+\bibitem{hamanaka2008pdr}
+\bibinfo{author}{Hamanaka, R.~B.}, \bibinfo{author}{Bobrovnikova-Marjon, E.},
+  \bibinfo{author}{Ji, X.}, \bibinfo{author}{Liebhaber, S.~A.} \&
+  \bibinfo{author}{Diehl, J.~A.}
+\newblock \bibinfo{title}{Perk-dependent regulation of iap translation during
+  er stress}.
+\newblock \emph{\bibinfo{journal}{Oncogene}} \textbf{\bibinfo{volume}{28}},
+  \bibinfo{pages}{910--20} (\bibinfo{year}{2009}).
+
+\bibitem{harding2003isr}
+\bibinfo{author}{Harding, H.~P.} \emph{et~al.}
+\newblock \bibinfo{title}{An integrated stress response regulates amino acid
+  metabolism and resistance to oxidative stress}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{11}},
+  \bibinfo{pages}{619--33} (\bibinfo{year}{2003}).
+
+\bibitem{ron1992cnd}
+\bibinfo{author}{Ron, D.} \& \bibinfo{author}{Habener, J.~F.}
+\newblock \bibinfo{title}{Chop, a novel developmentally regulated nuclear
+  protein that dimerizes with transcription factors c/ebp and lap and functions
+  as a dominant-negative inhibitor of gene transcription}.
+\newblock \emph{\bibinfo{journal}{Genes Dev}} \textbf{\bibinfo{volume}{6}},
+  \bibinfo{pages}{439--53} (\bibinfo{year}{1992}).
+
+\bibitem{wang1999cia}
+\bibinfo{author}{Wang, H.~G.} \emph{et~al.}
+\newblock \bibinfo{title}{Ca2+-induced apoptosis through calcineurin
+  dephosphorylation of bad}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{284}},
+  \bibinfo{pages}{339--43} (\bibinfo{year}{1999}).
+
+\bibitem{lei2003jpb}
+\bibinfo{author}{Lei, K.} \& \bibinfo{author}{Davis, R.~J.}
+\newblock \bibinfo{title}{Jnk phosphorylation of bim-related members of the
+  bcl2 family induces bax-dependent apoptosis}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
+  \textbf{\bibinfo{volume}{100}}, \bibinfo{pages}{2432--7}
+  (\bibinfo{year}{2003}).
+
+\bibitem{putcha2003jmb}
+\bibinfo{author}{Putcha, G.~V.} \emph{et~al.}
+\newblock \bibinfo{title}{Jnk-mediated bim phosphorylation potentiates
+  bax-dependent apoptosis}.
+\newblock \emph{\bibinfo{journal}{Neuron}} \textbf{\bibinfo{volume}{38}},
+  \bibinfo{pages}{899--914} (\bibinfo{year}{2003}).
+
+\bibitem{yamamoto1999bpa}
+\bibinfo{author}{Yamamoto, K.}, \bibinfo{author}{Ichijo, H.} \&
+  \bibinfo{author}{Korsmeyer, S.~J.}
+\newblock \bibinfo{title}{Bcl-2 is phosphorylated and inactivated by an
+  ask1/jun n-terminal protein kinase pathway normally activated at g(2)/m}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{8469--78}
+  (\bibinfo{year}{1999}).
+
+\bibitem{Schoeberl:2002rv}
+\bibinfo{author}{Schoeberl, B.}, \bibinfo{author}{Eichler-Jonsson, C.},
+  \bibinfo{author}{Gilles, E.~D.} \& \bibinfo{author}{M{\"u}ller, G.}
+\newblock \bibinfo{title}{Computational modeling of the dynamics of the map
+  kinase cascade activated by surface and internalized egf receptors}.
+\newblock \emph{\bibinfo{journal}{Nat Biotechnol}}
+  \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{370--5}
+  (\bibinfo{year}{2002}).
+
+\bibitem{Chen:2009uq}
+\bibinfo{author}{Chen, W.~W.} \emph{et~al.}
+\newblock \bibinfo{title}{Input-output behavior of erbb signaling pathways as
+  revealed by a mass action model trained against dynamic data}.
+\newblock \emph{\bibinfo{journal}{Mol Syst Biol}} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{239} (\bibinfo{year}{2009}).
+
+\bibitem{Helmy:2009kx}
+\bibinfo{author}{Helmy, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Predicting novel features of toll-like receptor 3
+  signaling in macrophages}.
+\newblock \emph{\bibinfo{journal}{PLoS One}} \textbf{\bibinfo{volume}{4}},
+  \bibinfo{pages}{e4661} (\bibinfo{year}{2009}).
+
+\bibitem{Song:2010ij}
+\bibinfo{author}{Song, S.~O.}, \bibinfo{author}{Chakrabarti, A.} \&
+  \bibinfo{author}{Varner, J.~D.}
+\newblock \bibinfo{title}{Ensembles of signal transduction models using pareto
+  optimal ensemble techniques (poets)}.
+\newblock \emph{\bibinfo{journal}{Biotechnol J}} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{768--80} (\bibinfo{year}{2010}).
+
+\bibitem{yamamoto2007tim}
+\bibinfo{author}{Yamamoto, K.} \emph{et~al.}
+\newblock \bibinfo{title}{Transcriptional induction of mammalian er quality
+  control proteins is mediated by single or combined action of atf6alpha and
+  xbp1}.
+\newblock \emph{\bibinfo{journal}{Dev Cell}} \textbf{\bibinfo{volume}{13}},
+  \bibinfo{pages}{365--76} (\bibinfo{year}{2007}).
+
+\bibitem{lee2002imu}
+\bibinfo{author}{Lee, K.} \emph{et~al.}
+\newblock \bibinfo{title}{Ire1-mediated unconventional mrna splicing and
+  s2p-mediated atf6 cleavage merge to regulate xbp1 in signaling the unfolded
+  protein response}.
+\newblock \emph{\bibinfo{journal}{Genes Dev}} \textbf{\bibinfo{volume}{16}},
+  \bibinfo{pages}{452--66} (\bibinfo{year}{2002}).
+
+\bibitem{silver1999mtf}
+\bibinfo{author}{Haze, K.}, \bibinfo{author}{Yoshida, H.},
+  \bibinfo{author}{Yanagi, H.}, \bibinfo{author}{Yura, T.} \&
+  \bibinfo{author}{Mori, K.}
+\newblock \bibinfo{title}{Mammalian transcription factor atf6 is synthesized as
+  a transmembrane protein and activated by proteolysis in response to
+  endoplasmic reticulum stress}.
+\newblock \emph{\bibinfo{journal}{Mol Biol Cell}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{3787--99}
+  (\bibinfo{year}{1999}).
+
+\bibitem{hai1989tfa}
+\bibinfo{author}{Hai, T.~W.}, \bibinfo{author}{Liu, F.},
+  \bibinfo{author}{Coukos, W.~J.} \& \bibinfo{author}{Green, M.~R.}
+\newblock \bibinfo{title}{Transcription factor atf cdna clones: an extensive
+  family of leucine zipper proteins able to selectively form dna-binding
+  heterodimers}.
+\newblock \emph{\bibinfo{journal}{Genes Dev}} \textbf{\bibinfo{volume}{3}},
+  \bibinfo{pages}{2083--90} (\bibinfo{year}{1989}).
+
+\bibitem{malhotra2007era}
+\bibinfo{author}{Malhotra, J.~D.} \& \bibinfo{author}{Kaufman, R.~J.}
+\newblock \bibinfo{title}{The endoplasmic reticulum and the unfolded protein
+  response}.
+\newblock \emph{\bibinfo{journal}{Semin Cell Dev Biol}}
+  \textbf{\bibinfo{volume}{18}}, \bibinfo{pages}{716--31}
+  (\bibinfo{year}{2007}).
+
+\bibitem{rao2004mpe}
+\bibinfo{author}{Rao, R.~V.} \& \bibinfo{author}{Bredesen, D.~E.}
+\newblock \bibinfo{title}{Misfolded proteins, endoplasmic reticulum stress and
+  neurodegeneration}.
+\newblock \emph{\bibinfo{journal}{Curr Opin Cell Biol}}
+  \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{653--62}
+  (\bibinfo{year}{2004}).
+
+\bibitem{kokame2001iei}
+\bibinfo{author}{Kokame, K.}, \bibinfo{author}{Kato, H.} \&
+  \bibinfo{author}{Miyata, T.}
+\newblock \bibinfo{title}{Identification of erse-ii, a new cis-acting element
+  responsible for the atf6-dependent mammalian unfolded protein response}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{276}},
+  \bibinfo{pages}{9199--205} (\bibinfo{year}{2001}).
+
+\bibitem{yoshida2000aap}
+\bibinfo{author}{Yoshida, H.} \emph{et~al.}
+\newblock \bibinfo{title}{Atf6 activated by proteolysis binds in the presence
+  of nf-y (cbf) directly to the cis-acting element responsible for the
+  mammalian unfolded protein response}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{6755--67}
+  (\bibinfo{year}{2000}).
+
+\bibitem{lin2007ire1}
+\bibinfo{author}{Lin, J.} \emph{et~al.}
+\newblock \bibinfo{title}{{IRE1 signaling affects cell fate during the unfolded
+  protein response}}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{318}},
+  \bibinfo{pages}{944} (\bibinfo{year}{2007}).
+
+\bibitem{rao2002cer}
+\bibinfo{author}{Rao, R.} \emph{et~al.}
+\newblock \bibinfo{title}{{Coupling Endoplasmic Reticulum Stress to the Cell
+  Death Program AN Apaf-1-INDEPENDENT INTRINSIC PATHWAY}}.
+\newblock \emph{\bibinfo{journal}{J. Biol. Chem.}}
+  \textbf{\bibinfo{volume}{277}}, \bibinfo{pages}{21836--21842}
+  (\bibinfo{year}{2002}).
+
+\bibitem{ma2003delineation}
+\bibinfo{author}{Ma, Y.} \& \bibinfo{author}{Hendershot, L.~M.}
+\newblock \bibinfo{title}{Delineation of a negative feedback regulatory loop
+  that controls protein translation during endoplasmic reticulum stress}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{278}},
+  \bibinfo{pages}{34864--73} (\bibinfo{year}{2003}).
+
+\bibitem{Ameri:2008fk}
+\bibinfo{author}{Ameri, K.} \& \bibinfo{author}{Harris, A.~L.}
+\newblock \bibinfo{title}{Activating transcription factor 4}.
+\newblock \emph{\bibinfo{journal}{Int J Biochem Cell Biol}}
+  \textbf{\bibinfo{volume}{40}}, \bibinfo{pages}{14--21}
+  (\bibinfo{year}{2008}).
+
+\bibitem{oyadomari2003rcg}
+\bibinfo{author}{Oyadomari, S.} \& \bibinfo{author}{Mori, M.}
+\newblock \bibinfo{title}{{Roles of CHOP/GADD153 in endoplasmic reticulum
+  stress}}.
+\newblock \emph{\bibinfo{journal}{Cell Death \& Differentiation}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{381--389}
+  (\bibinfo{year}{2003}).
+
+\bibitem{Ron:2007rq}
+\bibinfo{author}{Ron, D.} \& \bibinfo{author}{Walter, P.}
+\newblock \bibinfo{title}{Signal integration in the endoplasmic reticulum
+  unfolded protein response}.
+\newblock \emph{\bibinfo{journal}{Nat Rev Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{519--29}
+  (\bibinfo{year}{2007}).
+
+\bibitem{Lee:1990ye}
+\bibinfo{author}{Lee, T.~G.}, \bibinfo{author}{Tomita, J.},
+  \bibinfo{author}{Hovanessian, A.~G.} \& \bibinfo{author}{Katze, M.~G.}
+\newblock \bibinfo{title}{Purification and partial characterization of a
+  cellular inhibitor of the interferon-induced protein kinase of mr 68,000 from
+  influenza virus-infected cells}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
+  \textbf{\bibinfo{volume}{87}}, \bibinfo{pages}{6208--12}
+  (\bibinfo{year}{1990}).
+
+\bibitem{Yan:2002fk}
+\bibinfo{author}{Yan, W.} \emph{et~al.}
+\newblock \bibinfo{title}{Control of perk eif2alpha kinase activity by the
+  endoplasmic reticulum stress-induced molecular chaperone p58ipk}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
+  \textbf{\bibinfo{volume}{99}}, \bibinfo{pages}{15920--5}
+  (\bibinfo{year}{2002}).
+
+\bibitem{Huizen:2003qo}
+\bibinfo{author}{van Huizen, R.}, \bibinfo{author}{Martindale, J.~L.},
+  \bibinfo{author}{Gorospe, M.} \& \bibinfo{author}{Holbrook, N.~J.}
+\newblock \bibinfo{title}{P58ipk, a novel endoplasmic reticulum
+  stress-inducible protein and potential negative regulator of eif2alpha
+  signaling}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{278}},
+  \bibinfo{pages}{15558--64} (\bibinfo{year}{2003}).
+
+\bibitem{Novoa:2001mb}
+\bibinfo{author}{Novoa, I.}, \bibinfo{author}{Zeng, H.},
+  \bibinfo{author}{Harding, H.~P.} \& \bibinfo{author}{Ron, D.}
+\newblock \bibinfo{title}{Feedback inhibition of the unfolded protein response
+  by gadd34-mediated dephosphorylation of eif2alpha}.
+\newblock \emph{\bibinfo{journal}{J Cell Biol}} \textbf{\bibinfo{volume}{153}},
+  \bibinfo{pages}{1011--22} (\bibinfo{year}{2001}).
+
+\bibitem{Zhan:1994cq}
+\bibinfo{author}{Zhan, Q.} \emph{et~al.}
+\newblock \bibinfo{title}{The gadd and myd genes define a novel set of
+  mammalian genes encoding acidic proteins that synergistically suppress cell
+  growth}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{2361--71}
+  (\bibinfo{year}{1994}).
+
+\bibitem{Brush:2003kh}
+\bibinfo{author}{Brush, M.~H.}, \bibinfo{author}{Weiser, D.~C.} \&
+  \bibinfo{author}{Shenolikar, S.}
+\newblock \bibinfo{title}{Growth arrest and dna damage-inducible protein gadd34
+  targets protein phosphatase 1 alpha to the endoplasmic reticulum and promotes
+  dephosphorylation of the alpha subunit of eukaryotic translation initiation
+  factor 2}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{1292--303}
+  (\bibinfo{year}{2003}).
+
+\bibitem{Yoshida:2009bs}
+\bibinfo{author}{Yoshida, H.}, \bibinfo{author}{Uemura, A.} \&
+  \bibinfo{author}{Mori, K.}
+\newblock \bibinfo{title}{pxbp1(u), a negative regulator of the unfolded
+  protein response activator pxbp1(s), targets atf6 but not atf4 in
+  proteasome-mediated degradation}.
+\newblock \emph{\bibinfo{journal}{Cell Struct Funct}}
+  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{1--10} (\bibinfo{year}{2009}).
+
+\bibitem{Yoshida:2006dz}
+\bibinfo{author}{Yoshida, H.}, \bibinfo{author}{Oku, M.},
+  \bibinfo{author}{Suzuki, M.} \& \bibinfo{author}{Mori, K.}
+\newblock \bibinfo{title}{pxbp1(u) encoded in xbp1 pre-mrna negatively
+  regulates unfolded protein response activator pxbp1(s) in mammalian er stress
+  response}.
+\newblock \emph{\bibinfo{journal}{J Cell Biol}} \textbf{\bibinfo{volume}{172}},
+  \bibinfo{pages}{565--75} (\bibinfo{year}{2006}).
+
+\bibitem{Tirosh:2006fv}
+\bibinfo{author}{Tirosh, B.}, \bibinfo{author}{Iwakoshi, N.~N.},
+  \bibinfo{author}{Glimcher, L.~H.} \& \bibinfo{author}{Ploegh, H.~L.}
+\newblock \bibinfo{title}{Rapid turnover of unspliced xbp-1 as a factor that
+  modulates the unfolded protein response}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{281}},
+  \bibinfo{pages}{5852--60} (\bibinfo{year}{2006}).
+
+\bibitem{Gu:2004kx}
+\bibinfo{author}{Gu, F.} \emph{et~al.}
+\newblock \bibinfo{title}{Protein-tyrosine phosphatase 1b potentiates ire1
+  signaling during endoplasmic reticulum stress}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{279}},
+  \bibinfo{pages}{49689--93} (\bibinfo{year}{2004}).
+
+\bibitem{Luo:2008ly}
+\bibinfo{author}{Luo, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Aip1 is critical in transducing ire1-mediated
+  endoplasmic reticulum stress response}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{283}},
+  \bibinfo{pages}{11905--12} (\bibinfo{year}{2008}).
+
+\bibitem{Zhang:2004ve}
+\bibinfo{author}{Zhang, H.} \emph{et~al.}
+\newblock \bibinfo{title}{Aip1/dab2ip, a novel member of the ras-gap family,
+  transduces traf2-induced ask1-jnk activation}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{279}},
+  \bibinfo{pages}{44955--65} (\bibinfo{year}{2004}).
+
+\bibitem{Hetz:2006qf}
+\bibinfo{author}{Hetz, C.} \emph{et~al.}
+\newblock \bibinfo{title}{Proapoptotic bax and bak modulate the unfolded
+  protein response by a direct interaction with ire1alpha}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{312}},
+  \bibinfo{pages}{572--6} (\bibinfo{year}{2006}).
+
+\bibitem{Xu:1998dq}
+\bibinfo{author}{Xu, Q.} \& \bibinfo{author}{Reed, J.~C.}
+\newblock \bibinfo{title}{Bax inhibitor-1, a mammalian apoptosis suppressor
+  identified by functional screening in yeast}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{1}},
+  \bibinfo{pages}{337--46} (\bibinfo{year}{1998}).
+
+\bibitem{Bailly-Maitre:2006bh}
+\bibinfo{author}{Bailly-Maitre, B.} \emph{et~al.}
+\newblock \bibinfo{title}{Cytoprotective gene bi-1 is required for intrinsic
+  protection from endoplasmic reticulum stress and ischemia-reperfusion
+  injury}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
+  \textbf{\bibinfo{volume}{103}}, \bibinfo{pages}{2809--14}
+  (\bibinfo{year}{2006}).
+
+\bibitem{Lisbona:2009cr}
+\bibinfo{author}{Lisbona, F.} \emph{et~al.}
+\newblock \bibinfo{title}{Bax inhibitor-1 is a negative regulator of the er
+  stress sensor ire1alpha}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{33}},
+  \bibinfo{pages}{679--91} (\bibinfo{year}{2009}).
+
+\bibitem{Marcu:2002oq}
+\bibinfo{author}{Marcu, M.~G.} \emph{et~al.}
+\newblock \bibinfo{title}{Heat shock protein 90 modulates the unfolded protein
+  response by stabilizing ire1alpha}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{8506--13}
+  (\bibinfo{year}{2002}).
+
+\bibitem{Gupta:2010kl}
+\bibinfo{author}{Gupta, S.} \emph{et~al.}
+\newblock \bibinfo{title}{Hsp72 protects cells from er stress-induced apoptosis
+  via enhancement of ire1alpha-xbp1 signaling through a physical interaction}.
+\newblock \emph{\bibinfo{journal}{PLoS Biol}} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{e1000410} (\bibinfo{year}{2010}).
+
+\bibitem{fonseca1993genetic}
+\bibinfo{author}{Fonseca, C.}, \bibinfo{author}{Fleming, P.} \emph{et~al.}
+\newblock \bibinfo{title}{{Genetic algorithms for multiobjective optimization:
+  Formulation, discussion and generalization}}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the fifth international
+  conference on genetic algorithms}}, \bibinfo{pages}{416--423}
+  (\bibinfo{organization}{Citeseer}, \bibinfo{year}{1993}).
+
+\bibitem{gadkar2003cybernetic}
+\bibinfo{author}{Gadkar, K.}, \bibinfo{author}{Doyle~III, F.},
+  \bibinfo{author}{Crowley, T.} \& \bibinfo{author}{Varner, J.}
+\newblock \bibinfo{title}{{Cybernetic model predictive control of a continuous
+  bioreactor with cell recycle}}.
+\newblock \emph{\bibinfo{journal}{Biotechnology progress}}
+  \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{1487--1497}
+  (\bibinfo{year}{2003}).
+
+\bibitem{varner2000large}
+\bibinfo{author}{Varner, J.}
+\newblock \bibinfo{title}{{Large-scale prediction of phenotype: concept}}.
+\newblock \emph{\bibinfo{journal}{Biotechnology and bioengineering}}
+  \textbf{\bibinfo{volume}{69}}, \bibinfo{pages}{664--678}
+  (\bibinfo{year}{2000}).
+
+\bibitem{kohavi1995study}
+\bibinfo{author}{Kohavi, R.}
+\newblock \bibinfo{title}{{A study of cross-validation and bootstrap for
+  accuracy estimation and model selection}}.
+\newblock In \emph{\bibinfo{booktitle}{International joint Conference on
+  artificial intelligence}}, vol.~\bibinfo{volume}{14},
+  \bibinfo{pages}{1137--1145} (\bibinfo{organization}{Citeseer},
+  \bibinfo{year}{1995}).
+
+\end{thebibliography}
