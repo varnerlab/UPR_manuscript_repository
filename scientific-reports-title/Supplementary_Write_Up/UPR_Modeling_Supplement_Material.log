@@ -1,0 +1,873 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.3.22)  18 JUN 2016 20:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**UPR_Modeling_Supplement_Material.tex
+(./UPR_Modeling_Supplement_Material.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\captionmargin=\dimen112
+\captionmargin@=\dimen113
+\captionwidth=\dimen114
+\caption@tempdima=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+)
+\c@ContinuedFloat=\count99
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen119
+\SC@CAPWD=\dimen120
+\SC@tempdima=\dimen121
+\SC@tempdimb=\dimen122
+\c@SC@C=\count100
+\SC@BOX=\box28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count101
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip48
+\LTright=\skip49
+\LTpre=\skip50
+\LTpost=\skip51
+\LTchunksize=\count102
+\LTcapwidth=\dimen123
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count103
+\LT@rows=\count104
+\c@LT@tables=\count105
+\c@LT@chunks=\count106
+\LT@p@ftn=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count107
+\ST@wd=\dimen124
+\ST@rightskip=\skip52
+\ST@leftskip=\skip53
+\ST@parfillskip=\skip54
+\ST@pageleft=\dimen125
+\ST@headht=\dimen126
+\ST@tailht=\dimen127
+\ST@pagesofar=\dimen128
+\ST@pboxht=\dimen129
+\ST@lineht=\dimen130
+\ST@stretchht=\dimen131
+\ST@prevht=\dimen132
+\ST@toadd=\dimen133
+\ST@dimen=\dimen134
+\ST@pbox=\box33
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(./UPR_Modeling_Supplement_Material.aux)
+\openout1 = `UPR_Modeling_Supplement_Material.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 76.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: sidecap package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip55
+\RaggedLeftLeftskip=\skip56
+\RaggedRightLeftskip=\skip57
+\CenteringRightskip=\skip58
+\RaggedLeftRightskip=\skip59
+\RaggedRightRightskip=\skip60
+\CenteringParfillskip=\skip61
+\RaggedLeftParfillskip=\skip62
+\RaggedRightParfillskip=\skip63
+\JustifyingParfillskip=\skip64
+\CenteringParindent=\skip65
+\RaggedLeftParindent=\skip66
+\RaggedRightParindent=\skip67
+\JustifyingParindent=\skip68
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 79.
+
+
+Package natbib Warning: Citation `naidoo2009er' on page 1 undefined on input li
+ne 80.
+
+
+Package natbib Warning: Citation `ron2002translational' on page 1 undefined on 
+input line 80.
+
+
+Package natbib Warning: Citation `kaufman2002unfolded' on page 1 undefined on i
+nput line 80.
+
+
+Package natbib Warning: Citation `ellgaard2003qce' on page 1 undefined on input
+ line 80.
+
+
+Package natbib Warning: Citation `Fonseca:2009fk' on page 1 undefined on input 
+line 80.
+
+
+Package natbib Warning: Citation `naidoo2009er' on page 1 undefined on input li
+ne 80.
+
+
+Package natbib Warning: Citation `kaufman2002unfolded' on page 1 undefined on i
+nput line 80.
+
+
+Package natbib Warning: Citation `ogata2006aac' on page 1 undefined on input li
+ne 82.
+
+
+Package natbib Warning: Citation `yorimitsu2006ers' on page 1 undefined on inpu
+t line 82.
+
+
+Package natbib Warning: Citation `bernales2006ace' on page 1 undefined on input
+ line 82.
+
+
+Package natbib Warning: Citation `kamimoto2006iic' on page 1 undefined on input
+ line 82.
+
+
+Package natbib Warning: Citation `hoyerhansen2007cmc' on page 1 undefined on in
+put line 82.
+
+
+Package natbib Warning: Citation `kouroku2006esp' on page 1 undefined on input 
+line 82.
+
+
+Package natbib Warning: Citation `fujita2007ter' on page 1 undefined on input l
+ine 82.
+
+
+Package natbib Warning: Citation `Fonseca:2009fk' on page 1 undefined on input 
+line 82.
+
+
+Package natbib Warning: Citation `schnell2009model' on page 1 undefined on inpu
+t line 82.
+
+
+Package natbib Warning: Citation `glembotski2007ers' on page 1 undefined on inp
+ut line 82.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 85.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Package natbib Warning: Citation `Matlack:1998kx' on page 1 undefined on input 
+line 85.
+
+
+Package natbib Warning: Citation `Fedorov:1997ys' on page 1 undefined on input 
+line 86.
+
+
+Package natbib Warning: Citation `ellgaard1999ssq' on page 1 undefined on input
+ line 86.
+
+
+Package natbib Warning: Citation `ellgaard2003qce' on page 1 undefined on input
+ line 86.
+
+
+Package natbib Warning: Citation `ellgaard1999ssq' on page 1 undefined on input
+ line 86.
+
+
+Package natbib Warning: Citation `Hershko:2000kl' on page 1 undefined on input 
+line 86.
+
+
+Package natbib Warning: Citation `fra1993qce' on page 1 undefined on input line
+ 86.
+
+
+Package natbib Warning: Citation `helenius1997cca' on page 1 undefined on input
+ line 86.
+
+
+Package natbib Warning: Citation `hellman1999vab' on page 1 undefined on input 
+line 86.
+
+
+Package natbib Warning: Citation `kaufman2002unfolded' on page 1 undefined on i
+nput line 86.
+
+
+Package natbib Warning: Citation `kaufman2002unfolded' on page 1 undefined on i
+nput line 86.
+
+
+Package natbib Warning: Citation `GETHING1999' on page 1 undefined on input lin
+e 86.
+
+
+Package natbib Warning: Citation `bertolotti2000dib' on page 1 undefined on inp
+ut line 86.
+
+
+Package natbib Warning: Citation `kohno1993pry' on page 1 undefined on input li
+ne 86.
+
+
+Package natbib Warning: Citation `szegezdi2006mediators' on page 1 undefined on
+ input line 86.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `Kebache:2004kx' on page 2 undefined on input 
+line 88.
+
+
+Package natbib Warning: Citation `Merrick:2004lr' on page 2 undefined on input 
+line 88.
+
+
+Package natbib Warning: Citation `harding1999pta' on page 2 undefined on input 
+line 88.
+
+
+Package natbib Warning: Citation `Raven:2008fu' on page 2 undefined on input li
+ne 88.
+
+
+Package natbib Warning: Citation `hamanaka2008pdr' on page 2 undefined on input
+ line 88.
+
+
+Package natbib Warning: Citation `Schroder:2005vn' on page 2 undefined on input
+ line 88.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 88.
+
+Package natbib Warning: Citation `lu2004tra' on page 2 undefined on input line 
+88.
+
+
+Package natbib Warning: Citation `harding2003isr' on page 2 undefined on input 
+line 88.
+
+
+Package natbib Warning: Citation `ron1992cnd' on page 2 undefined on input line
+ 88.
+
+
+Package natbib Warning: Citation `wang272sip' on page 2 undefined on input line
+ 88.
+
+
+Package natbib Warning: Citation `maytin2001sit' on page 2 undefined on input l
+ine 88.
+
+
+Package natbib Warning: Citation `matsumoto1996eec' on page 2 undefined on inpu
+t line 88.
+
+
+Package natbib Warning: Citation `maytin2001sit' on page 2 undefined on input l
+ine 88.
+
+
+Package natbib Warning: Citation `gotoh:hdc' on page 2 undefined on input line 
+88.
+
+
+Package natbib Warning: Citation `mccullough2001gsc' on page 2 undefined on inp
+ut line 88.
+
+[2]
+
+Package natbib Warning: Citation `silver1999mtf' on page 3 undefined on input l
+ine 90.
+
+
+Package natbib Warning: Citation `hai1989tfa' on page 3 undefined on input line
+ 90.
+
+
+Package natbib Warning: Citation `min1995ncf' on page 3 undefined on input line
+ 90.
+
+
+Package natbib Warning: Citation `khanna1996ggc' on page 3 undefined on input l
+ine 90.
+
+
+Package natbib Warning: Citation `kyosuke2001igc' on page 3 undefined on input 
+line 90.
+
+
+Package natbib Warning: Citation `shen2002esr' on page 3 undefined on input lin
+e 90.
+
+
+Package natbib Warning: Citation `shen2002esr' on page 3 undefined on input lin
+e 90.
+
+
+Package natbib Warning: Citation `silver1999mtf' on page 3 undefined on input l
+ine 90.
+
+
+Package natbib Warning: Citation `ye2000esi' on page 3 undefined on input line 
+90.
+
+
+Package natbib Warning: Citation `chen2002lda' on page 3 undefined on input lin
+e 90.
+
+
+Package natbib Warning: Citation `shen2004dsp' on page 3 undefined on input lin
+e 90.
+
+
+Package natbib Warning: Citation `wang2000aaa' on page 3 undefined on input lin
+e 90.
+
+
+Package natbib Warning: Citation `yoshida1998ica' on page 3 undefined on input 
+line 90.
+
+
+Package natbib Warning: Citation `kokame2001iei' on page 3 undefined on input l
+ine 90.
+
+
+Package natbib Warning: Citation `kokame2001iei' on page 3 undefined on input l
+ine 90.
+
+
+Package natbib Warning: Citation `yoshida2000aap' on page 3 undefined on input 
+line 90.
+
+
+Package natbib Warning: Citation `yamamoto2007tim' on page 3 undefined on input
+ line 90.
+
+
+Package natbib Warning: Citation `wu2007aol' on page 3 undefined on input line 
+90.
+
+
+Package natbib Warning: Citation `belmont2008cga' on page 3 undefined on input 
+line 90.
+
+
+Package natbib Warning: Citation `belmont2008cga' on page 3 undefined on input 
+line 90.
+
+
+Package natbib Warning: Citation `wang1999cia' on page 3 undefined on input lin
+e 90.
+
+
+Package natbib Warning: Citation `wang1999cia' on page 3 undefined on input lin
+e 90.
+
+[3]
+
+Package natbib Warning: Citation `kaufman2002unfolded' on page 4 undefined on i
+nput line 93.
+
+
+Package natbib Warning: Citation `tirasophon1998srp' on page 4 undefined on inp
+ut line 93.
+
+
+Package natbib Warning: Citation `tirasophon1998srp' on page 4 undefined on inp
+ut line 93.
+
+
+Package natbib Warning: Citation `wang1998cmi' on page 4 undefined on input lin
+e 93.
+
+
+Package natbib Warning: Citation `cox1993tig' on page 4 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `shamu1996oap' on page 4 undefined on input li
+ne 93.
+
+
+Package natbib Warning: Citation `sidrauski1997tki' on page 4 undefined on inpu
+t line 93.
+
+
+Package natbib Warning: Citation `bertolotti2000dib' on page 4 undefined on inp
+ut line 93.
+
+
+Package natbib Warning: Citation `okamura2000dkb' on page 4 undefined on input 
+line 93.
+
+
+Package natbib Warning: Citation `liu2003sai' on page 4 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `kimata2003ger' on page 4 undefined on input l
+ine 93.
+
+
+Package natbib Warning: Citation `shamu1996oap' on page 4 undefined on input li
+ne 93.
+
+
+Package natbib Warning: Citation `welihinda1996unfolded' on page 4 undefined on
+ input line 93.
+
+
+Package natbib Warning: Citation `weiss1998sso' on page 4 undefined on input li
+ne 93.
+
+
+Package natbib Warning: Citation `papa2003bka' on page 4 undefined on input lin
+e 93.
+
+
+Package natbib Warning: Citation `shen2001csp' on page 4 undefined on input lin
+e 93.
+
+
+Package natbib Warning: Citation `yoshida2001xmi' on page 4 undefined on input 
+line 93.
+
+
+Package natbib Warning: Citation `lee2002imu' on page 4 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `malhotra2007era' on page 4 undefined on input
+ line 93.
+
+
+Package natbib Warning: Citation `rao2004mpe' on page 4 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `Urano:2000uq' on page 4 undefined on input li
+ne 93.
+
+
+Package natbib Warning: Citation `Derijard:1995fk' on page 4 undefined on input
+ line 93.
+
+
+Package natbib Warning: Citation `lei2003jpb' on page 4 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `putcha2003jmb' on page 4 undefined on input l
+ine 93.
+
+
+Package natbib Warning: Citation `yamamoto1999bpa' on page 4 undefined on input
+ line 93.
+
+
+Package natbib Warning: Citation `Wei:2008hc' on page 4 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `Wei:2008hc' on page 4 undefined on input line
+ 93.
+
+[4] [5]
+
+Package natbib Warning: Citation `alnemri1996hic' on page 6 undefined on input 
+line 95.
+
+
+Package natbib Warning: Citation `muzio1998ipm' on page 6 undefined on input li
+ne 95.
+
+
+Package natbib Warning: Citation `wei2001proapoptotic' on page 6 undefined on i
+nput line 95.
+
+
+Package natbib Warning: Citation `nechushtan1999conformation' on page 6 undefin
+ed on input line 95.
+
+
+Package natbib Warning: Citation `szegezdi2006mediators' on page 6 undefined on
+ input line 95.
+
+
+Package natbib Warning: Citation `yoneda2001ace' on page 6 undefined on input l
+ine 95.
+
+
+Package natbib Warning: Citation `nakagawa2000caspase' on page 6 undefined on i
+nput line 95.
+
+
+Package natbib Warning: Citation `Saleh:2006ys' on page 6 undefined on input li
+ne 95.
+
+
+LaTeX Warning: Reference `obj-table' on page 6 undefined on input line 99.
+
+
+LaTeX Warning: Reference `obj-table' on page 6 undefined on input line 99.
+
+[6]
+
+LaTeX Warning: Reference `fg:objective_plot' on page 7 undefined on input line 
+101.
+
+
+Package natbib Warning: Citation `ma2003delineation' on page 7 undefined on inp
+ut line 106.
+
+
+LaTeX Warning: Reference `fg:Flux_Supp_Fig1' on page 7 undefined on input line 
+106.
+
+
+LaTeX Warning: Reference `fg:Flux_Supp_Fig1' on page 7 undefined on input line 
+106.
+
+
+LaTeX Warning: Reference `fg:Flux_Supp_Fig1' on page 7 undefined on input line 
+106.
+
+[7]
+
+LaTeX Warning: Reference `fg:Para_S1' on page 8 undefined on input line 108.
+
+
+LaTeX Warning: Reference `fg:fig5' on page 8 undefined on input line 108.
+
+
+LaTeX Warning: Reference `fg:fig5' on page 8 undefined on input line 108.
+
+
+LaTeX Warning: Reference `fg:fig5' on page 8 undefined on input line 108.
+
+[8]
+
+LaTeX Warning: Reference `fg:Sens_S3' on page 9 undefined on input line 110.
+
+
+LaTeX Warning: Reference `fg:Sens_S3' on page 9 undefined on input line 110.
+
+
+LaTeX Warning: Reference `fg:COUP_S2' on page 9 undefined on input line 110.
+
+
+LaTeX Warning: Reference `fg:COUP_S2' on page 9 undefined on input line 110.
+
+
+Overfull \hbox (1.83922pt too wide) in paragraph at lines 112--112
+[]\OT1/phv/b/n/12 Structural and para-met-ric un-cer-tainty as-so-ci-ated with 
+cur-rent ver-sion of UPR model 
+ []
+
+
+Package natbib Warning: Citation `Lee:1990ye' on page 9 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `Yan:2002fk' on page 9 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `Huizen:2003qo' on page 9 undefined on input l
+ine 113.
+
+
+Package natbib Warning: Citation `szegezdi2006mediators' on page 9 undefined on
+ input line 113.
+
+
+Package natbib Warning: Citation `Novoa:2001mb' on page 9 undefined on input li
+ne 113.
+
+
+Package natbib Warning: Citation `Zhan:1994cq' on page 9 undefined on input lin
+e 113.
+
+
+Package natbib Warning: Citation `Brush:2003kh' on page 9 undefined on input li
+ne 113.
+
+
+Package natbib Warning: Citation `Yoshida:2009bs' on page 9 undefined on input 
+line 113.
+
+
+Package natbib Warning: Citation `Yoshida:2009bs' on page 9 undefined on input 
+line 113.
+
+
+Package natbib Warning: Citation `Yoshida:2006dz' on page 9 undefined on input 
+line 113.
+
+
+Package natbib Warning: Citation `Tirosh:2006fv' on page 9 undefined on input l
+ine 113.
+
+
+Package natbib Warning: Citation `Yoshida:2009bs' on page 9 undefined on input 
+line 113.
+
+
+Package natbib Warning: Citation `Gu:2004kx' on page 9 undefined on input line 
+113.
+
+
+Package natbib Warning: Citation `Luo:2008ly' on page 9 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `Zhang:2004ve' on page 9 undefined on input li
+ne 113.
+
+
+Package natbib Warning: Citation `Luo:2008ly' on page 9 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `Luo:2008ly' on page 9 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `Hetz:2006qf' on page 9 undefined on input lin
+e 113.
+
+
+Package natbib Warning: Citation `Hetz:2006qf' on page 9 undefined on input lin
+e 113.
+
+
+Package natbib Warning: Citation `Xu:1998dq' on page 9 undefined on input line 
+113.
+
+
+Package natbib Warning: Citation `Bailly-Maitre:2006bh' on page 9 undefined on 
+input line 113.
+
+
+Package natbib Warning: Citation `Bailly-Maitre:2006bh' on page 9 undefined on 
+input line 113.
+
+
+Package natbib Warning: Citation `Lisbona:2009cr' on page 9 undefined on input 
+line 113.
+
+
+Package natbib Warning: Citation `Xu:1998dq' on page 9 undefined on input line 
+113.
+
+
+Package natbib Warning: Citation `Marcu:2002oq' on page 9 undefined on input li
+ne 113.
+
+
+Package natbib Warning: Citation `Gupta:2010kl' on page 9 undefined on input li
+ne 113.
+
+
+Package natbib Warning: Citation `mccullough2001gsc' on page 9 undefined on inp
+ut line 113.
+
+
+Package natbib Warning: Citation `mccullough2001gsc' on page 9 undefined on inp
+ut line 113.
+
+[9] [10] [11] [12] (./UPR_Modeling_Supplement_Material.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+(./UPR_Modeling_Supplement_Material.aux)
+
+LaTeX Warning: There were undefined references.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 36 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3125 strings out of 493085
+ 44892 string characters out of 6136917
+ 115926 words of memory out of 5000000
+ 6596 multiletter control sequences out of 15000+600000
+ 13564 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,4n,38p,6389b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
+vetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8
+a.pfb>
+Output written on UPR_Modeling_Supplement_Material.pdf (12 pages, 91496 bytes).
+
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
