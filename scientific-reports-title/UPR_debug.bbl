@@ -430,13 +430,6 @@
   \textbf{\bibinfo{volume}{277}}, \bibinfo{pages}{21836--21842}
   (\bibinfo{year}{2002}).
 
-\bibitem{ma2003delineation}
-\bibinfo{author}{Ma, Y.} \& \bibinfo{author}{Hendershot, L.~M.}
-\newblock \bibinfo{title}{Delineation of a negative feedback regulatory loop
-  that controls protein translation during endoplasmic reticulum stress}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{278}},
-  \bibinfo{pages}{34864--73} (\bibinfo{year}{2003}).
-
 \bibitem{Ameri:2008fk}
 \bibinfo{author}{Ameri, K.} \& \bibinfo{author}{Harris, A.~L.}
 \newblock \bibinfo{title}{Activating transcription factor 4}.
@@ -470,51 +463,6 @@
   \textbf{\bibinfo{volume}{87}}, \bibinfo{pages}{6208--12}
   (\bibinfo{year}{1990}).
 
-\bibitem{Yan:2002fk}
-\bibinfo{author}{Yan, W.} \emph{et~al.}
-\newblock \bibinfo{title}{Control of perk eif2alpha kinase activity by the
-  endoplasmic reticulum stress-induced molecular chaperone p58ipk}.
-\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
-  \textbf{\bibinfo{volume}{99}}, \bibinfo{pages}{15920--5}
-  (\bibinfo{year}{2002}).
-
-\bibitem{Huizen:2003qo}
-\bibinfo{author}{van Huizen, R.}, \bibinfo{author}{Martindale, J.~L.},
-  \bibinfo{author}{Gorospe, M.} \& \bibinfo{author}{Holbrook, N.~J.}
-\newblock \bibinfo{title}{P58ipk, a novel endoplasmic reticulum
-  stress-inducible protein and potential negative regulator of eif2alpha
-  signaling}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{278}},
-  \bibinfo{pages}{15558--64} (\bibinfo{year}{2003}).
-
-\bibitem{Novoa:2001mb}
-\bibinfo{author}{Novoa, I.}, \bibinfo{author}{Zeng, H.},
-  \bibinfo{author}{Harding, H.~P.} \& \bibinfo{author}{Ron, D.}
-\newblock \bibinfo{title}{Feedback inhibition of the unfolded protein response
-  by gadd34-mediated dephosphorylation of eif2alpha}.
-\newblock \emph{\bibinfo{journal}{J Cell Biol}} \textbf{\bibinfo{volume}{153}},
-  \bibinfo{pages}{1011--22} (\bibinfo{year}{2001}).
-
-\bibitem{Zhan:1994cq}
-\bibinfo{author}{Zhan, Q.} \emph{et~al.}
-\newblock \bibinfo{title}{The gadd and myd genes define a novel set of
-  mammalian genes encoding acidic proteins that synergistically suppress cell
-  growth}.
-\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
-  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{2361--71}
-  (\bibinfo{year}{1994}).
-
-\bibitem{Brush:2003kh}
-\bibinfo{author}{Brush, M.~H.}, \bibinfo{author}{Weiser, D.~C.} \&
-  \bibinfo{author}{Shenolikar, S.}
-\newblock \bibinfo{title}{Growth arrest and dna damage-inducible protein gadd34
-  targets protein phosphatase 1 alpha to the endoplasmic reticulum and promotes
-  dephosphorylation of the alpha subunit of eukaryotic translation initiation
-  factor 2}.
-\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
-  \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{1292--303}
-  (\bibinfo{year}{2003}).
-
 \bibitem{Yoshida:2009bs}
 \bibinfo{author}{Yoshida, H.}, \bibinfo{author}{Uemura, A.} \&
   \bibinfo{author}{Mori, K.}
@@ -524,88 +472,12 @@
 \newblock \emph{\bibinfo{journal}{Cell Struct Funct}}
   \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{1--10} (\bibinfo{year}{2009}).
 
-\bibitem{Yoshida:2006dz}
-\bibinfo{author}{Yoshida, H.}, \bibinfo{author}{Oku, M.},
-  \bibinfo{author}{Suzuki, M.} \& \bibinfo{author}{Mori, K.}
-\newblock \bibinfo{title}{pxbp1(u) encoded in xbp1 pre-mrna negatively
-  regulates unfolded protein response activator pxbp1(s) in mammalian er stress
-  response}.
-\newblock \emph{\bibinfo{journal}{J Cell Biol}} \textbf{\bibinfo{volume}{172}},
-  \bibinfo{pages}{565--75} (\bibinfo{year}{2006}).
-
-\bibitem{Tirosh:2006fv}
-\bibinfo{author}{Tirosh, B.}, \bibinfo{author}{Iwakoshi, N.~N.},
-  \bibinfo{author}{Glimcher, L.~H.} \& \bibinfo{author}{Ploegh, H.~L.}
-\newblock \bibinfo{title}{Rapid turnover of unspliced xbp-1 as a factor that
-  modulates the unfolded protein response}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{281}},
-  \bibinfo{pages}{5852--60} (\bibinfo{year}{2006}).
-
-\bibitem{Gu:2004kx}
-\bibinfo{author}{Gu, F.} \emph{et~al.}
-\newblock \bibinfo{title}{Protein-tyrosine phosphatase 1b potentiates ire1
-  signaling during endoplasmic reticulum stress}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{279}},
-  \bibinfo{pages}{49689--93} (\bibinfo{year}{2004}).
-
-\bibitem{Luo:2008ly}
-\bibinfo{author}{Luo, D.} \emph{et~al.}
-\newblock \bibinfo{title}{Aip1 is critical in transducing ire1-mediated
-  endoplasmic reticulum stress response}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{283}},
-  \bibinfo{pages}{11905--12} (\bibinfo{year}{2008}).
-
-\bibitem{Zhang:2004ve}
-\bibinfo{author}{Zhang, H.} \emph{et~al.}
-\newblock \bibinfo{title}{Aip1/dab2ip, a novel member of the ras-gap family,
-  transduces traf2-induced ask1-jnk activation}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{279}},
-  \bibinfo{pages}{44955--65} (\bibinfo{year}{2004}).
-
 \bibitem{Hetz:2006qf}
 \bibinfo{author}{Hetz, C.} \emph{et~al.}
 \newblock \bibinfo{title}{Proapoptotic bax and bak modulate the unfolded
   protein response by a direct interaction with ire1alpha}.
 \newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{312}},
   \bibinfo{pages}{572--6} (\bibinfo{year}{2006}).
-
-\bibitem{Xu:1998dq}
-\bibinfo{author}{Xu, Q.} \& \bibinfo{author}{Reed, J.~C.}
-\newblock \bibinfo{title}{Bax inhibitor-1, a mammalian apoptosis suppressor
-  identified by functional screening in yeast}.
-\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{1}},
-  \bibinfo{pages}{337--46} (\bibinfo{year}{1998}).
-
-\bibitem{Bailly-Maitre:2006bh}
-\bibinfo{author}{Bailly-Maitre, B.} \emph{et~al.}
-\newblock \bibinfo{title}{Cytoprotective gene bi-1 is required for intrinsic
-  protection from endoplasmic reticulum stress and ischemia-reperfusion
-  injury}.
-\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
-  \textbf{\bibinfo{volume}{103}}, \bibinfo{pages}{2809--14}
-  (\bibinfo{year}{2006}).
-
-\bibitem{Lisbona:2009cr}
-\bibinfo{author}{Lisbona, F.} \emph{et~al.}
-\newblock \bibinfo{title}{Bax inhibitor-1 is a negative regulator of the er
-  stress sensor ire1alpha}.
-\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{33}},
-  \bibinfo{pages}{679--91} (\bibinfo{year}{2009}).
-
-\bibitem{Marcu:2002oq}
-\bibinfo{author}{Marcu, M.~G.} \emph{et~al.}
-\newblock \bibinfo{title}{Heat shock protein 90 modulates the unfolded protein
-  response by stabilizing ire1alpha}.
-\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
-  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{8506--13}
-  (\bibinfo{year}{2002}).
-
-\bibitem{Gupta:2010kl}
-\bibinfo{author}{Gupta, S.} \emph{et~al.}
-\newblock \bibinfo{title}{Hsp72 protects cells from er stress-induced apoptosis
-  via enhancement of ire1alpha-xbp1 signaling through a physical interaction}.
-\newblock \emph{\bibinfo{journal}{PLoS Biol}} \textbf{\bibinfo{volume}{8}},
-  \bibinfo{pages}{e1000410} (\bibinfo{year}{2010}).
 
 \bibitem{fonseca1993genetic}
 \bibinfo{author}{Fonseca, C.}, \bibinfo{author}{Fleming, P.} \emph{et~al.}

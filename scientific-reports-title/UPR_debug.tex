@@ -3,21 +3,18 @@
 
 \author[1]{Anirikh Chakrabarti}
 \author[2]{Lina Aboulmouna}
-\author[1,*]{Jeffrey Varner}
-%\author[1,2,+]{Christine Author}
-%\author[2,+]{Derek Author}
+\author[1,2,*]{Jeffrey Varner}
 \affil[1]{Cornell University, School of Chemical and Biomolecular Engineering, Cornell University, Ithaca, NY 14853, USA}
 \affil[2]{Purdue University, School of Chemical Engineering, West Lafayette, IN 47907, USA}
 
 \affil[*]{jdv27@cornell.edu}
 
-%\affil[+]{these authors contributed equally to this work}
 
 %\keywords{Keyword1, Keyword2, Keyword3}
 
 \begin{abstract}
-Cellular stressors routinely lead to malfunctions in the folding state of critical proteins, thereby playing a vital role in disease states like cancer, diabetes and cardiovascular ailments. Newly synthesized proteins must fold and assemble into unique three-dimensional structures, in order to become functionally active. Cells monitor protein folding by an inbuilt quality-control system involving both the Endoplasmic Reticulum (ER) and the Golgi apparatus. Incorrectly folded proteins are tagged for degradation via ER associated degradation (ERAD) or sent back through a refolding cycle. However, accumulation of incorrectly folded proteins can trigger a cascade of events, termed the Unfolded Protein Response (UPR). UPR leads to re-establishing the cellular homeostasis. %This is done by increased transcription of chaperones, reduced translation and cellular apoptosis. 
-In this study, we developed a family of mechanistic models of eukaryotic UPR, which was composed of a system of ordinary differential equations. The objective of this study was to assemble a series of molecular modules describing different aspects of UPR and subsequently analyze these models for fragility and robustness. Kinetic parameters for these models were estimated by comparing simulations with experimental data. Using POETs and a cross-validation scheme, we developed an ensemble of models, consistent with literature data. Model analysis highlighted the presence of a sequential order for firing of the ER stress transducers in UPR. The counteracting effects of the ER stress transducers converge at feedback regulation of the molecular chaperone BiP. The three main regulators of feedback, ATF4, cleaved ATF6 and XBP1s share the load ensuring the phased response of UPR. However these regulators add on to the overall fragility of the system and allow scope for manipulation of UPR as seen by sensitivity/robustness analysis. Downstream effects of UPR include a balance between cell survival and cell death based on the magnitude of the stress. Model analysis suggested that the cell-death axis was relatively robust owing to redundant routes e.g., APAF-1 dependent and APAF-1 independent routes of apoptosis. However the cell-survival axis was relatively susceptible to perturbations owing to multiple levels of regulation, thereby highlighting importance of key proteins like CHOP. 
+%Cellular stressors routinely lead to malfunctions in the folding state of critical proteins, thereby playing a vital role in disease states like cancer, diabetes and cardiovascular ailments. Newly synthesized proteins must fold and assemble into unique three-dimensional structures, in order to become functionally active. Cells monitor protein folding by an inbuilt quality-control system involving both the Endoplasmic Reticulum (ER) and the Golgi apparatus. Incorrectly folded proteins are tagged for degradation via ER associated degradation (ERAD) or sent back through a refolding cycle. However, accumulation of incorrectly folded proteins can trigger a cascade of events, termed the Unfolded Protein Response (UPR). UPR leads to re-establishing the cellular homeostasis. %This is done by increased transcription of chaperones, reduced translation and cellular apoptosis. 
+We developed a family of mechanistic models of the eukaryotic Unfolded Protein Response (UPR), which was composed of a system of ordinary differential equations. The objective of this study was to assemble a series of molecular modules describing different aspects of UPR and subsequently analyze these models for fragility and robustness. Kinetic parameters for these models were estimated by comparing simulations with experimental data. Using POETs and a cross-validation scheme, we developed an ensemble of models, consistent with literature data. Model analysis highlighted the presence of a sequential order for firing of the ER stress transducers in UPR. The counteracting effects of the ER stress transducers converge at feedback regulation of the molecular chaperone BiP. The three main regulators of feedback, ATF4, cleaved ATF6 and XBP1s share the load ensuring the phased response of UPR. However these regulators add on to the overall fragility of the system and allow scope for manipulation of UPR as seen by sensitivity/robustness analysis. Downstream effects of UPR include a balance between cell survival and cell death based on the magnitude of the stress. Model analysis suggested that the cell-death axis was relatively robust owing to redundant routes e.g., APAF-1 dependent and APAF-1 independent routes of apoptosis. However the cell-survival axis was relatively susceptible to perturbations owing to multiple levels of regulation, thereby highlighting importance of key proteins like CHOP. 
 \end{abstract}
 \begin{document}
 
@@ -153,11 +150,11 @@ r_{q}\left(\mathbf{x},k_{q}\right)=k_{q}\prod_{j\in\left\{\mathbf{R}_{q}\right\}
 \end{equation}
 The set $\left\{\mathbf{R}_{q}\right\}$ denotes reactants for reaction $q$ while $\sigma_{jq}$ denotes the stoichiometric coefficient (element of the matrix $\mathbf{S}$) governing species $j$ in reaction $q$. 
 All reversible interactions were split into two irreversible steps. The mass-action formulation, while expanding the dimension of the UPR model, 
-regularized the mathematical structure; this allowed automatic generation of the model code using UNIVERSAL and regularized the unknown model parameters (parameters were one of only three types, association, dissociation or catalytic rate constants).
+regularized the mathematical structure; this allowed automatic generation of the model code using UNIVERSAL and regularized the unknown model parameters (parameters were one of only three types: association, dissociation, or catalytic rate constants).
 UNIVERSAL, an open source Java code generator, generates multiple code types from text and SBML inputs.
 UNIVERSAL is freely available as a Google Code project (http://code.google.com/p/universal-code-generator/). 
 Thus, although mass-action kinetics increased the number of parameters and species, they reduced the complexity of model analysis. 
-In this study, we considered well-mixed nuclear, cytosolic and extracellular compartments. 
+In this study, we considered well-mixed nuclear, cytosolic, and extracellular compartments. 
 The model equations were solved using the LSODE routine in OCTAVE (v 3.1.0; www.octave.org) on an Apple workstation (Apple, Cupertino, CA; OS X v10.6.4). 
 
 Unfolded protein response conditions were simulated by running the model to steady state and then providing a dose of proteins. 
@@ -172,7 +169,7 @@ We used $\Delta{t} = 1$ s and $\gamma$ = 0.001 for all simulations.
 \subsection*{Estimation and cross-validation of a population of models using Pareto Optimal Ensemble Techniques (POETs).}
 POETs is a multiobjective optimization strategy which integrates several local search strategies e.g., Simulated Annealing (SA) or Pattern Search (PS) 
 with a Pareto-rank-based fitness assignment \cite{Song:2010ij}.
-Denote a candidate parameter set at iteration $i+1$ as $\mathbf{k}_{i+1}$. 
+$\mathbf{k}_{i+1}$ denotes a candidate parameter set at iteration $i+1$. 
 The squared error for $\mathbf{k}_{i+1}$ for training set $j$ was defined as:
 \begin{equation}\label{eqn_cost2}
 	E_{j}(\mathbf{k}) = \sum_{i=1}^{\mathcal{T}_{j}}\biggl(\hat{\mathcal{M}}_{ij}-\hat{y}_{ij}(\mathbf{k})\biggr)^2
@@ -262,10 +259,10 @@ if $\alpha\left(i,j,t_{o},t_{f}\right)\ll{1}$ the perturbation \emph{decreased} 
 $\alpha\left(i,j,t_{o},t_{f}\right)\sim{1}$ the perturbation did not influence the marker concentration.
 
 \subsection*{Species clustering and dendrogram.}
-A dendrogram was derived by considering each of the knockouts(over-expressions) as variables and the average log of robustness coefficient (LRC) for each of the species as observations. We used the Euclidean norm in LRC space as the distance metric. The linkage function (objective function for identifying variable clusters) was the inner squared distance (minimum variance algorithm). The Statistical Toolbox of Matlab (The Mathworks, Natick, MA) was used to generate the distances, linkages and the final dendrogram. 
+A dendrogram was derived by considering each of the knockouts(over-expressions) as variables and the average log of robustness coefficient (LRC) for each of the species as observations. We used the Euclidean norm in LRC space as the distance metric. The linkage function (objective function for identifying variable clusters) was the inner squared distance (minimum variance algorithm). The Statistical Toolbox of Matlab (The Mathworks, Natick, MA) was used to generate the distances, linkages, and the final dendrogram. 
 
 \subsection*{Identification of distinguishable species.}
-Robustness coefficients were used to rank-order knockout(overexpression) experiments in terms of the greatest unique responses and identify species which were linearly distinguishable. The response of the knockout(overexpression) was measured in terms of the robustness coefficients. The LRC had desirable linear properties, such that no response (no change in trajectories from wild-type) returns a value of zero and similar negative and positive responses have different directions but similar magnitudes. We considered the unique component of the response to be the orthogonal component in LRC space and the magnitude of the response to be the Euclidean norm. The orthogonal components and there magnitude were identified for each parameter set in the ensemble by first choosing the knockout(overexpression) with the greatest magnitude, $x_{1}$ and placing it in the empty set $\mathcal{V}$. The knockout(overexpression) $x_{1}$ defines the orthogonal directions in the LRC space. We then calculated the orthogonal components for all remaining knockouts(overexpressions) relative to $x_{1}$, and added the knockout(overexpression) species with the greatest orthogonal magnitude to set $\mathcal{V}$. In general the components of all remaining $x_{i}$ orthogonal to set $\mathcal{V}$ were calculated and the largest was moved into set $\mathcal{V}$. This process was continued until all knockout(overexpression) species, $x_{i}$ were added to set $\mathcal{V}$. Mathematically two species were considered distinguishable if and only if they were linearly independent (the orthogonal components were non-zero). We considered a threshold value of one or five and performed a student t-test (Matlab Statistical Toolbox, The Mathworks, Natick, MA) to identify which species had orthogonal components above the threshold with a 95\% confidence over the ensemble. 
+Robustness coefficients were used to rank-order knockout (overexpression) experiments in terms of the greatest unique responses and identify species which were linearly distinguishable. The response of the knockout (overexpression) was measured in terms of the robustness coefficients. The LRC had desirable linear properties, such that no response (no change in trajectories from wild-type) returns a value of zero and similar negative and positive responses have different directions but similar magnitudes. We considered the unique component of the response to be the orthogonal component in LRC space and the magnitude of the response to be the Euclidean norm. The orthogonal components and there magnitude were identified for each parameter set in the ensemble by first choosing the knockout (overexpression) with the greatest magnitude, $x_{1}$ and placing it in the empty set $\mathcal{V}$. The knockout (overexpression) $x_{1}$ defines the orthogonal directions in the LRC space. We then calculated the orthogonal components for all remaining knockouts(overexpressions) relative to $x_{1}$, and added the knockout (overexpression) species with the greatest orthogonal magnitude to set $\mathcal{V}$. In general the components of all remaining $x_{i}$ orthogonal to set $\mathcal{V}$ were calculated and the largest was moved into set $\mathcal{V}$. This process was continued until all knockout (overexpression) species, $x_{i}$ were added to set $\mathcal{V}$. Mathematically two species were considered distinguishable if and only if they were linearly independent (the orthogonal components were non-zero). We considered a threshold value of one or five and performed a student t-test (Matlab Statistical Toolbox, The Mathworks, Natick, MA) to identify which species had orthogonal components above the threshold with a 95\% confidence over the ensemble. 
 
 \bibliography{References_v1}
 
@@ -278,7 +275,7 @@ The content is solely the responsibility of the authors and does not necessarily
 In addition, special thanks to Gaurav Chakravorty and Mansi Singhal for their generous support. 
 
 \section*{Author contributions statement}
-
+J.V. and A.C. conceived t 
 %Must include all authors, identified by initials, for example:
 %A.A. conceived the experiment(s),  A.A. and B.A. conducted the experiment(s), C.A. and D.A. analysed the results.  All authors reviewed the manuscript. 
 

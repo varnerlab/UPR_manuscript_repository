@@ -1,51 +1,292 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: UPR_Modeling_Supplement_Material.aux
-I couldn't open style file biophysj.bst
----line 2 of file UPR_Modeling_Supplement_Material.aux
- : \bibstyle{biophysj
- :                   }
-I'm skipping whatever remains of this command
-I found no style file---while reading file UPR_Modeling_Supplement_Material.aux
-You've used 85 entries,
-            0 wiz_defined-function locations,
-            183 strings with 1882 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+The style file: biophysj.bst
+Database file #1: References.bib
+You're missing a field name---line 5645 of file References.bib
+ : pmidyear = {18570871},
+ :                       2000}}
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring Zhan:1994cq's extra "title" field
+--line 5727 of file References.bib
+Repeated entry---line 5901 of file References.bib
+ : @article{kohno1993pry
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5977 of file References.bib
+ : @article{kaufman2002unfolded
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5995 of file References.bib
+ : @article{naidoo2009er
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6013 of file References.bib
+ : @article{ron2002translational
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6030 of file References.bib
+ : @article{ellgaard2003qce
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6064 of file References.bib
+ : @article{kouroku2006esp
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6084 of file References.bib
+ : @article{fujita2007ter
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6103 of file References.bib
+ : @article{ogata2006aac
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6139 of file References.bib
+ : @article{kamimoto2006iic
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6175 of file References.bib
+ : @article{schnell2009model
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6192 of file References.bib
+ : @article{glembotski2007ers
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6252 of file References.bib
+ : @article{hellman1999vab
+ :                        ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 6297 of file References.bib
+ : NumberYear = {12},
+ :                   1998}}
+I'm skipping whatever remains of this entry
+Repeated entry---line 6476 of file References.bib
+ : @article{bertolotti2000dib
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6557 of file References.bib
+ : @article{lu2004tra
+ :                   ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 6572 of file References.bib
+ : NumberYear = {1},
+ :                  2003}}
+I'm skipping whatever remains of this entry
+Repeated entry---line 6626 of file References.bib
+ : @article{hamanaka2008pdr
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6664 of file References.bib
+ : @article{maytin2001sit
+ :                       ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 6679 of file References.bib
+ : PagesYear = {193-204},
+ :                       1999}}
+I'm skipping whatever remains of this entry
+Repeated entry---line 6708 of file References.bib
+ : @article{matsumoto1996eec
+ :                          ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 6739 of file References.bib
+ : PagesYear = {357-66},
+ :                      2003}}
+I'm skipping whatever remains of this entry
+Repeated entry---line 6766 of file References.bib
+ : @article{silver1999mtf
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6782 of file References.bib
+ : @article{hai1989tfa
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6799 of file References.bib
+ : @article{min1995ncf
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6817 of file References.bib
+ : @article{khanna1996ggc
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6832 of file References.bib
+ : @article{kyosuke2001igc
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6888 of file References.bib
+ : @article{shen2002esr
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6922 of file References.bib
+ : @article{chen2002lda
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6991 of file References.bib
+ : @article{yorimitsu2006ers
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7029 of file References.bib
+ : @article{Yoshida:2009bs
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7060 of file References.bib
+ : @article{kokame2001iei
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7094 of file References.bib
+ : @article{wu2007aol
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7128 of file References.bib
+ : @article{tirasophon1998srp
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7162 of file References.bib
+ : @article{cox1993tig
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7178 of file References.bib
+ : @article{shamu1996oap
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7194 of file References.bib
+ : @article{sidrauski1997tki
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7210 of file References.bib
+ : @article{okamura2000dkb
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7228 of file References.bib
+ : @article{liu2003sai
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7246 of file References.bib
+ : @article{kimata2003ger
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7297 of file References.bib
+ : @article{papa2003bka
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7315 of file References.bib
+ : @article{shen2001csp
+ :                     ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 7366 of file References.bib
+ : Year = {2002},
+ :               2006}}
+I'm skipping whatever remains of this entry
+Repeated entry---line 7408 of file References.bib
+ : @article{rao2004mpe
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7442 of file References.bib
+ : @article{lei2003jpb
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7460 of file References.bib
+ : @article{putcha2003jmb
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7509 of file References.bib
+ : @article{muzio1998ipm
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7543 of file References.bib
+ : @article{nechushtan1999conformation
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7684 of file References.bib
+ : @article{szegezdi2006mediators
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7702 of file References.bib
+ : @article{nakagawa2000caspase
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7847 of file References.bib
+ : @article{ma2003delineation
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8965 of file References.bib
+ : @article{alnemri1996hic
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9064 of file References.bib
+ : @article{belmont2008cga
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9098 of file References.bib
+ : @article{bernales2006ace
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9136 of file References.bib
+ : @article{Fonseca:2009fk
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9708 of file References.bib
+ : @article{helenius1997cca
+ :                         ,
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 9956 of file References.bib
+ : @article
+ :         {zhang2006protein,
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 10386 of file References.bib
+ : @conference
+ :            {fonseca1993genetic,
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 10400 of file References.bib
+ : @conference
+ :            {kohavi1995study,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "wang272sip"
+Warning--I didn't find a database entry for "yamamoto1999bpa"
+Warning--I didn't find a database entry for "yoneda2001ace"
+Warning--I didn't find a database entry for "Huizen:2003qo"
+Warning--I didn't find a database entry for "Zhang:2004ve"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty year in Wei:2008hc
+You've used 99 entries,
+            3176 wiz_defined-function locations,
+            1222 strings with 27220 characters,
+and the built_in function-call counts, 55862 in all, are:
+= -- 3492
+> -- 3846
+< -- 21
++ -- 1242
+- -- 1044
+* -- 4251
+:= -- 8023
+add.period$ -- 297
+call.type$ -- 99
+change.case$ -- 99
+chr.to.int$ -- 99
+cite$ -- 100
+duplicate$ -- 4722
+empty$ -- 4213
+format.name$ -- 1266
+if$ -- 11533
+int.to.chr$ -- 1
+int.to.str$ -- 100
+missing$ -- 1114
+newline$ -- 500
+num.names$ -- 297
+pop$ -- 1510
+preamble$ -- 1
+purify$ -- 99
 quote$ -- 0
-skip$ -- 0
+skip$ -- 913
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 2084
+swap$ -- 2615
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
+type$ -- 693
+warning$ -- 1
+while$ -- 298
 width$ -- 0
-write$ -- 0
-(There were 2 error messages)
+write$ -- 1289
+(There were 59 error messages)

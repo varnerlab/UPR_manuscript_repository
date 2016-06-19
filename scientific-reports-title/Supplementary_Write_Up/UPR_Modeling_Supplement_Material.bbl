@@ -1,0 +1,701 @@
+\begin{thebibliography}{99}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{ }
+
+\bibitem[Naidoo(2009)]{naidoo2009er}
+Naidoo, N., 2009.
+\newblock ER and aging-Protein folding and the ER stress response.
+\newblock \emph{Ageing Res Rev} 8:150--9.
+
+\bibitem[Ron(2002)]{ron2002translational}
+Ron, D., 2002.
+\newblock Translational control in the endoplasmic reticulum stress response.
+\newblock \emph{J Clin Invest} 110:1383--8.
+
+\bibitem[Kaufman et~al.(2002)Kaufman, Scheuner, Schr{\"o}der, Shen, Lee, Liu,
+  and Arnold]{kaufman2002unfolded}
+Kaufman, R.~J., D.~Scheuner, M.~Schr{\"o}der, X.~Shen, K.~Lee, C.~Y. Liu, and
+  S.~M. Arnold, 2002.
+\newblock The unfolded protein response in nutrient sensing and
+  differentiation.
+\newblock \emph{Nat Rev Mol Cell Biol} 3:411--21.
+
+\bibitem[Ellgaard and Helenius(2003)]{ellgaard2003qce}
+Ellgaard, L., and A.~Helenius, 2003.
+\newblock Quality control in the endoplasmic reticulum.
+\newblock \emph{Nat Rev Mol Cell Biol} 4:181--91.
+
+\bibitem[Fonseca et~al.(2009)Fonseca, Burcin, Gromada, and
+  Urano]{Fonseca:2009fk}
+Fonseca, S.~G., M.~Burcin, J.~Gromada, and F.~Urano, 2009.
+\newblock Endoplasmic reticulum stress in beta-cells and development of
+  diabetes.
+\newblock \emph{Curr Opin Pharmacol} 9:763--70.
+
+\bibitem[Ogata et~al.(2006)Ogata, Hino, Saito, Morikawa, Kondo, Kanemoto,
+  Murakami, Taniguchi, Tanii, Yoshinaga, Shiosaka, Hammarback, Urano, and
+  Imaizumi]{ogata2006aac}
+Ogata, M., S.-i. Hino, A.~Saito, K.~Morikawa, S.~Kondo, S.~Kanemoto,
+  T.~Murakami, M.~Taniguchi, I.~Tanii, K.~Yoshinaga, S.~Shiosaka, J.~A.
+  Hammarback, F.~Urano, and K.~Imaizumi, 2006.
+\newblock Autophagy is activated for cell survival after endoplasmic reticulum
+  stress.
+\newblock \emph{Mol Cell Biol} 26:9220--31.
+
+\bibitem[Yorimitsu et~al.(2006)Yorimitsu, Nair, Yang, and
+  Klionsky]{yorimitsu2006ers}
+Yorimitsu, T., U.~Nair, Z.~Yang, and D.~J. Klionsky, 2006.
+\newblock Endoplasmic reticulum stress triggers autophagy.
+\newblock \emph{J Biol Chem} 281:30299--304.
+
+\bibitem[Bernales et~al.(2006)Bernales, McDonald, and Walter]{bernales2006ace}
+Bernales, S., K.~L. McDonald, and P.~Walter, 2006.
+\newblock Autophagy counterbalances endoplasmic reticulum expansion during the
+  unfolded protein response.
+\newblock \emph{PLoS Biol} 4:e423.
+
+\bibitem[Kamimoto et~al.(2006)Kamimoto, Shoji, Hidvegi, Mizushima, Umebayashi,
+  Perlmutter, and Yoshimori]{kamimoto2006iic}
+Kamimoto, T., S.~Shoji, T.~Hidvegi, N.~Mizushima, K.~Umebayashi, D.~H.
+  Perlmutter, and T.~Yoshimori, 2006.
+\newblock Intracellular inclusions containing mutant alpha1-antitrypsin Z are
+  propagated in the absence of autophagic activity.
+\newblock \emph{J Biol Chem} 281:4467--76.
+
+\bibitem[H{\o}yer-Hansen et~al.(2007)H{\o}yer-Hansen, Bastholm, Szyniarowski,
+  Campanella, Szabadkai, Farkas, Bianchi, Fehrenbacher, Elling, Rizzuto,
+  Mathiasen, and J{\"a}{\"a}ttel{\"a}]{hoyerhansen2007cmc}
+H{\o}yer-Hansen, M., L.~Bastholm, P.~Szyniarowski, M.~Campanella, G.~Szabadkai,
+  T.~Farkas, K.~Bianchi, N.~Fehrenbacher, F.~Elling, R.~Rizzuto, I.~S.
+  Mathiasen, and M.~J{\"a}{\"a}ttel{\"a}, 2007.
+\newblock Control of macroautophagy by calcium, calmodulin-dependent kinase
+  kinase-beta, and Bcl-2.
+\newblock \emph{Mol Cell} 25:193--205.
+
+\bibitem[Kouroku et~al.(2007)Kouroku, Fujita, Tanida, Ueno, Isoai, Kumagai,
+  Ogawa, Kaufman, Kominami, and Momoi]{kouroku2006esp}
+Kouroku, Y., E.~Fujita, I.~Tanida, T.~Ueno, A.~Isoai, H.~Kumagai, S.~Ogawa,
+  R.~J. Kaufman, E.~Kominami, and T.~Momoi, 2007.
+\newblock ER stress (PERK/eIF2alpha phosphorylation) mediates the
+  polyglutamine-induced LC3 conversion, an essential step for autophagy
+  formation.
+\newblock \emph{Cell Death Differ} 14:230--9.
+
+\bibitem[Fujita et~al.(2007)Fujita, Kouroku, Isoai, Kumagai, Misutani, Matsuda,
+  Hayashi, and Momoi]{fujita2007ter}
+Fujita, E., Y.~Kouroku, A.~Isoai, H.~Kumagai, A.~Misutani, C.~Matsuda, Y.~K.
+  Hayashi, and T.~Momoi, 2007.
+\newblock Two endoplasmic reticulum-associated degradation (ERAD) systems for
+  the novel variant of the mutant dysferlin: ubiquitin/proteasome ERAD(I) and
+  autophagy/lysosome ERAD(II).
+\newblock \emph{Hum Mol Genet} 16:618--29.
+
+\bibitem[Schnell(2009)]{schnell2009model}
+Schnell, S., 2009.
+\newblock A model of the unfolded protein response: pancreatic beta-cell as a
+  case study.
+\newblock \emph{Cell Physiol Biochem} 23:233--44.
+
+\bibitem[Glembotski(2007)]{glembotski2007ers}
+Glembotski, C.~C., 2007.
+\newblock Endoplasmic reticulum stress in the heart.
+\newblock \emph{Circ Res} 101:975--84.
+
+\bibitem[Matlack et~al.(1998)Matlack, Mothes, and Rapoport]{Matlack:1998kx}
+Matlack, K.~E., W.~Mothes, and T.~A. Rapoport, 1998.
+\newblock Protein translocation: tunnel vision.
+\newblock \emph{Cell} 92:381--90.
+
+\bibitem[Fedorov and Baldwin(1997)]{Fedorov:1997ys}
+Fedorov, A.~N., and T.~O. Baldwin, 1997.
+\newblock Cotranslational protein folding.
+\newblock \emph{J Biol Chem} 272:32715--8.
+
+\bibitem[Ellgaard et~al.(1999)Ellgaard, Molinari, and
+  Helenius]{ellgaard1999ssq}
+Ellgaard, L., M.~Molinari, and A.~Helenius, 1999.
+\newblock Setting the standards: quality control in the secretory pathway.
+\newblock \emph{Science} 286:1882--8.
+
+\bibitem[Hershko et~al.(2000)Hershko, Ciechanover, and
+  Varshavsky]{Hershko:2000kl}
+Hershko, A., A.~Ciechanover, and A.~Varshavsky, 2000.
+\newblock Basic Medical Research Award. The ubiquitin system.
+\newblock \emph{Nat Med} 6:1073--81.
+
+\bibitem[Fra et~al.(1993)Fra, Fagioli, Finazzi, Sitia, and
+  Alberini]{fra1993qce}
+Fra, A.~M., C.~Fagioli, D.~Finazzi, R.~Sitia, and C.~M. Alberini, 1993.
+\newblock Quality control of ER synthesized proteins: an exposed thiol group as
+  a three-way switch mediating assembly, retention and degradation.
+\newblock \emph{EMBO J} 12:4755--61.
+
+\bibitem[Helenius et~al.(1997)Helenius, Trombetta, Hebert, and
+  Simons]{helenius1997cca}
+Helenius, A., E.~Trombetta, D.~Hebert, and J.~Simons, 1997.
+\newblock {Calnexin, calreticulin and the folding of glycoproteins}.
+\newblock \emph{Trends Cell Biol.} 7:193--200.
+
+\bibitem[Hellman et~al.(1999)Hellman, Vanhove, Lejeune, Stevens, and
+  Hendershot]{hellman1999vab}
+Hellman, R., M.~Vanhove, A.~Lejeune, F.~J. Stevens, and L.~M. Hendershot, 1999.
+\newblock The in vivo association of BiP with newly synthesized proteins is
+  dependent on the rate and stability of folding and not simply on the presence
+  of sequences that can bind to BiP.
+\newblock \emph{J Cell Biol} 144:21--30.
+
+\bibitem[Gething(1999)]{GETHING1999}
+Gething, M., 1999.
+\newblock {Role and regulation of the ER chaperone BiP}.
+\newblock \emph{Semin Cell Dev Biol} 10:465--472.
+
+\bibitem[Bertolotti et~al.(2000)Bertolotti, Zhang, Hendershot, Harding, and
+  Ron]{bertolotti2000dib}
+Bertolotti, A., Y.~Zhang, L.~M. Hendershot, H.~P. Harding, and D.~Ron, 2000.
+\newblock Dynamic interaction of BiP and ER stress transducers in the
+  unfolded-protein response.
+\newblock \emph{Nat Cell Biol} 2:326--32.
+
+\bibitem[Kohno et~al.(1993)Kohno, Normington, Sambrook, Gething, and
+  Mori]{kohno1993pry}
+Kohno, K., K.~Normington, J.~Sambrook, M.~J. Gething, and K.~Mori, 1993.
+\newblock The promoter region of the yeast KAR2 (BiP) gene contains a
+  regulatory domain that responds to the presence of unfolded proteins in the
+  endoplasmic reticulum.
+\newblock \emph{Mol Cell Biol} 13:877--90.
+
+\bibitem[Szegezdi et~al.(2006)Szegezdi, Logue, Gorman, and
+  Samali]{szegezdi2006mediators}
+Szegezdi, E., S.~E. Logue, A.~M. Gorman, and A.~Samali, 2006.
+\newblock Mediators of endoplasmic reticulum stress-induced apoptosis.
+\newblock \emph{EMBO Rep} 7:880--5.
+
+\bibitem[Kebache et~al.(2004)Kebache, Cardin, Nguy{\^e}n, Chevet, and
+  Larose]{Kebache:2004kx}
+Kebache, S., E.~Cardin, D.~T. Nguy{\^e}n, E.~Chevet, and L.~Larose, 2004.
+\newblock Nck-1 antagonizes the endoplasmic reticulum stress-induced inhibition
+  of translation.
+\newblock \emph{J Biol Chem} 279:9662--71.
+
+\bibitem[Merrick(2004)]{Merrick:2004lr}
+Merrick, W.~C., 2004.
+\newblock Cap-dependent and cap-independent translation in eukaryotic systems.
+\newblock \emph{Gene} 332:1--11.
+
+\bibitem[Harding et~al.(1999)Harding, Zhang, and Ron]{harding1999pta}
+Harding, H.~P., Y.~Zhang, and D.~Ron, 1999.
+\newblock Protein translation and folding are coupled by an
+  endoplasmic-reticulum-resident kinase.
+\newblock \emph{Nature} 397:271--4.
+
+\bibitem[Raven et~al.(2008)Raven, Baltzis, Wang, Mounir, Papadakis, Gao, and
+  Koromilas]{Raven:2008fu}
+Raven, J.~F., D.~Baltzis, S.~Wang, Z.~Mounir, A.~I. Papadakis, H.~Q. Gao, and
+  A.~E. Koromilas, 2008.
+\newblock PKR and PKR-like endoplasmic reticulum kinase induce the
+  proteasome-dependent degradation of cyclin D1 via a mechanism requiring
+  eukaryotic initiation factor 2alpha phosphorylation.
+\newblock \emph{J Biol Chem} 283:3097--108.
+
+\bibitem[Hamanaka et~al.(2009)Hamanaka, Bobrovnikova-Marjon, Ji, Liebhaber, and
+  Diehl]{hamanaka2008pdr}
+Hamanaka, R.~B., E.~Bobrovnikova-Marjon, X.~Ji, S.~A. Liebhaber, and J.~A.
+  Diehl, 2009.
+\newblock PERK-dependent regulation of IAP translation during ER stress.
+\newblock \emph{Oncogene} 28:910--20.
+
+\bibitem[Schr{\"o}der and Kaufman(2005)]{Schroder:2005vn}
+Schr{\"o}der, M., and R.~J. Kaufman, 2005.
+\newblock The mammalian unfolded protein response.
+\newblock \emph{Annu Rev Biochem} 74:739--89.
+
+\bibitem[Lu et~al.(2004)Lu, Harding, and Ron]{lu2004tra}
+Lu, P.~D., H.~P. Harding, and D.~Ron, 2004.
+\newblock Translation reinitiation at alternative open reading frames regulates
+  gene expression in an integrated stress response.
+\newblock \emph{J Cell Biol} 167:27--33.
+
+\bibitem[Harding et~al.(2003)Harding, Zhang, Zeng, Novoa, Lu, Calfon, Sadri,
+  Yun, Popko, Paules, Stojdl, Bell, Hettmann, Leiden, and Ron]{harding2003isr}
+Harding, H.~P., Y.~Zhang, H.~Zeng, I.~Novoa, P.~D. Lu, M.~Calfon, N.~Sadri,
+  C.~Yun, B.~Popko, R.~Paules, D.~F. Stojdl, J.~C. Bell, T.~Hettmann, J.~M.
+  Leiden, and D.~Ron, 2003.
+\newblock An integrated stress response regulates amino acid metabolism and
+  resistance to oxidative stress.
+\newblock \emph{Mol Cell} 11:619--33.
+
+\bibitem[Ron and Habener(1992)]{ron1992cnd}
+Ron, D., and J.~F. Habener, 1992.
+\newblock CHOP, a novel developmentally regulated nuclear protein that
+  dimerizes with transcription factors C/EBP and LAP and functions as a
+  dominant-negative inhibitor of gene transcription.
+\newblock \emph{Genes Dev} 6:439--53.
+
+\bibitem[Maytin et~al.(2001)Maytin, Ubeda, Lin, and Habener]{maytin2001sit}
+Maytin, E.~V., M.~Ubeda, J.~C. Lin, and J.~F. Habener, 2001.
+\newblock Stress-inducible transcription factor CHOP/gadd153 induces apoptosis
+  in mammalian cells via p38 kinase-dependent and -independent mechanisms.
+\newblock \emph{Exp Cell Res} 267:193--204.
+
+\bibitem[Matsumoto et~al.(1996)Matsumoto, Minami, Takeda, Sakao, and
+  Akira]{matsumoto1996eec}
+Matsumoto, M., M.~Minami, K.~Takeda, Y.~Sakao, and S.~Akira, 1996.
+\newblock Ectopic expression of CHOP (GADD153) induces apoptosis in M1
+  myeloblastic leukemia cells.
+\newblock \emph{FEBS Lett} 395:143--7.
+
+\bibitem[Gotoh et~al.(2001)Gotoh, Terada, and Mori]{gotoh:hdc}
+Gotoh, T., K.~Terada, and M.~Mori, 2001.
+\newblock hsp70-DnaJ chaperone pairs prevent nitric oxide-mediated apoptosis in
+  RAW 264.7 macrophages.
+\newblock \emph{Cell Death Differ} 8:357--66.
+
+\bibitem[McCullough et~al.(2001)McCullough, Martindale, Klotz, Aw, and
+  Holbrook]{mccullough2001gsc}
+McCullough, K.~D., J.~L. Martindale, L.~O. Klotz, T.~Y. Aw, and N.~J. Holbrook,
+  2001.
+\newblock Gadd153 sensitizes cells to endoplasmic reticulum stress by
+  down-regulating Bcl2 and perturbing the cellular redox state.
+\newblock \emph{Mol Cell Biol} 21:1249--59.
+
+\bibitem[Haze et~al.(1999)Haze, Yoshida, Yanagi, Yura, and Mori]{silver1999mtf}
+Haze, K., H.~Yoshida, H.~Yanagi, T.~Yura, and K.~Mori, 1999.
+\newblock Mammalian transcription factor ATF6 is synthesized as a transmembrane
+  protein and activated by proteolysis in response to endoplasmic reticulum
+  stress.
+\newblock \emph{Mol Biol Cell} 10:3787--99.
+
+\bibitem[Hai et~al.(1989)Hai, Liu, Coukos, and Green]{hai1989tfa}
+Hai, T.~W., F.~Liu, W.~J. Coukos, and M.~R. Green, 1989.
+\newblock Transcription factor ATF cDNA clones: an extensive family of leucine
+  zipper proteins able to selectively form DNA-binding heterodimers.
+\newblock \emph{Genes Dev} 3:2083--90.
+
+\bibitem[Min et~al.(1995)Min, Shukla, Kozono, Bronson, Weissman, and
+  Chaplin]{min1995ncf}
+Min, J., H.~Shukla, H.~Kozono, S.~K. Bronson, S.~M. Weissman, and D.~D.
+  Chaplin, 1995.
+\newblock A novel Creb family gene telomeric of HLA-DRA in the HLA complex.
+\newblock \emph{Genomics} 30:149--56.
+
+\bibitem[Khanna and Campbell(1996)]{khanna1996ggc}
+Khanna, A., and R.~D. Campbell, 1996.
+\newblock The gene G13 in the class III region of the human MHC encodes a
+  potential DNA-binding protein.
+\newblock \emph{Biochem J} 319 ( Pt 1):81--9.
+
+\bibitem[Haze et~al.(2001)Haze, Okada, Yoshida, Yanagi, Yura, Negishi, and
+  Mori]{kyosuke2001igc}
+Haze, K., T.~Okada, H.~Yoshida, H.~Yanagi, T.~Yura, M.~Negishi, and K.~Mori,
+  2001.
+\newblock Identification of the G13 (cAMP-response-element-binding
+  protein-related protein) gene product related to activating transcription
+  factor 6 as a transcriptional activator of the mammalian unfolded protein
+  response.
+\newblock \emph{Biochem J} 355:19--28.
+
+\bibitem[Shen et~al.(2002)Shen, Chen, Hendershot, and Prywes]{shen2002esr}
+Shen, J., X.~Chen, L.~Hendershot, and R.~Prywes, 2002.
+\newblock ER stress regulation of ATF6 localization by dissociation of
+  BiP/GRP78 binding and unmasking of Golgi localization signals.
+\newblock \emph{Dev Cell} 3:99--111.
+
+\bibitem[Ye et~al.(2000)Ye, Rawson, Komuro, Chen, Dav{\'e}, Prywes, Brown, and
+  Goldstein]{ye2000esi}
+Ye, J., R.~B. Rawson, R.~Komuro, X.~Chen, U.~P. Dav{\'e}, R.~Prywes, M.~S.
+  Brown, and J.~L. Goldstein, 2000.
+\newblock ER stress induces cleavage of membrane-bound ATF6 by the same
+  proteases that process SREBPs.
+\newblock \emph{Mol Cell} 6:1355--64.
+
+\bibitem[Chen et~al.(2002)Chen, Shen, and Prywes]{chen2002lda}
+Chen, X., J.~Shen, and R.~Prywes, 2002.
+\newblock The luminal domain of ATF6 senses endoplasmic reticulum (ER) stress
+  and causes translocation of ATF6 from the ER to the Golgi.
+\newblock \emph{J Biol Chem} 277:13045--52.
+
+\bibitem[Shen and Prywes(2004)]{shen2004dsp}
+Shen, J., and R.~Prywes, 2004.
+\newblock Dependence of site-2 protease cleavage of ATF6 on prior site-1
+  protease digestion is determined by the size of the luminal domain of ATF6.
+\newblock \emph{J Biol Chem} 279:43046--51.
+
+\bibitem[Wang et~al.(1997)Wang, Shen, Arenzana, Tirasophon, Kaufman, and
+  Prywes]{wang2000aaa}
+Wang, Y., J.~Shen, N.~Arenzana, W.~Tirasophon, R.~J. Kaufman, and R.~Prywes,
+  1997.
+\newblock Activation of ATF6 and an ATF6 DNA binding site by the endoplasmic
+  reticulum stress response.
+\newblock \emph{J Biol Chem} 275:27013--20.
+
+\bibitem[Yoshida et~al.(1998)Yoshida, Haze, Yanagi, Yura, and
+  Mori]{yoshida1998ica}
+Yoshida, H., K.~Haze, H.~Yanagi, T.~Yura, and K.~Mori, 1998.
+\newblock Identification of the cis-acting endoplasmic reticulum stress
+  response element responsible for transcriptional induction of mammalian
+  glucose-regulated proteins. Involvement of basic leucine zipper transcription
+  factors.
+\newblock \emph{J Biol Chem} 273:33741--9.
+
+\bibitem[Kokame et~al.(2001)Kokame, Kato, and Miyata]{kokame2001iei}
+Kokame, K., H.~Kato, and T.~Miyata, 2001.
+\newblock Identification of ERSE-II, a new cis-acting element responsible for
+  the ATF6-dependent mammalian unfolded protein response.
+\newblock \emph{J Biol Chem} 276:9199--205.
+
+\bibitem[Yoshida et~al.(2000)Yoshida, Okada, Haze, Yanagi, Yura, Negishi, and
+  Mori]{yoshida2000aap}
+Yoshida, H., T.~Okada, K.~Haze, H.~Yanagi, T.~Yura, M.~Negishi, and K.~Mori,
+  2000.
+\newblock ATF6 activated by proteolysis binds in the presence of NF-Y (CBF)
+  directly to the cis-acting element responsible for the mammalian unfolded
+  protein response.
+\newblock \emph{Mol Cell Biol} 20:6755--67.
+
+\bibitem[Yamamoto et~al.(2007)Yamamoto, Sato, Matsui, Sato, Okada, Yoshida,
+  Harada, and Mori]{yamamoto2007tim}
+Yamamoto, K., T.~Sato, T.~Matsui, M.~Sato, T.~Okada, H.~Yoshida, A.~Harada, and
+  K.~Mori, 2007.
+\newblock Transcriptional induction of mammalian ER quality control proteins is
+  mediated by single or combined action of ATF6alpha and XBP1.
+\newblock \emph{Dev Cell} 13:365--76.
+
+\bibitem[Wu et~al.(2007)Wu, Rutkowski, Dubois, Swathirajan, Saunders, Wang,
+  Song, Yau, and Kaufman]{wu2007aol}
+Wu, J., D.~T. Rutkowski, M.~Dubois, J.~Swathirajan, T.~Saunders, J.~Wang,
+  B.~Song, G.~D.-Y. Yau, and R.~J. Kaufman, 2007.
+\newblock ATF6alpha optimizes long-term endoplasmic reticulum function to
+  protect cells from chronic stress.
+\newblock \emph{Dev Cell} 13:351--64.
+
+\bibitem[Belmont et~al.(2008)Belmont, Tadimalla, Chen, Martindale, Thuerauf,
+  Marcinko, Gude, Sussman, and Glembotski]{belmont2008cga}
+Belmont, P.~J., A.~Tadimalla, W.~J. Chen, J.~J. Martindale, D.~J. Thuerauf,
+  M.~Marcinko, N.~Gude, M.~A. Sussman, and C.~C. Glembotski, 2008.
+\newblock Coordination of growth and endoplasmic reticulum stress signaling by
+  regulator of calcineurin 1 (RCAN1), a novel ATF6-inducible gene.
+\newblock \emph{J Biol Chem} 283:14012--21.
+
+\bibitem[Wang et~al.(1999)Wang, Pathan, Ethell, Krajewski, Yamaguchi,
+  Shibasaki, McKeon, Bobo, Franke, and Reed]{wang1999cia}
+Wang, H.~G., N.~Pathan, I.~M. Ethell, S.~Krajewski, Y.~Yamaguchi, F.~Shibasaki,
+  F.~McKeon, T.~Bobo, T.~F. Franke, and J.~C. Reed, 1999.
+\newblock Ca2+-induced apoptosis through calcineurin dephosphorylation of BAD.
+\newblock \emph{Science} 284:339--43.
+
+\bibitem[Tirasophon et~al.(1998)Tirasophon, Welihinda, and
+  Kaufman]{tirasophon1998srp}
+Tirasophon, W., A.~A. Welihinda, and R.~J. Kaufman, 1998.
+\newblock A stress response pathway from the endoplasmic reticulum to the
+  nucleus requires a novel bifunctional protein kinase/endoribonuclease (Ire1p)
+  in mammalian cells.
+\newblock \emph{Genes Dev} 12:1812--24.
+
+\bibitem[Wang et~al.(1998)Wang, Harding, Zhang, Jolicoeur, Kuroda, and
+  Ron]{wang1998cmi}
+Wang, X.~Z., H.~P. Harding, Y.~Zhang, E.~M. Jolicoeur, M.~Kuroda, and D.~Ron,
+  1998.
+\newblock Cloning of mammalian Ire1 reveals diversity in the ER stress
+  responses.
+\newblock \emph{EMBO J} 17:5708--17.
+
+\bibitem[Cox et~al.(1993)Cox, Shamu, and Walter]{cox1993tig}
+Cox, J.~S., C.~E. Shamu, and P.~Walter, 1993.
+\newblock Transcriptional induction of genes encoding endoplasmic reticulum
+  resident proteins requires a transmembrane protein kinase.
+\newblock \emph{Cell} 73:1197--206.
+
+\bibitem[Shamu and Walter(1996)]{shamu1996oap}
+Shamu, C.~E., and P.~Walter, 1996.
+\newblock Oligomerization and phosphorylation of the Ire1p kinase during
+  intracellular signaling from the endoplasmic reticulum to the nucleus.
+\newblock \emph{EMBO J} 15:3028--39.
+
+\bibitem[Sidrauski and Walter(1997)]{sidrauski1997tki}
+Sidrauski, C., and P.~Walter, 1997.
+\newblock The transmembrane kinase Ire1p is a site-specific endonuclease that
+  initiates mRNA splicing in the unfolded protein response.
+\newblock \emph{Cell} 90:1031--9.
+
+\bibitem[Okamura et~al.(2000)Okamura, Kimata, Higashio, Tsuru, and
+  Kohno]{okamura2000dkb}
+Okamura, K., Y.~Kimata, H.~Higashio, A.~Tsuru, and K.~Kohno, 2000.
+\newblock Dissociation of Kar2p/BiP from an ER sensory molecule, Ire1p,
+  triggers the unfolded protein response in yeast.
+\newblock \emph{Biochem Biophys Res Commun} 279:445--50.
+
+\bibitem[Liu et~al.(2003)Liu, Xu, and Kaufman]{liu2003sai}
+Liu, C.~Y., Z.~Xu, and R.~J. Kaufman, 2003.
+\newblock Structure and intermolecular interactions of the luminal dimerization
+  domain of human IRE1alpha.
+\newblock \emph{J Biol Chem} 278:17680--7.
+
+\bibitem[Kimata et~al.(2003)Kimata, Kimata, Shimizu, Abe, Farcasanu, Takeuchi,
+  Rose, and Kohno]{kimata2003ger}
+Kimata, Y., Y.~I. Kimata, Y.~Shimizu, H.~Abe, I.~C. Farcasanu, M.~Takeuchi,
+  M.~D. Rose, and K.~Kohno, 2003.
+\newblock Genetic evidence for a role of BiP/Kar2 that regulates Ire1 in
+  response to accumulation of unfolded proteins.
+\newblock \emph{Mol Biol Cell} 14:2559--69.
+
+\bibitem[Welihinda and Kaufman(1996)]{welihinda1996unfolded}
+Welihinda, A.~A., and R.~J. Kaufman, 1996.
+\newblock The unfolded protein response pathway in Saccharomyces cerevisiae.
+  Oligomerization and trans-phosphorylation of Ire1p (Ern1p) are required for
+  kinase activation.
+\newblock \emph{J Biol Chem} 271:18181--7.
+
+\bibitem[Weiss and Schlessinger(1998)]{weiss1998sso}
+Weiss, A., and J.~Schlessinger, 1998.
+\newblock Switching signals on or off by receptor dimerization.
+\newblock \emph{Cell} 94:277--80.
+
+\bibitem[Papa et~al.(2003)Papa, Zhang, Shokat, and Walter]{papa2003bka}
+Papa, F.~R., C.~Zhang, K.~Shokat, and P.~Walter, 2003.
+\newblock Bypassing a kinase activity with an ATP-competitive drug.
+\newblock \emph{Science} 302:1533--7.
+
+\bibitem[Shen et~al.(2001)Shen, Ellis, Lee, Liu, Yang, Solomon, Yoshida,
+  Morimoto, Kurnit, Mori, and Kaufman]{shen2001csp}
+Shen, X., R.~E. Ellis, K.~Lee, C.~Y. Liu, K.~Yang, A.~Solomon, H.~Yoshida,
+  R.~Morimoto, D.~M. Kurnit, K.~Mori, and R.~J. Kaufman, 2001.
+\newblock Complementary signaling pathways regulate the unfolded protein
+  response and are required for C. elegans development.
+\newblock \emph{Cell} 107:893--903.
+
+\bibitem[Yoshida et~al.(2001)Yoshida, Matsui, Yamamoto, Okada, and
+  Mori]{yoshida2001xmi}
+Yoshida, H., T.~Matsui, A.~Yamamoto, T.~Okada, and K.~Mori, 2001.
+\newblock XBP1 mRNA is induced by ATF6 and spliced by IRE1 in response to ER
+  stress to produce a highly active transcription factor.
+\newblock \emph{Cell} 107:881--91.
+
+\bibitem[Lee et~al.(2002)Lee, Tirasophon, Shen, Michalak, Prywes, Okada,
+  Yoshida, Mori, and Kaufman]{lee2002imu}
+Lee, K., W.~Tirasophon, X.~Shen, M.~Michalak, R.~Prywes, T.~Okada, H.~Yoshida,
+  K.~Mori, and R.~J. Kaufman, 2002.
+\newblock IRE1-mediated unconventional mRNA splicing and S2P-mediated ATF6
+  cleavage merge to regulate XBP1 in signaling the unfolded protein response.
+\newblock \emph{Genes Dev} 16:452--66.
+
+\bibitem[Malhotra and Kaufman(2007)]{malhotra2007era}
+Malhotra, J.~D., and R.~J. Kaufman, 2007.
+\newblock The endoplasmic reticulum and the unfolded protein response.
+\newblock \emph{Semin Cell Dev Biol} 18:716--31.
+
+\bibitem[Rao and Bredesen(2004)]{rao2004mpe}
+Rao, R.~V., and D.~E. Bredesen, 2004.
+\newblock Misfolded proteins, endoplasmic reticulum stress and
+  neurodegeneration.
+\newblock \emph{Curr Opin Cell Biol} 16:653--62.
+
+\bibitem[Urano et~al.(2000)Urano, Wang, Bertolotti, Zhang, Chung, Harding, and
+  Ron]{Urano:2000uq}
+Urano, F., X.~Wang, A.~Bertolotti, Y.~Zhang, P.~Chung, H.~P. Harding, and
+  D.~Ron, 2000.
+\newblock Coupling of stress in the ER to activation of JNK protein kinases by
+  transmembrane protein kinase IRE1.
+\newblock \emph{Science} 287:664--6.
+
+\bibitem[D{\'e}rijard et~al.(1995)D{\'e}rijard, Raingeaud, Barrett, Wu, Han,
+  Ulevitch, and Davis]{Derijard:1995fk}
+D{\'e}rijard, B., J.~Raingeaud, T.~Barrett, I.~H. Wu, J.~Han, R.~J. Ulevitch,
+  and R.~J. Davis, 1995.
+\newblock Independent human MAP-kinase signal transduction pathways defined by
+  MEK and MKK isoforms.
+\newblock \emph{Science} 267:682--5.
+
+\bibitem[Lei and Davis(2003)]{lei2003jpb}
+Lei, K., and R.~J. Davis, 2003.
+\newblock JNK phosphorylation of Bim-related members of the Bcl2 family induces
+  Bax-dependent apoptosis.
+\newblock \emph{Proc Natl Acad Sci U S A} 100:2432--7.
+
+\bibitem[Putcha et~al.(2003)Putcha, Le, Frank, Besirli, Clark, Chu, Alix,
+  Youle, LaMarche, Maroney, and Johnson]{putcha2003jmb}
+Putcha, G.~V., S.~Le, S.~Frank, C.~G. Besirli, K.~Clark, B.~Chu, S.~Alix, R.~J.
+  Youle, A.~LaMarche, A.~C. Maroney, and E.~M. Johnson, Jr, 2003.
+\newblock JNK-mediated BIM phosphorylation potentiates BAX-dependent apoptosis.
+\newblock \emph{Neuron} 38:899--914.
+
+\bibitem[Wei et~al.()Wei, Pattingre, Sinha, Bassik, and Levine]{Wei:2008hc}
+Wei, Y., S.~Pattingre, S.~Sinha, M.~Bassik, and B.~Levine.
+\newblock Coupling of stress in the ER to activation of JNK protein kinases by
+  transmembrane protein kinase IRE1.
+\newblock \emph{Mol Cell} .
+
+\bibitem[Alnemri et~al.(1996)Alnemri, Livingston, Nicholson, Salvesen,
+  Thornberry, Wong, and Yuan]{alnemri1996hic}
+Alnemri, E.~S., D.~J. Livingston, D.~W. Nicholson, G.~Salvesen, N.~A.
+  Thornberry, W.~W. Wong, and J.~Yuan, 1996.
+\newblock Human ICE/CED-3 protease nomenclature.
+\newblock \emph{Cell} 87:171.
+
+\bibitem[Muzio et~al.(1998)Muzio, Stockwell, Stennicke, Salvesen, and
+  Dixit]{muzio1998ipm}
+Muzio, M., B.~R. Stockwell, H.~R. Stennicke, G.~S. Salvesen, and V.~M. Dixit,
+  1998.
+\newblock An induced proximity model for caspase-8 activation.
+\newblock \emph{J Biol Chem} 273:2926--30.
+
+\bibitem[Wei et~al.(2001)Wei, Zong, Cheng, Lindsten, Panoutsakopoulou, Ross,
+  Roth, MacGregor, Thompson, and Korsmeyer]{wei2001proapoptotic}
+Wei, M.~C., W.~X. Zong, E.~H. Cheng, T.~Lindsten, V.~Panoutsakopoulou, A.~J.
+  Ross, K.~A. Roth, G.~R. MacGregor, C.~B. Thompson, and S.~J. Korsmeyer, 2001.
+\newblock Proapoptotic BAX and BAK: a requisite gateway to mitochondrial
+  dysfunction and death.
+\newblock \emph{Science} 292:727--30.
+
+\bibitem[Nechushtan et~al.(1999)Nechushtan, Smith, Hsu, and
+  Youle]{nechushtan1999conformation}
+Nechushtan, A., C.~L. Smith, Y.~T. Hsu, and R.~J. Youle, 1999.
+\newblock Conformation of the Bax C-terminus regulates subcellular location and
+  cell death.
+\newblock \emph{EMBO J} 18:2330--41.
+
+\bibitem[Nakagawa et~al.(2000)Nakagawa, Zhu, Morishima, Li, Xu, Yankner, and
+  Yuan]{nakagawa2000caspase}
+Nakagawa, T., H.~Zhu, N.~Morishima, E.~Li, J.~Xu, B.~A. Yankner, and J.~Yuan,
+  2000.
+\newblock Caspase-12 mediates endoplasmic-reticulum-specific apoptosis and
+  cytotoxicity by amyloid-beta.
+\newblock \emph{Nature} 403:98--103.
+
+\bibitem[Saleh et~al.(2006)Saleh, Mathison, Wolinski, Bensinger, Fitzgerald,
+  Droin, Ulevitch, Green, and Nicholson]{Saleh:2006ys}
+Saleh, M., J.~C. Mathison, M.~K. Wolinski, S.~J. Bensinger, P.~Fitzgerald,
+  N.~Droin, R.~J. Ulevitch, D.~R. Green, and D.~W. Nicholson, 2006.
+\newblock Enhanced bacterial clearance and sepsis resistance in
+  caspase-12-deficient mice.
+\newblock \emph{Nature} 440:1064--8.
+
+\bibitem[Ma and Hendershot(2003)]{ma2003delineation}
+Ma, Y., and L.~M. Hendershot, 2003.
+\newblock Delineation of a negative feedback regulatory loop that controls
+  protein translation during endoplasmic reticulum stress.
+\newblock \emph{J Biol Chem} 278:34864--73.
+
+\bibitem[Lee et~al.(1990)Lee, Tomita, Hovanessian, and Katze]{Lee:1990ye}
+Lee, T.~G., J.~Tomita, A.~G. Hovanessian, and M.~G. Katze, 1990.
+\newblock Purification and partial characterization of a cellular inhibitor of
+  the interferon-induced protein kinase of Mr 68,000 from influenza
+  virus-infected cells.
+\newblock \emph{Proc Natl Acad Sci U S A} 87:6208--12.
+
+\bibitem[Yan et~al.(2002)Yan, Frank, Korth, Sopher, Novoa, Ron, and
+  Katze]{Yan:2002fk}
+Yan, W., C.~L. Frank, M.~J. Korth, B.~L. Sopher, I.~Novoa, D.~Ron, and M.~G.
+  Katze, 2002.
+\newblock Control of PERK eIF2alpha kinase activity by the endoplasmic
+  reticulum stress-induced molecular chaperone P58IPK.
+\newblock \emph{Proc Natl Acad Sci U S A} 99:15920--5.
+
+\bibitem[Novoa et~al.(2001)Novoa, Zeng, Harding, and Ron]{Novoa:2001mb}
+Novoa, I., H.~Zeng, H.~P. Harding, and D.~Ron, 2001.
+\newblock Feedback inhibition of the unfolded protein response by
+  GADD34-mediated dephosphorylation of eIF2alpha.
+\newblock \emph{J Cell Biol} 153:1011--22.
+
+\bibitem[Zhan et~al.(19942004)Zhan, Lord, Alamo, Hollander, Carrier, Ron, Kohn,
+  Hoffman, Liebermann, and Fornace]{Zhan:1994cq}
+Zhan, Q., K.~A. Lord, I.~Alamo, Jr, M.~C. Hollander, F.~Carrier, D.~Ron, K.~W.
+  Kohn, B.~Hoffman, D.~A. Liebermann, and A.~J. Fornace, Jr, 19942004.
+\newblock The gadd and MyD genes define a novel set of mammalian genes encoding
+  acidic proteins that synergistically suppress cell growth.
+\newblock \emph{Mol Cell Biol} 14101:2361--71.
+
+\bibitem[Brush et~al.(2003)Brush, Weiser, and Shenolikar]{Brush:2003kh}
+Brush, M.~H., D.~C. Weiser, and S.~Shenolikar, 2003.
+\newblock Growth arrest and DNA damage-inducible protein GADD34 targets protein
+  phosphatase 1 alpha to the endoplasmic reticulum and promotes
+  dephosphorylation of the alpha subunit of eukaryotic translation initiation
+  factor 2.
+\newblock \emph{Mol Cell Biol} 23:1292--303.
+
+\bibitem[Yoshida et~al.(2009)Yoshida, Uemura, and Mori]{Yoshida:2009bs}
+Yoshida, H., A.~Uemura, and K.~Mori, 2009.
+\newblock pXBP1(U), a negative regulator of the unfolded protein response
+  activator pXBP1(S), targets ATF6 but not ATF4 in proteasome-mediated
+  degradation.
+\newblock \emph{Cell Struct Funct} 34:1--10.
+
+\bibitem[Yoshida et~al.(2006)Yoshida, Oku, Suzuki, and Mori]{Yoshida:2006dz}
+Yoshida, H., M.~Oku, M.~Suzuki, and K.~Mori, 2006.
+\newblock pXBP1(U) encoded in XBP1 pre-mRNA negatively regulates unfolded
+  protein response activator pXBP1(S) in mammalian ER stress response.
+\newblock \emph{J Cell Biol} 172:565--75.
+
+\bibitem[Tirosh et~al.(2006)Tirosh, Iwakoshi, Glimcher, and
+  Ploegh]{Tirosh:2006fv}
+Tirosh, B., N.~N. Iwakoshi, L.~H. Glimcher, and H.~L. Ploegh, 2006.
+\newblock Rapid turnover of unspliced Xbp-1 as a factor that modulates the
+  unfolded protein response.
+\newblock \emph{J Biol Chem} 281:5852--60.
+
+\bibitem[Gu et~al.(2004)Gu, Nguy{\^e}n, Stuible, Dub{\'e}, Tremblay, and
+  Chevet]{Gu:2004kx}
+Gu, F., D.~T. Nguy{\^e}n, M.~Stuible, N.~Dub{\'e}, M.~L. Tremblay, and
+  E.~Chevet, 2004.
+\newblock Protein-tyrosine phosphatase 1B potentiates IRE1 signaling during
+  endoplasmic reticulum stress.
+\newblock \emph{J Biol Chem} 279:49689--93.
+
+\bibitem[Luo et~al.(2008)Luo, He, Zhang, Yu, Chen, Xu, Tang, Urano, and
+  Min]{Luo:2008ly}
+Luo, D., Y.~He, H.~Zhang, L.~Yu, H.~Chen, Z.~Xu, S.~Tang, F.~Urano, and W.~Min,
+  2008.
+\newblock AIP1 is critical in transducing IRE1-mediated endoplasmic reticulum
+  stress response.
+\newblock \emph{J Biol Chem} 283:11905--12.
+
+\bibitem[Hetz et~al.(2006)Hetz, Bernasconi, Fisher, Lee, Bassik, Antonsson,
+  Brandt, Iwakoshi, Schinzel, Glimcher, and Korsmeyer]{Hetz:2006qf}
+Hetz, C., P.~Bernasconi, J.~Fisher, A.-H. Lee, M.~C. Bassik, B.~Antonsson,
+  G.~S. Brandt, N.~N. Iwakoshi, A.~Schinzel, L.~H. Glimcher, and S.~J.
+  Korsmeyer, 2006.
+\newblock Proapoptotic BAX and BAK modulate the unfolded protein response by a
+  direct interaction with IRE1alpha.
+\newblock \emph{Science} 312:572--6.
+
+\bibitem[Xu and Reed(2003)]{Xu:1998dq}
+Xu, Q., and J.~C. Reed, 2003.
+\newblock An integrated stress response regulates amino acid metabolism and
+  resistance to oxidative stress.
+\newblock \emph{Mol Cell} 11:619--33.
+
+\bibitem[Bailly-Maitre et~al.(2006)Bailly-Maitre, Fondevila, Kaldas, Droin,
+  Luciano, Ricci, Croxton, Krajewska, Zapata, Kupiec-Weglinski, Farmer, and
+  Reed]{Bailly-Maitre:2006bh}
+Bailly-Maitre, B., C.~Fondevila, F.~Kaldas, N.~Droin, F.~Luciano, J.-E. Ricci,
+  R.~Croxton, M.~Krajewska, J.~M. Zapata, J.~W. Kupiec-Weglinski, D.~Farmer,
+  and J.~C. Reed, 2006.
+\newblock Cytoprotective gene bi-1 is required for intrinsic protection from
+  endoplasmic reticulum stress and ischemia-reperfusion injury.
+\newblock \emph{Proc Natl Acad Sci U S A} 103:2809--14.
+
+\bibitem[Lisbona et~al.(2009)Lisbona, Rojas-Rivera, Thielen, Zamorano, Todd,
+  Martinon, Glavic, Kress, Lin, Walter, Reed, Glimcher, and
+  Hetz]{Lisbona:2009cr}
+Lisbona, F., D.~Rojas-Rivera, P.~Thielen, S.~Zamorano, D.~Todd, F.~Martinon,
+  A.~Glavic, C.~Kress, J.~H. Lin, P.~Walter, J.~C. Reed, L.~H. Glimcher, and
+  C.~Hetz, 2009.
+\newblock BAX inhibitor-1 is a negative regulator of the ER stress sensor
+  IRE1alpha.
+\newblock \emph{Mol Cell} 33:679--91.
+
+\bibitem[Marcu et~al.(2002)Marcu, Doyle, Bertolotti, Ron, Hendershot, and
+  Neckers]{Marcu:2002oq}
+Marcu, M.~G., M.~Doyle, A.~Bertolotti, D.~Ron, L.~Hendershot, and L.~Neckers,
+  2002.
+\newblock Heat shock protein 90 modulates the unfolded protein response by
+  stabilizing IRE1alpha.
+\newblock \emph{Mol Cell Biol} 22:8506--13.
+
+\bibitem[Gupta et~al.(2010)Gupta, Deepti, Deegan, Lisbona, Hetz, and
+  Samali]{Gupta:2010kl}
+Gupta, S., A.~Deepti, S.~Deegan, F.~Lisbona, C.~Hetz, and A.~Samali, 2010.
+\newblock HSP72 protects cells from ER stress-induced apoptosis via enhancement
+  of IRE1alpha-XBP1 signaling through a physical interaction.
+\newblock \emph{PLoS Biol} 8:e1000410.
+
+\end{thebibliography}
