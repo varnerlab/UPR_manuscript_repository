@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 JUN 2016 11:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 JUN 2016 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -965,7 +965,7 @@ LaTeX Warning: Reference `fg:fig2' on page 9 undefined on input line 434.
 
 ] (./Paper_v2.bbl [12
 
-] [13] [14]) [15]
+] [13] [14] [15] [16]) [17]
 Package epstopdf Info: Source file: <./Main_Figures/Pathway_F1.eps>
 (epstopdf)                    date: 2016-06-20 10:05:17
 (epstopdf)                    size: 3912230 bytes
@@ -978,7 +978,7 @@ eps-converted-to.pdf ./Main_Figures/Pathway_F1.eps>
 (epstopdf)             \includegraphics on input line 525.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/Pathway_F1-eps-converted-to.pdf, id=365, 624.3325pt x 671.50874
+<./Main_Figures/Pathway_F1-eps-converted-to.pdf, id=426, 624.3325pt x 671.50874
 pt>
 File: ./Main_Figures/Pathway_F1-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Main_Figures/Pathway_F1-eps-converted-to.pdf>
@@ -997,7 +997,7 @@ converted-to.pdf ./Main_Figures/OBJ_F2.eps>
 (epstopdf)             \includegraphics on input line 531.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/OBJ_F2-eps-converted-to.pdf, id=366, 878.28125pt x 578.16pt>
+<./Main_Figures/OBJ_F2-eps-converted-to.pdf, id=427, 878.28125pt x 578.16pt>
 File: ./Main_Figures/OBJ_F2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Main_Figures/OBJ_F2-eps-converted-to.pdf>
@@ -1016,7 +1016,7 @@ f>
 (epstopdf)             \includegraphics on input line 537.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/TRPR_F3-eps-converted-to.pdf, id=367, 889.3225pt x 924.45375pt>
+<./Main_Figures/TRPR_F3-eps-converted-to.pdf, id=428, 889.3225pt x 924.45375pt>
 File: ./Main_Figures/TRPR_F3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Main_Figures/TRPR_F3-eps-converted-to.pdf>
 Package pdftex.def Info: ./Main_Figures/TRPR_F3-eps-converted-to.pdf used on in
@@ -1034,7 +1034,7 @@ s-converted-to.pdf ./Main_Figures/Proof_F4.eps>
 (epstopdf)             \includegraphics on input line 543.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/Proof_F4-eps-converted-to.pdf, id=368, 782.925pt x 604.2575pt>
+<./Main_Figures/Proof_F4-eps-converted-to.pdf, id=429, 782.925pt x 604.2575pt>
 File: ./Main_Figures/Proof_F4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Main_Figures/Proof_F4-eps-converted-to.pdf>
@@ -1053,7 +1053,7 @@ f>
 (epstopdf)             \includegraphics on input line 552.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/Flux_F5-eps-converted-to.pdf, id=369, 474.77374pt x 579.16376pt
+<./Main_Figures/Flux_F5-eps-converted-to.pdf, id=430, 474.77374pt x 579.16376pt
 >
 File: ./Main_Figures/Flux_F5-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Main_Figures/Flux_F5-eps-converted-to.pdf>
@@ -1061,7 +1061,7 @@ Package pdftex.def Info: ./Main_Figures/Flux_F5-eps-converted-to.pdf used on in
 put line 552.
 (pdftex.def)             Requested size: 400.38872pt x 488.43845pt.
 
-<./Main_Figures/Sens_F1.pdf, id=370, 722.7pt x 578.16pt>
+<./Main_Figures/Sens_F1.pdf, id=431, 722.7pt x 578.16pt>
 File: ./Main_Figures/Sens_F1.pdf Graphic file (type pdf)
 
 <use ./Main_Figures/Sens_F1.pdf>
@@ -1079,19 +1079,26 @@ converted-to.pdf ./Main_Figures/Rob_F7.eps>
 (epstopdf)             \includegraphics on input line 566.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/Rob_F7-eps-converted-to.pdf, id=371, 697.60625pt x 718.685pt>
+<./Main_Figures/Rob_F7-eps-converted-to.pdf, id=432, 697.60625pt x 718.685pt>
 File: ./Main_Figures/Rob_F7-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Main_Figures/Rob_F7-eps-converted-to.pdf>
 Package pdftex.def Info: ./Main_Figures/Rob_F7-eps-converted-to.pdf used on inp
 ut line 566.
 (pdftex.def)             Requested size: 400.38872pt x 412.484pt.
- [16 <./Main_Figures/Pathway_F1-eps-converted-to.pdf>] [17 <./Main_Figures/OBJ_
+ [18 <./Main_Figures/Pathway_F1-eps-converted-to.pdf>] [19 <./Main_Figures/OBJ_
 F2-eps-converted-to.pdf>]
-[18 <./Main_Figures/TRPR_F3-eps-converted-to.pdf>] [19 <./Main_Figures/Proof_F4
--eps-converted-to.pdf>] [20 <./Main_Figures/Flux_F5-eps-converted-to.pdf>]
-[21 <./Main_Figures/Sens_F1.pdf>] [22 <./Main_Figures/Rob_F7-eps-converted-to.p
-df>]
+[20 <./Main_Figures/TRPR_F3-eps-converted-to.pdf>] [21 <./Main_Figures/Proof_F4
+-eps-converted-to.pdf>] [22 <./Main_Figures/Flux_F5-eps-converted-to.pdf>]
+[23 <./Main_Figures/Sens_F1.pdf>] [24 <./Main_Figures/Rob_F7-eps-converted-to.p
+df>] [1
+
+
+]
+Underfull \vbox (badness 4072) has occurred while \output is active []
+
+ [2]
+[3] [4] [5]
 Package epstopdf Info: Source file: <./Supp_Figures/Para_S1.eps>
 (epstopdf)                    date: 2016-06-20 10:05:17
 (epstopdf)                    size: 573845 bytes
@@ -1101,14 +1108,14 @@ f>
 (epstopdf)                    size: 65824 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/Para_S1-eps
 -converted-to.pdf ./Supp_Figures/Para_S1.eps>
-(epstopdf)             \includegraphics on input line 587.
+(epstopdf)             \includegraphics on input line 639.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/Para_S1-eps-converted-to.pdf, id=15265, 721.69624pt x 273.02pt>
+<./Supp_Figures/Para_S1-eps-converted-to.pdf, id=15490, 721.69624pt x 273.02pt>
 File: ./Supp_Figures/Para_S1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Supp_Figures/Para_S1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Supp_Figures/Para_S1-eps-converted-to.pdf used on in
-put line 587.
+put line 639.
 (pdftex.def)             Requested size: 500.484pt x 189.33383pt.
 Package epstopdf Info: Source file: <./Supp_Figures/Flux_S1.eps>
 (epstopdf)                    date: 2016-06-20 10:05:17
@@ -1119,15 +1126,15 @@ f>
 (epstopdf)                    size: 123092 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/Flux_S1-eps
 -converted-to.pdf ./Supp_Figures/Flux_S1.eps>
-(epstopdf)             \includegraphics on input line 593.
+(epstopdf)             \includegraphics on input line 645.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/Flux_S1-eps-converted-to.pdf, id=15266, 745.78625pt x 314.17375
+<./Supp_Figures/Flux_S1-eps-converted-to.pdf, id=15491, 745.78625pt x 314.17375
 pt>
 File: ./Supp_Figures/Flux_S1-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Supp_Figures/Flux_S1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Supp_Figures/Flux_S1-eps-converted-to.pdf used on in
-put line 593.
+put line 645.
 (pdftex.def)             Requested size: 500.484pt x 210.83568pt.
 Package epstopdf Info: Source file: <./Supp_Figures/Sens_S1.eps>
 (epstopdf)                    date: 2016-06-20 10:05:17
@@ -1138,15 +1145,15 @@ f>
 (epstopdf)                    size: 1251134 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/Sens_S1-eps
 -converted-to.pdf ./Supp_Figures/Sens_S1.eps>
-(epstopdf)             \includegraphics on input line 604.
+(epstopdf)             \includegraphics on input line 656.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/Sens_S1-eps-converted-to.pdf, id=15267, 508.90125pt x 415.5525p
+<./Supp_Figures/Sens_S1-eps-converted-to.pdf, id=15492, 508.90125pt x 415.5525p
 t>
 File: ./Supp_Figures/Sens_S1-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Supp_Figures/Sens_S1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Supp_Figures/Sens_S1-eps-converted-to.pdf used on in
-put line 604.
+put line 656.
 (pdftex.def)             Requested size: 500.484pt x 408.69705pt.
 Package epstopdf Info: Source file: <./Supp_Figures/Sens_S3.eps>
 (epstopdf)                    date: 2016-06-20 10:05:17
@@ -1157,15 +1164,15 @@ f>
 (epstopdf)                    size: 146934 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/Sens_S3-eps
 -converted-to.pdf ./Supp_Figures/Sens_S3.eps>
-(epstopdf)             \includegraphics on input line 610.
+(epstopdf)             \includegraphics on input line 662.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/Sens_S3-eps-converted-to.pdf, id=15268, 409.53pt x 652.4375pt>
+<./Supp_Figures/Sens_S3-eps-converted-to.pdf, id=15493, 409.53pt x 652.4375pt>
 File: ./Supp_Figures/Sens_S3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Supp_Figures/Sens_S3-eps-converted-to.pdf>
 Package pdftex.def Info: ./Supp_Figures/Sens_S3-eps-converted-to.pdf used on in
-put line 610.
+put line 662.
 (pdftex.def)             Requested size: 300.29344pt x 478.43573pt.
 Package epstopdf Info: Source file: <./Supp_Figures/TRANS_S1.eps>
 (epstopdf)                    date: 2016-06-20 10:05:17
@@ -1176,15 +1183,15 @@ df>
 (epstopdf)                    size: 61457 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/TRANS_S1-ep
 s-converted-to.pdf ./Supp_Figures/TRANS_S1.eps>
-(epstopdf)             \includegraphics on input line 619.
+(epstopdf)             \includegraphics on input line 670.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/TRANS_S1-eps-converted-to.pdf, id=15269, 680.5425pt x 444.66125
+<./Supp_Figures/TRANS_S1-eps-converted-to.pdf, id=15494, 680.5425pt x 444.66125
 pt>
 File: ./Supp_Figures/TRANS_S1-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Supp_Figures/TRANS_S1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Supp_Figures/TRANS_S1-eps-converted-to.pdf used on i
-nput line 619.
+nput line 670.
 (pdftex.def)             Requested size: 500.484pt x 327.01546pt.
 Package epstopdf Info: Source file: <./Supp_Figures/COUP_S1.eps>
 (epstopdf)                    date: 2016-06-20 10:05:17
@@ -1195,15 +1202,15 @@ f>
 (epstopdf)                    size: 68768 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/COUP_S1-eps
 -converted-to.pdf ./Supp_Figures/COUP_S1.eps>
-(epstopdf)             \includegraphics on input line 625.
+(epstopdf)             \includegraphics on input line 676.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/COUP_S1-eps-converted-to.pdf, id=15270, 1039.885pt x 409.53pt>
+<./Supp_Figures/COUP_S1-eps-converted-to.pdf, id=15495, 1039.885pt x 409.53pt>
 File: ./Supp_Figures/COUP_S1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Supp_Figures/COUP_S1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Supp_Figures/COUP_S1-eps-converted-to.pdf used on in
-put line 625.
+put line 676.
 (pdftex.def)             Requested size: 500.484pt x 197.09706pt.
 Package epstopdf Info: Source file: <./Supp_Figures/COUP_S2.eps>
 (epstopdf)                    date: 2016-06-20 10:05:17
@@ -1214,25 +1221,24 @@ f>
 (epstopdf)                    size: 110568 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/COUP_S2-eps
 -converted-to.pdf ./Supp_Figures/COUP_S2.eps>
-(epstopdf)             \includegraphics on input line 631.
+(epstopdf)             \includegraphics on input line 682.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/COUP_S2-eps-converted-to.pdf, id=15271, 1037.8775pt x 847.165pt
+<./Supp_Figures/COUP_S2-eps-converted-to.pdf, id=15496, 1037.8775pt x 847.165pt
 >
 File: ./Supp_Figures/COUP_S2-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Supp_Figures/COUP_S2-eps-converted-to.pdf>
 Package pdftex.def Info: ./Supp_Figures/COUP_S2-eps-converted-to.pdf used on in
-put line 631.
+put line 682.
 (pdftex.def)             Requested size: 500.484pt x 408.52187pt.
- [1 <./Supp_Figures/Para_S1-eps-converted-to.pdf> <./Supp_Figures/Flux_S1-eps-c
-onverted-to.pdf>] [2 <./Supp_Figures/Sens_S1-eps-converted-to.pdf>] [3 <./Supp_
-Figures/Sens_S3-eps-converted-to.pdf>] [4 <./Supp_Figures/TRANS_S1-eps-converte
-d-to.pdf>] [5 <./Supp_Figures/COUP_S1-eps-converted-to.pdf>] [6 <./Supp_Figures
-/COUP_S2-eps-converted-to.pdf>] (./Tables_v1.tex
+ [6 <./Supp_Figures/Para_S1-eps-converted-to.pdf> <./Supp_Figures/Flux_S1-eps-c
+onverted-to.pdf>] [7 <./Supp_Figures/Sens_S1-eps-converted-to.pdf>] [8 <./Supp_
+Figures/Sens_S3-eps-converted-to.pdf>] [9 <./Supp_Figures/TRANS_S1-eps-converte
+d-to.pdf>] [10 <./Supp_Figures/COUP_S1-eps-converted-to.pdf>] [11 <./Supp_Figur
+es/COUP_S2-eps-converted-to.pdf>] (./Tables_v1.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
- [7
-
+ [12
 
 
 ]
@@ -1292,30 +1298,30 @@ Underfull \hbox (badness 1648) in paragraph at lines 94--94
 
 ) 
 AED: lastpage setting LastPage
-[8
+[13
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 644.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 644.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 695.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 695.
  (./Paper_v2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 644.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 644.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 695.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 695.
 Package rerunfilecheck Info: File `Paper_v2.out' has not changed.
 (rerunfilecheck)             Checksum: 7B941684FF458FE464B7CE183DBFE401;49.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 644.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 695.
  ) 
 Here is how much of TeX's memory you used:
- 12342 strings out of 493089
- 183936 string characters out of 6134842
- 455419 words of memory out of 5000000
- 15164 multiletter control sequences out of 15000+600000
- 70333 words of font info for 286 fonts, out of 8000000 for 9000
+ 12465 strings out of 493089
+ 185873 string characters out of 6134842
+ 457324 words of memory out of 5000000
+ 15217 multiletter control sequences out of 15000+600000
+ 71137 words of font info for 294 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,45p,1759b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,12n,45p,6366b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -1328,10 +1334,10 @@ s/type1/urw/symbol/usyr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw
 /symbol/usyr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb
 8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Paper_v2.pdf (30 pages, 9969703 bytes).
+Output written on Paper_v2.pdf (37 pages, 10014140 bytes).
 PDF statistics:
- 18925 PDF objects out of 22161 (max. 8388607)
- 17013 compressed objects within 171 object streams
- 144 named destinations out of 1000 (max. 500000)
+ 19165 PDF objects out of 22161 (max. 8388607)
+ 17244 compressed objects within 173 object streams
+ 202 named destinations out of 1000 (max. 500000)
  42063 words of extra memory for PDF output out of 42996 (max. 10000000)
 
