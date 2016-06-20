@@ -315,29 +315,6 @@
   \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{8469--78}
   (\bibinfo{year}{1999}).
 
-\bibitem{Schoeberl:2002rv}
-\bibinfo{author}{Schoeberl, B.}, \bibinfo{author}{Eichler-Jonsson, C.},
-  \bibinfo{author}{Gilles, E.~D.} \& \bibinfo{author}{M{\"u}ller, G.}
-\newblock \bibinfo{title}{Computational modeling of the dynamics of the map
-  kinase cascade activated by surface and internalized egf receptors}.
-\newblock \emph{\bibinfo{journal}{Nat Biotechnol}}
-  \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{370--5}
-  (\bibinfo{year}{2002}).
-
-\bibitem{Chen:2009uq}
-\bibinfo{author}{Chen, W.~W.} \emph{et~al.}
-\newblock \bibinfo{title}{Input-output behavior of erbb signaling pathways as
-  revealed by a mass action model trained against dynamic data}.
-\newblock \emph{\bibinfo{journal}{Mol Syst Biol}} \textbf{\bibinfo{volume}{5}},
-  \bibinfo{pages}{239} (\bibinfo{year}{2009}).
-
-\bibitem{Helmy:2009kx}
-\bibinfo{author}{Helmy, M.} \emph{et~al.}
-\newblock \bibinfo{title}{Predicting novel features of toll-like receptor 3
-  signaling in macrophages}.
-\newblock \emph{\bibinfo{journal}{PLoS One}} \textbf{\bibinfo{volume}{4}},
-  \bibinfo{pages}{e4661} (\bibinfo{year}{2009}).
-
 \bibitem{Song:2010ij}
 \bibinfo{author}{Song, S.~O.}, \bibinfo{author}{Chakrabarti, A.} \&
   \bibinfo{author}{Varner, J.~D.}

@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Paper_v2.aux
 The style file: naturemag.bst
 Database file #1: References_v1.bib
-You've used 136 entries,
+You've used 133 entries,
             2348 wiz_defined-function locations,
-            1755 strings with 39411 characters,
-and the built_in function-call counts, 55910 in all, are:
-= -- 3850
-> -- 1476
+            1738 strings with 38640 characters,
+and the built_in function-call counts, 54745 in all, are:
+= -- 3774
+> -- 1444
 < -- 1
-+ -- 738
-- -- 369
-* -- 7149
-:= -- 6189
-add.period$ -- 407
-call.type$ -- 136
-change.case$ -- 140
++ -- 722
+- -- 361
+* -- 6998
+:= -- 6058
+add.period$ -- 398
+call.type$ -- 133
+change.case$ -- 137
 chr.to.int$ -- 0
-cite$ -- 136
-duplicate$ -- 5008
-empty$ -- 5134
-format.name$ -- 496
-if$ -- 11252
+cite$ -- 133
+duplicate$ -- 4897
+empty$ -- 5027
+format.name$ -- 485
+if$ -- 11021
 int.to.chr$ -- 0
-int.to.str$ -- 136
-missing$ -- 1184
-newline$ -- 687
-num.names$ -- 136
-pop$ -- 737
+int.to.str$ -- 133
+missing$ -- 1158
+newline$ -- 672
+num.names$ -- 133
+pop$ -- 722
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 810
+skip$ -- 793
 stack$ -- 0
-substring$ -- 2671
-swap$ -- 5141
+substring$ -- 2632
+swap$ -- 5028
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 285
-width$ -- 139
-write$ -- 1501
+while$ -- 279
+width$ -- 136
+write$ -- 1468
