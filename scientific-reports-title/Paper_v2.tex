@@ -231,50 +231,50 @@ To better understand the response of UPR to a perturbation, we performed robustn
 % Upon ATF6 and XBP1s feedback KO, there wasn't much change in terms of sensitivity of the system. This further attests the key regulatory effect of ATF4 in mediating the positive BiP feedback which is an essential component of the adaptation phase of UPR.
 % Another interesting observation was that when we completely knockout all the feedback branches of BiP in the adaptation phase, the system overall becomes relatively more robust (supplementary materials Fig. \ref{fg:Sens_S3}).
 % We distinctly saw a major shift of sensitivity of BiP upon removal of positive feedback.
+%Phenotypic behavior of the UPR models were analyzed as a result of perturbation using downstream markers like Caspase 3 (marker for cell death), Bcl2 (marker for cell-survival) and other key signal integrators of the signals from ER stress transducers e.g., XBP1s, CHOP and ATF4.
+%Overall, we found that in the survival-death phenotypic plane, the pro-death phenotype ( was seen to be relatively robust to structural (both GKO, GOX and Edge KO) perturbations.
+%This behavior is attributed to the dominant role of PERK-ATF4 mediated regulation of CHOP which downstream leads to down-regulation of Bcl2 levels (seen earlier in signal analysis results, supplementary information).
 
 
-\subsection*{Robustness analysis predicted the phenotypic consequence of structural perturbations to the UPR network.}
-We calculated the direction of unfolded protein load induced concentration shifts for 636 markers following single parameter knockouts (Edge KO), single gene knockouts (GKO), and single gene overexpression (GOX) to the UPR network for the nominal parameter set (Fig. \ref{fg:robustness_figure}).
-Robustness coefficients were used to quantify the effect of structural perturbations on network markers.
+\subsection*{Robustness analysis predicted fragile and robust structural perturbations to the UPR network}
+Robustness coefficients quantify the response of a protein marker to a macroscopic structural or operational perturbation to a biochemical network.
+We quantified shifts for 636 markers following single parameter knockouts (edge KO), single gene knockouts (GKO), and single gene overexpression (GOX) in the presence of ER stress (Fig. \ref{fg:robustness_figure}).
 Coefficients with values $>$ 1 ($<$ 1) indicated a marker increased (decreased) compared to the basal state, while a value $\sim$ 1 indicated approximately no change following a perturbation.
-Phenotypic behavior of the UPR models were analyzed as a result of perturbation using downstream markers like Caspase 3 (marker for cell death), Bcl2 (marker for cell-survival) and other key signal integrators of the signals from ER stress transducers e.g., XBP1s, CHOP and ATF4.
-Overall, we found that in the survival-death phenotypic plane, the pro-death phenotype (marked by robustness coefficients $>$ 1 for Caspase 3) was seen to be relatively robust to structural (both GKO, GOX and Edge KO) perturbations.
-Few perturbations lead to increased Caspase 3 levels, e.g., overexpression of Procaspases 9/3 (Fig \ref{fg:robustness_figure} A, Table \ref{KO-O-table}).
-This robustness of the apoptotic marker caspase 3, can be attributed to the redundant sources of cell death (e.g., APAF-1 dependent and APAF-1 independent strategies).
-To confirm this we ran simulated APAF-1 KOs over the entire ensemble (supplementary materials Fig. \ref{fg:COUP_S1}). We found that there were two populations of cells in the ensemble: population 1 where APAF-1 was the dominant regulator of cell-death (marked by enhanced reduction in caspase 3 upon APAF-1 KO) and population 2 where APAF-1 is not the most dominant regulator (marked by reduced effect on Caspase 3 upon APAF-1 KO) (supplementary materials Fig. \ref{fg:COUP_S1}).
-This behavior is consistent based on the training data from Sak2 cells (APAF-1 $-ve$ cells) \cite{rao2002cer}.
+The cell death program (marked by robustness coefficients for caspase 3) was robust; few perturbations increased caspase 3 levels, e.g., overexpression of Procaspases 9/3 (Fig \ref{fg:robustness_figure} A, Table \ref{KO-O-table}).
+The robustness of caspase 3, follwed from the redundant sources of cell death (e.g., APAF-1 dependent and independent pathways).
+To confirm this, we simulated APAF-1 KOs over the entire ensemble (Fig. \ref{fg:COUP_S1}).
+We found two populations of cells in the ensemble: population 1 where APAF-1 was the dominant regulator of cell-death (marked by reduction in caspase 3 upon APAF-1 KO),
+and population 2 where APAF-1 was not dominant regulator.
+This behavior was consistent with the training data from Sak2 cells (APAF-1 $-ve$ cells) \cite{rao2002cer}.
 Interestingly, manipulation of the pro-survival axis via regulation of Bcl2 was possible (Fig \ref{fg:robustness_figure}A, Table \ref{KO-O-table}).
-For example, KO of PERK/ATF4 signaling components led to increased Bcl2 marker levels (Fig \ref{fg:robustness_figure}A).
-This behavior is attributed to the dominant role of PERK-ATF4 mediated regulation of CHOP which downstream leads to down-regulation of Bcl2 levels (seen earlier in signal analysis results, supplementary information).
-
-Robustness analysis allowed us to investigate complex network properties like redundancy and crosstalk.
-For example, the direct correlation between ATF4 and CHOP was further noted in the ATF4-CHOP phenotypic plane.
-Any perturbations affecting ATF4 affected CHOP levels in the same manner (reduction in ATF4 levels lead to reduced levels of CHOP) (Fig. \ref{fg:robustness_figure}A-B).
+For example, deletion of the PERK/ATF4 signaling axes increased Bcl2 levels by removing CHOP repression (Fig. \ref{fg:robustness_figure}A).
+The direct correlation between ATF4 and CHOP was further observed in the ATF4-CHOP phenotypic plane.
+Perturbations affecting ATF4 affected CHOP levels in the same manner (Fig. \ref{fg:robustness_figure}A-B).
 However, owing to redundant sources of CHOP regulation (e.g., via XBP1s), effect on CHOP was damped in relation to significant changes in ATF4 levels.
 In the XBP1s-CHOP plane, we see at lower levels of XBP1s and CHOP, there is a direct relation between XBP1s levels and CHOP levels.
 However, there exists very few strategies of having both high XBP1s levels and CHOP levels indicating that higher XBP1s doesn't necessarily mean higher CHOP levels.
 To further investigate the implications of the feedback regulation of BiP via ATF4/ATF6/XBP1s, we simulated KOs of these components over the entire ensemble (data not shown).
-Upon knockout of BiP feedback, BiP regulation was found to be very strong resulting in drastic reductions in BiP levels and ultimately a stronger and faster UPR response (supplementary materials Fig. \ref{fg:COUP_S2}).
+Upon knockout of BiP feedback, BiP regulation was found to be very strong resulting in drastic reductions in BiP levels and ultimately a stronger and faster UPR response (Fig. \ref{fg:COUP_S2}).
 
-\iffalse (supplementary materials Fig. \ref{fg:COUP_S2}). KO of ATF6 and XBP1s mediated feedback of BiP was seen to have little effect (as marked by robustness coefficients for BiP, supplementary materials Fig. \ref{fg:COUP_S2}).
-However, ATF4 mediated feedback KO led to significant amount of reduction in BiP levels (supplementary materials Fig. \ref{fg:COUP_S2}) thereby highlighting the significance of ATF4 in BiP feedback.
-Upon KO of all branches of BiP feedback, we found overall reductions of BiP levels.
-However, there were two distinct populations. One with a $\sim$ 10 fold reduction in BiP levels while the other had $\sim$ 1000 fold reduction in BiP levels.
-These two populations could resemble two distinct operational paradigms within UPR. In the first mode of operation feedback, BiP regulation is really strong resulting in drastic reductions in BiP levels and ultimately a stronger and faster UPR response upon knockout of BiP feedback.
-\fi
 
+% KO of ATF6 and XBP1s mediated feedback of BiP was seen to have little effect (as marked by robustness coefficients for BiP, supplementary materials Fig. \ref{fg:COUP_S2}).
+% However, ATF4 mediated feedback KO led to significant amount of reduction in BiP levels (supplementary materials Fig. \ref{fg:COUP_S2}) thereby highlighting the significance of ATF4 in BiP feedback.
+% Upon KO of all branches of BiP feedback, we found overall reductions of BiP levels.
+% However, there were two distinct populations. One with a $\sim$ 10 fold reduction in BiP levels while the other had $\sim$ 1000 fold reduction in BiP levels.
+% These two populations could resemble two distinct operational paradigms within UPR.
+% In the first mode of operation feedback, BiP regulation is really strong resulting in drastic reductions in BiP levels and ultimately a stronger and faster UPR response upon knockout of BiP feedback.
 %As in Fig. , dendrogram of the single GKOs revealed clusters with inherent functional relationships.
 
-Global analysis of the gene knockout robustness coefficients by clustering to minimize the variance, provided systems-level insight into the UPR network (Fig. \ref{fg:robustness_figure}C).
-For example, the most distinct separation was between unfolded protein sensing and IRE1/PERK signal initiation from the rest of the knockouts. P
-ERK/ATF4 branch as seen earlier, plays a dominant role in the regulation of BiP and CHOP upon the onset of UPR.
-Similarly, IRE1/TRAF2 signaling axis is valuable to the apoptosis module.
+Clustering of the gene knockout robustness coefficients provided systems-level insight into UPR (Fig. \ref{fg:robustness_figure}C).
+The most distinct separation was between the ATF6 and IRE1/PERK branches.
+PERK/ATF4 plays a dominant role in the regulation of BiP and CHOP upon the onset of UPR.
+Similarly, the IRE1/TRAF2 signaling axis induced apoptosis.
 Another interesting functional module was that of CHOP, involving p38MAPK which leads to down-regulation of Bcl2 levels which considerably affects the apoptosis module.
-We computed the magnitude of the orthogonal components of the single GKO coefficients (Fig. \ref{fg:robustness_figure}C Inset). The orthogonal component was used to establish the uniqueness of the knockout.
-All the single GKOs were found to have orthogonal components greater than one ($>$ 1) with a 95\% confidence. KO of BiP, Procaspase 9, IRE1, PERK and TRAF2 were some of the knockouts which produced the most unique effects.
-This is in accord to the critical role of BiP in initiating and further regulating the time scale of progression and the ultimate result of the UPR response.
-So PERK via ATF4 plays a key role in regulation of BiP, is rightly seen to have a major effect as compared to other GKOs.
-Similarly, regulation of the apoptosis branch via IRE1-TRAF2 and Procaspase 9 rightly were seen to have the most effect as compared to other GKOs.
+We computed the magnitude of the orthogonal components, which was used to establish the uniqueness of a single gene knockout (Fig. \ref{fg:robustness_figure}C Inset).
+BiP, Procaspase 9, IRE1, PERK and TRAF2 knockouts produced the most unique effects.
+This was supported by the critical role of BiP in initiating and regulating the time scale of the UPR response.
+PERK (via ATF4) plays a key role in the regulation of BiP, thus its uniqueness.
+Similarly, the regulation of the apoptosis branch via IRE1-TRAF2 and Procaspase 9 were the amongst the most unique.
 
 % To further investigate the extent of CHOP mediated down-regulation of Bcl2, we simulated CHOP KOs over the entire ensemble (supplementary materials Fig. \ref{fg:COUP_S1}).
 % We identified two distinct populations within the ensembles. One with a strong effect of CHOP mediated down-regulation of Bcl2 (marked by $\sim$ 10 fold increase in Bcl2 levels) and the other with very little effect of CHOP on Bcl2 levels.

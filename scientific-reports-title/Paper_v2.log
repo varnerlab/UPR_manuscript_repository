@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 JUN 2016 14:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 JUN 2016 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -976,7 +976,7 @@ eps-converted-to.pdf ./Main_Figures/Pathway_F1.eps>
 (epstopdf)             \includegraphics on input line 547.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/Pathway_F1-eps-converted-to.pdf, id=413, 624.3325pt x 671.50874
+<./Main_Figures/Pathway_F1-eps-converted-to.pdf, id=412, 624.3325pt x 671.50874
 pt>
 File: ./Main_Figures/Pathway_F1-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Main_Figures/Pathway_F1-eps-converted-to.pdf>
@@ -995,7 +995,7 @@ converted-to.pdf ./Main_Figures/OBJ_F2.eps>
 (epstopdf)             \includegraphics on input line 553.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/OBJ_F2-eps-converted-to.pdf, id=414, 878.28125pt x 578.16pt>
+<./Main_Figures/OBJ_F2-eps-converted-to.pdf, id=413, 878.28125pt x 578.16pt>
 File: ./Main_Figures/OBJ_F2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Main_Figures/OBJ_F2-eps-converted-to.pdf>
@@ -1014,7 +1014,7 @@ f>
 (epstopdf)             \includegraphics on input line 559.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/TRPR_F3-eps-converted-to.pdf, id=415, 889.3225pt x 924.45375pt>
+<./Main_Figures/TRPR_F3-eps-converted-to.pdf, id=414, 889.3225pt x 924.45375pt>
 File: ./Main_Figures/TRPR_F3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Main_Figures/TRPR_F3-eps-converted-to.pdf>
 Package pdftex.def Info: ./Main_Figures/TRPR_F3-eps-converted-to.pdf used on in
@@ -1032,7 +1032,7 @@ s-converted-to.pdf ./Main_Figures/Proof_F4.eps>
 (epstopdf)             \includegraphics on input line 565.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/Proof_F4-eps-converted-to.pdf, id=416, 782.925pt x 604.2575pt>
+<./Main_Figures/Proof_F4-eps-converted-to.pdf, id=415, 782.925pt x 604.2575pt>
 File: ./Main_Figures/Proof_F4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Main_Figures/Proof_F4-eps-converted-to.pdf>
@@ -1051,7 +1051,7 @@ f>
 (epstopdf)             \includegraphics on input line 574.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/Flux_F5-eps-converted-to.pdf, id=417, 474.77374pt x 579.16376pt
+<./Main_Figures/Flux_F5-eps-converted-to.pdf, id=416, 474.77374pt x 579.16376pt
 >
 File: ./Main_Figures/Flux_F5-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Main_Figures/Flux_F5-eps-converted-to.pdf>
@@ -1059,7 +1059,7 @@ Package pdftex.def Info: ./Main_Figures/Flux_F5-eps-converted-to.pdf used on in
 put line 574.
 (pdftex.def)             Requested size: 400.38872pt x 488.43845pt.
 
-<./Main_Figures/Sens_F1.pdf, id=418, 722.7pt x 578.16pt>
+<./Main_Figures/Sens_F1.pdf, id=417, 722.7pt x 578.16pt>
 File: ./Main_Figures/Sens_F1.pdf Graphic file (type pdf)
 
 <use ./Main_Figures/Sens_F1.pdf>
@@ -1077,7 +1077,7 @@ converted-to.pdf ./Main_Figures/Rob_F7.eps>
 (epstopdf)             \includegraphics on input line 588.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Main_Figures/Rob_F7-eps-converted-to.pdf, id=419, 697.60625pt x 718.685pt>
+<./Main_Figures/Rob_F7-eps-converted-to.pdf, id=418, 697.60625pt x 718.685pt>
 File: ./Main_Figures/Rob_F7-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Main_Figures/Rob_F7-eps-converted-to.pdf>
@@ -1109,7 +1109,7 @@ f>
 (epstopdf)             \includegraphics on input line 661.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/Para_S1-eps-converted-to.pdf, id=15477, 721.69624pt x 273.02pt>
+<./Supp_Figures/Para_S1-eps-converted-to.pdf, id=15476, 721.69624pt x 273.02pt>
 File: ./Supp_Figures/Para_S1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Supp_Figures/Para_S1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Supp_Figures/Para_S1-eps-converted-to.pdf used on in
@@ -1127,7 +1127,7 @@ f>
 (epstopdf)             \includegraphics on input line 667.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/Flux_S1-eps-converted-to.pdf, id=15478, 745.78625pt x 314.17375
+<./Supp_Figures/Flux_S1-eps-converted-to.pdf, id=15477, 745.78625pt x 314.17375
 pt>
 File: ./Supp_Figures/Flux_S1-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Supp_Figures/Flux_S1-eps-converted-to.pdf>
@@ -1146,7 +1146,7 @@ f>
 (epstopdf)             \includegraphics on input line 678.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/Sens_S1-eps-converted-to.pdf, id=15479, 508.90125pt x 415.5525p
+<./Supp_Figures/Sens_S1-eps-converted-to.pdf, id=15478, 508.90125pt x 415.5525p
 t>
 File: ./Supp_Figures/Sens_S1-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Supp_Figures/Sens_S1-eps-converted-to.pdf>
@@ -1165,7 +1165,7 @@ f>
 (epstopdf)             \includegraphics on input line 684.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/Sens_S3-eps-converted-to.pdf, id=15480, 409.53pt x 652.4375pt>
+<./Supp_Figures/Sens_S3-eps-converted-to.pdf, id=15479, 409.53pt x 652.4375pt>
 File: ./Supp_Figures/Sens_S3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Supp_Figures/Sens_S3-eps-converted-to.pdf>
@@ -1184,7 +1184,7 @@ s-converted-to.pdf ./Supp_Figures/TRANS_S1.eps>
 (epstopdf)             \includegraphics on input line 692.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/TRANS_S1-eps-converted-to.pdf, id=15481, 680.5425pt x 444.66125
+<./Supp_Figures/TRANS_S1-eps-converted-to.pdf, id=15480, 680.5425pt x 444.66125
 pt>
 File: ./Supp_Figures/TRANS_S1-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Supp_Figures/TRANS_S1-eps-converted-to.pdf>
@@ -1203,7 +1203,7 @@ f>
 (epstopdf)             \includegraphics on input line 698.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/COUP_S1-eps-converted-to.pdf, id=15482, 1039.885pt x 409.53pt>
+<./Supp_Figures/COUP_S1-eps-converted-to.pdf, id=15481, 1039.885pt x 409.53pt>
 File: ./Supp_Figures/COUP_S1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Supp_Figures/COUP_S1-eps-converted-to.pdf>
@@ -1222,7 +1222,7 @@ f>
 (epstopdf)             \includegraphics on input line 704.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Supp_Figures/COUP_S2-eps-converted-to.pdf, id=15483, 1037.8775pt x 847.165pt
+<./Supp_Figures/COUP_S2-eps-converted-to.pdf, id=15482, 1037.8775pt x 847.165pt
 >
 File: ./Supp_Figures/COUP_S2-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Supp_Figures/COUP_S2-eps-converted-to.pdf>
@@ -1332,10 +1332,10 @@ s/type1/urw/symbol/usyr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw
 /symbol/usyr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb
 8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Paper_v2.pdf (36 pages, 10009791 bytes).
+Output written on Paper_v2.pdf (36 pages, 10008565 bytes).
 PDF statistics:
- 19148 PDF objects out of 22161 (max. 8388607)
- 17228 compressed objects within 173 object streams
+ 19147 PDF objects out of 22161 (max. 8388607)
+ 17227 compressed objects within 173 object streams
  198 named destinations out of 1000 (max. 500000)
  42063 words of extra memory for PDF output out of 42996 (max. 10000000)
 
