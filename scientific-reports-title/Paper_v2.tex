@@ -26,20 +26,27 @@
 % Using POETs and a cross-validation scheme, we developed an ensemble of models, consistent with literature data.
 %Cellular stressors routinely lead to malfunctions in the folding state of critical proteins, thereby playing a vital role in disease states like cancer, diabetes and cardiovascular ailments. Newly synthesized proteins must fold and assemble into unique three-dimensional structures, in order to become functionally active.
 
+% The three main regulators of feedback, ATF4, cleaved ATF6 and XBP1s share the load ensuring the phased response of UPR.
+% However these regulators add on to the overall fragility of the system and allow scope for manipulation of UPR as seen by sensitivity/robustness analysis.
+% Downstream effects of UPR include a balance between cell survival and cell death based on the magnitude of the stress.
+% Model analysis suggested that the cell-death axis was relatively robust owing to redundant routes e.g., APAF-1 dependent and APAF-1 independent routes of apoptosis.
+% However the cell-survival axis was relatively susceptible to perturbations owing to multiple levels of regulation, thereby highlighting importance of key proteins like CHOP.
+% where the counteracting effects of the ER stress transducers converge at feedback regulation of the molecular chaperone BiP.
+
 \begin{abstract}
 Cells monitor protein folding by an inbuilt quality-control system in which incorrectly or misfolded folded proteins are tagged for degradation or sent back through a refolding cycle.
 However, continued accumulation of incorrectly folded proteins triggers the Unfolded Protein Response (UPR), which attempts to re-establish folding homeostasis or commits the cell to apoptosis.
 In this study, we developed a family of mechanistic models of the mammalian UPR system.
 An ensemble of models parameters was estimated by minimizing the difference between simulations and experimental measurements using multiobjective optimization.
 The ensemble of model parameters was validated using cross-validation.
-Analysis of the model ensemble suggested the three branches of UPR fired simultaneously where the counteracting effects of the ER stress transducers converge at feedback regulation of the molecular chaperone BiP.
+Analysis of the model ensemble suggested the three branches of UPR fired simultaneously.
+However, the importance of each brach as ranked ordered in time; PERK and IRE1 were more important early, while ATF6 was important later in the response.
+The activity of all three branches as coordinated by the molecular chaperone BiP.
+Model analysis suggested that BiP feedback was critical to the overall robustness of the system.
+Removal of any one branch of BiP feedback, destabilized the other branches.
+On the other hand, removal of all nodes of BiP feedback increased the overall robustness of the system.
+Thus, while BiP feedback is crucial to allowing the cell to adapt to small perturbations, it also makes the system fragile and susceptible to manipulations.
 
-Model analysis highlighted the presence of a sequential order for firing of the ER stress transducers in UPR.
-The three main regulators of feedback, ATF4, cleaved ATF6 and XBP1s share the load ensuring the phased response of UPR.
-However these regulators add on to the overall fragility of the system and allow scope for manipulation of UPR as seen by sensitivity/robustness analysis.
-Downstream effects of UPR include a balance between cell survival and cell death based on the magnitude of the stress.
-Model analysis suggested that the cell-death axis was relatively robust owing to redundant routes e.g., APAF-1 dependent and APAF-1 independent routes of apoptosis.
-However the cell-survival axis was relatively susceptible to perturbations owing to multiple levels of regulation, thereby highlighting importance of key proteins like CHOP.
 \end{abstract}
 \begin{document}
 
@@ -69,31 +76,44 @@ The alarm phase involves several signal transduction events, ultimately leading 
 After the alarm phase, cells can undergo apoptosis, although ER stress can also initiate autophagy \cite{ogata2006aac, yorimitsu2006ers, bernales2006ace, kamimoto2006iic, hoyerhansen2007cmc, kouroku2006esp, fujita2007ter}.
 Thus, ER folding homeostasis strongly influences mammalian physiology \cite{Fonseca:2009fk}.
 
-In this study, we used physiochemical computer modeling as a tool to study the mammalian unfolded protein response (UPR).
-Physiochemical models which describe system-level responses can prioritize experimental directions, generate testable hypothesis, and perhaps identify and validate potential therapeutic targets \cite{KITANO2007}.
-For mammalian UPR, physiochemical modeling might tell us the critical components of each branch, and ultimately what must be manipulated to get a desired network response, for example, enhanced death or survival.
-However, there are critical limitations with physiochemical models. Foremost amongst these is the large number of unknown model parameters and uncertainty in the model structure.
-It is typically impossible to uniquely identify model parameters, even with extensive training data and perfect models \cite{Gadkar:2005ad}. Alternatively, ensemble approaches, which use uncertain model families, have emerged as a promising strategy in systems biology and other fields like climate prediction \cite{Battogtokh:2002uq,Kuepfer:2007,Brown:2003qy,Palmer:2005,Song:2009uq}.
-Their central value has been the ability to quantify simulation uncertainty and to experimentally constrain model predictions. For example, Gutenkunst \emph{et al.} showed that predictions were possible using signal transduction model ensembles, despite sometimes only order of magnitude parameter estimates \cite{Gutenkunst:2007oq}.
-More recently, Luan \emph{et al.} predicted patient response to therapeutic intervention using an ensemble of human coagulation models where approximately 40\% of the model parameters had a coefficient of variation (CV) greater than 0.5 \cite{Luan:2010fc}.
-Model ensembles have also been used with parameter dependent analysis techniques, e.g., sensitivity analysis to robustly estimate important signaling network features.
-For example, Tasseff \emph{et al.} characterized emergent behavior between androgen and growth factor signaling in prostate cancer cell-lines using an ensemble of models and sensitivity analysis \cite{Tasseff:2010rq}.
-Thus, despite uncertainty, ensembles of physiochemical models can be used to understand qualitative properties of complex biochemical networks.
+In this study, we developed a population of mathematical models describing the adaptation, alarm, and apoptosis phases of the mammalian unfolded protein response (UPR).
+The biological connectivity of the UPR model was assembled following an extensive literature review.
+An ensemble of models parameters was estimated by minimizing the difference between simulations and experimental measurements using multiobjective optimization.
+The ensemble of model parameters was validated using cross-validation.
+Analysis of the model ensemble suggested the three branches of UPR fired simultaneously.
+However, the importance of each brach as ranked ordered in time; PERK and IRE1 were more important early, while ATF6 was important later in the response.
+The activity of all three branches as coordinated by the molecular chaperone BiP.
+Model analysis suggested that BiP feedback was critical to the overall robustness of the system.
+Removal of any one branch of BiP feedback, destabilized the other branches.
+On the other hand, removal of all nodes of BiP feedback increased the overall robustness of the system.
+Thus, while BiP feedback is crucial to allowing the cell to adapt to small perturbations, it also makes the system fragile and susceptible to manipulations.
+The UPR model code and parameter ensemble is available under an MIT software license and can be downloaded from http://www.varnerlab.org.
 
-We developed a population of physiochemical models describing the adaptation, alarm, and apoptosis phases of mammalian UPR.
-Traditionally, it has been hypothesized that there is a sequential order for firing of the ER stress transducers in UPR.
-The PERK and ATF6 branches are thought to be activated before IRE1 \cite{szegezdi2006mediators} and largely promote ER adaptation to misfolding, while IRE1 is the last one to fire as it has a dual role, transmitting both survival and pro-apoptotic signals.
-However our modeling analysis suggests that these three branches fire simultaneously with varying rates and the state of the cell in terms of adaptation, alarm or apoptosis is a result of counteracting effects of these three prongs of UPR signaling.
-The counteracting effects is further substantiated by simulated knockout studies, wherein knockout of one ER stress transducer led to enhancement of the other branches of UPR, e.g, if we want more protein production even with ER stress, PERK KO might suggest a viable route that leads to no translational block.
-However the IRE1 branch will amplify as will the ATF6 branch ultimately leading to death (less compared to WT). So a viable strategy could be to regulate CHOP, resulting in reduced death by regulation of Bcl2.
-One common playground for the three ER stress transducers is the feedback regulation of BiP expression. Model analysis substantiated the significance of BiP feedback in the overall robustness of the system.
-Removal of any one branch of BiP feedback led to increased sensitivity of the other branches. So there was load/responsibility sharing within the system.
-Interestingly, removal of all nodes of BiP feedback increased the overall robustness of the system. So while BiP feedback is crucial in terms of allowing the cell to adapt to small perturbations, it also makes the system more fragile and susceptible to manipulations.
-Model analysis further highlighted the presence of redundant routes of regulation of apoptosis such as APAF-1 dependent/independent strategies.
-While manipulation of pro-death axis of the system (cleaved caspases) was relatively robust to perturbations, manipulation of the pro-survival axis (Bcl2) was relatively feasible via CHOP dependent/independent strategies.
-Overall UPR was seen to be robust to perturbations (simulated knockout/overexpression studies), thereby highlighting the redundancy and crosstalk within the three branches of UPR.
-However, BiP regulation at the transcriptional level via intermediates of the ER-stress transducer signaling cascades (e.g. ATF4, XBP1s) was seen to be the key player in regulation of UPR.
-The UPR model is available in SBML in the supplemental materials.
+% we used physiochemical computer modeling as a tool to study the
+% Physiochemical models which describe system-level responses can prioritize experimental directions, generate testable hypothesis, and perhaps identify and validate potential therapeutic targets \cite{KITANO2007}.
+% For mammalian UPR, physiochemical modeling might tell us the critical components of each branch, and ultimately what must be manipulated to get a desired network response, for example, enhanced death or survival.
+% However, there are critical limitations with physiochemical models. Foremost amongst these is the large number of unknown model parameters and uncertainty in the model structure.
+% It is typically impossible to uniquely identify model parameters, even with extensive training data and perfect models \cite{Gadkar:2005ad}. Alternatively, ensemble approaches, which use uncertain model families, have emerged as a promising strategy in systems biology and other fields like climate prediction \cite{Battogtokh:2002uq,Kuepfer:2007,Brown:2003qy,Palmer:2005,Song:2009uq}.
+% Their central value has been the ability to quantify simulation uncertainty and to experimentally constrain model predictions. For example, Gutenkunst \emph{et al.} showed that predictions were possible using signal transduction model ensembles, despite sometimes only order of magnitude parameter estimates \cite{Gutenkunst:2007oq}.
+% More recently, Luan \emph{et al.} predicted patient response to therapeutic intervention using an ensemble of human coagulation models where approximately 40\% of the model parameters had a coefficient of variation (CV) greater than 0.5 \cite{Luan:2010fc}.
+% Model ensembles have also been used with parameter dependent analysis techniques, e.g., sensitivity analysis to robustly estimate important signaling network features.
+% For example, Tasseff \emph{et al.} characterized emergent behavior between androgen and growth factor signaling in prostate cancer cell-lines using an ensemble of models and sensitivity analysis \cite{Tasseff:2010rq}.
+% Thus, despite uncertainty, ensembles of physiochemical models can be used to understand qualitative properties of complex biochemical networks.
+%
+%
+% Traditionally, it has been hypothesized that there is a sequential order for firing of the ER stress transducers in UPR.
+% The PERK and ATF6 branches are thought to be activated before IRE1 \cite{szegezdi2006mediators} and largely promote ER adaptation to misfolding, while IRE1 is the last one to fire as it has a dual role, transmitting both survival and pro-apoptotic signals.
+% However our modeling analysis suggests that these three branches fire simultaneously with varying rates and the state of the cell in terms of adaptation, alarm or apoptosis is a result of counteracting effects of these three prongs of UPR signaling.
+% The counteracting effects is further substantiated by simulated knockout studies, wherein knockout of one ER stress transducer led to enhancement of the other branches of UPR, e.g, if we want more protein production even with ER stress, PERK KO might suggest a viable route that leads to no translational block.
+% However the IRE1 branch will amplify as will the ATF6 branch ultimately leading to death (less compared to WT). So a viable strategy could be to regulate CHOP, resulting in reduced death by regulation of Bcl2.
+% One common playground for the three ER stress transducers is the feedback regulation of BiP expression. Model analysis substantiated the significance of BiP feedback in the overall robustness of the system.
+% Removal of any one branch of BiP feedback led to increased sensitivity of the other branches. So there was load/responsibility sharing within the system.
+% Interestingly, removal of all nodes of BiP feedback increased the overall robustness of the system. So while BiP feedback is crucial in terms of allowing the cell to adapt to small perturbations, it also makes the system more fragile and susceptible to manipulations.
+% Model analysis further highlighted the presence of redundant routes of regulation of apoptosis such as APAF-1 dependent/independent strategies.
+% While manipulation of pro-death axis of the system (cleaved caspases) was relatively robust to perturbations, manipulation of the pro-survival axis (Bcl2) was relatively feasible via CHOP dependent/independent strategies.
+% Overall UPR was seen to be robust to perturbations (simulated knockout/overexpression studies), thereby highlighting the redundancy and crosstalk within the three branches of UPR.
+% However, BiP regulation at the transcriptional level via intermediates of the ER-stress transducer signaling cascades (e.g. ATF4, XBP1s) was seen to be the key player in regulation of UPR.
+%The UPR model is available in SBML in the supplemental materials.
 
 \section*{Results}
 
@@ -284,15 +304,19 @@ Similarly, the regulation of the apoptosis branch via IRE1-TRAF2 and Procaspase 
 \section*{Discussion}
 
 % General Paragraph
+In this study, we developed a population of mathematical models describing the adaptation, alarm, and apoptosis phases of the mammalian unfolded protein response (UPR).
 Proteins requiring post-translational modifications such as N-linked glycosylation or disulfide bond formation are processed in the endoplasmic reticulum (ER).
-A diverse array of cellular stresses can lead to dysfunction of the ER, and ultimately to an imbalance between protein-folding capacity and protein-folding load. Unfolded or misfolded proteins are tagged for degradation via ER associated degradation (ERAD) or sent back through the folding cycle. Continued accumulation of incorrectly folded proteins can also trigger the Unfolded Protein Response (UPR).
-In this study, we formulated a mechanistic model of the cellular response to stress (protein overload) and studied the core regulatory aspects and downstream effects of UPR induction.
-PRKR-like ER kinase (PERK), inositol-requiring kinase 1 (IRE1) and activating transcription factor 6 (ATF6) were modeled as the key UPR initiators. While UPR has been extensively studied \cite{naidoo2009er, ron2002translational, kaufman2002unfolded,ellgaard2003qce,Fonseca:2009fk,Schroder:2005vn,gotoh:hdc,mccullough2001gsc, belmont2008cga,Hetz:2009qc,Urano:2000uq,szegezdi2006mediators}, a detailed mathematical model to investigate the complexities involved is lacking.
-The UPR network architecture is based on extensive review of the literature (details of connectivity in supplementary materials) \cite{naidoo2009er, ron2002translational, kaufman2002unfolded,ellgaard2003qce,Fonseca:2009fk,Schroder:2005vn,gotoh:hdc,mccullough2001gsc, belmont2008cga,Hetz:2009qc,Urano:2000uq,szegezdi2006mediators}.
+A diverse array of cellular stresses can lead to dysfunction of the ER, and ultimately to an imbalance between protein-folding capacity and protein-folding load.
+Unfolded or misfolded proteins are tagged for degradation via ER associated degradation (ERAD) or sent back through the folding cycle.
+Continued accumulation of incorrectly folded proteins can also trigger UPR.
+PRKR-like ER kinase (PERK), inositol-requiring kinase 1 (IRE1) and activating transcription factor 6 (ATF6) were modeled as the key UPR initiators.
+While UPR has been extensively studied \cite{naidoo2009er, ron2002translational, kaufman2002unfolded,ellgaard2003qce,Fonseca:2009fk,Schroder:2005vn,gotoh:hdc,mccullough2001gsc, belmont2008cga,Hetz:2009qc,Urano:2000uq,szegezdi2006mediators},
+a detailed mathematical model of this important system has not been developed.
+The UPR network architecture used in the model was based on extensive review of the literature (supplementary materials).
 Mass balance equations describing 636 species interconnected by 1090 interactions were formulated using mass-action kinetics within an ordinary differential equation (ODE) framework.
 Four model populations were estimated using multi-objective optimization (33 objective functions) in conjunction with a leave-eight out cross-validation strategy using POETs \cite{Song:2010ij}.
 These model populations were then analyzed using population-based sensitivity and robustness analysis.
-Overall we identified sources of network crosstalk and redundancy within the UPR module which could be the reason for emergent properties and be the links for aberrations in cellular adaptation to stress.
+% Overall we identified sources of network crosstalk and redundancy within the UPR model which could be the reason for emergent properties and be the links for aberrations in cellular adaptation to stress.
 
 % Paragraph 1:
 A key finding of our study was that the overall outcome of UPR was as a result of simultaneous firing and competition between signaling mediated by the three ER-stress transducers: PERK, IRE1, and ATF6.
@@ -379,8 +403,7 @@ Each row in $\mathbf{S}$ described a protein or protein-protein complex,
 while each column described the stoichiometry of network interactions.
 Thus, the $(i,j)$ element of $\mathbf{S}$, denoted by $\sigma_{ij}$, described how protein $i$ was involved in rate $j$.
 If $\sigma_{ij}<0$, then protein $i$ was consumed in $r_j$. Conversely, if $\sigma_{ij}>0$, protein $i$ was
-produced by $r_j$. Lastly, if $\sigma_{ij}=0$, there was no protein $i$ in rate $j$. All of these interactions were obtained from the literature.
-
+produced by $r_j$. Lastly, if $\sigma_{ij}=0$, there was no protein $i$ in rate $j$. All of these interactions were obtained from the literature (supplemental materials).
 We assumed mass-action kinetics for each interaction in the network.
 The rate expression for interaction $q$ was given by:
 \begin{equation}\label{eq-mass-action}
@@ -388,26 +411,23 @@ r_{q}\left(\mathbf{x},k_{q}\right)=k_{q}\prod_{j\in\left\{\mathbf{R}_{q}\right\}
 \end{equation}
 The set $\left\{\mathbf{R}_{q}\right\}$ denotes reactants for reaction $q$ while $\sigma_{jq}$ denotes the stoichiometric coefficient (element of the matrix $\mathbf{S}$) governing species $j$ in reaction $q$.
 All reversible interactions were split into two irreversible steps. The mass-action formulation, while expanding the dimension of the UPR model,
-regularized the mathematical structure; this allowed automatic generation of the model code using UNIVERSAL and regularized the unknown model parameters (parameters were one of only three types: association, dissociation, or catalytic rate constants).
-UNIVERSAL, an open source Java code generator, generates multiple code types from text and SBML inputs.
-UNIVERSAL is freely available as a Google Code project (http://code.google.com/p/universal-code-generator/).
+regularized the mathematical structure. Parameters were one of only three types: association, dissociation, or catalytic rate constants.
 Thus, although mass-action kinetics increased the number of parameters and species, they reduced the complexity of model analysis.
 In this study, we considered well-mixed nuclear, cytosolic, and extracellular compartments.
-The model equations were solved using the LSODE routine in OCTAVE (v 3.1.0; www.octave.org) on an Apple workstation (Apple, Cupertino, CA; OS X v10.6.4).
-
-Unfolded protein response conditions were simulated by running the model to steady state and then providing a dose of proteins.
+Unfolded protein response conditions were simulated by running the model to steady state and then providing a dose of unfolded protein.
 The steady-state was estimated numerically by repeatedly solving the model equations and estimating the difference between subsequent time points:
 \begin{equation}
 \Vert\mathbf{x}\left(t+\Delta{t}\right) - \mathbf{x}\left(t\right)\Vert_{2}\leq\gamma
 \end{equation}
 The quantities $\mathbf{x}\left(t\right)$ and $\mathbf{x}\left(t+\Delta{t}\right)$ denote the simulated concentration vector at time $t$ and $t + \Delta{t}$, respectively.
-The $L_{2}$ vector-norm was used as the distance metric.
-We used $\Delta{t} = 1$ s and $\gamma$ = 0.001 for all simulations.
+The $L_{2}$ vector-norm was used as the distance metric. We used $\Delta{t} = 1$ s and $\gamma$ = 0.001 for all simulations.
+The model equations were solved using the LSODE routine in OCTAVE (www.octave.org) on an Apple workstation (Apple, Cupertino, CA).
+The UPR model code and parameter ensemble is available under an MIT software license and can be downloaded from http://www.varnerlab.org.
 
 \subsection*{Estimation and cross-validation of a population of UPR models}
 POETs is a multiobjective optimization strategy which integrates several local search strategies e.g., Simulated Annealing (SA) or Pattern Search (PS)
 with a Pareto-rank-based fitness assignment \cite{Song:2010ij}.
-$\mathbf{k}_{i+1}$ denotes a candidate parameter set at iteration $i+1$.
+Let $\mathbf{k}_{i+1}$ denote a candidate parameter set at iteration $i+1$.
 The squared error for $\mathbf{k}_{i+1}$ for training set $j$ was defined as:
 \begin{equation}\label{eqn_cost2}
 	E_{j}(\mathbf{k}) = \sum_{i=1}^{\mathcal{T}_{j}}\biggl(\hat{\mathcal{M}}_{ij}-\hat{y}_{ij}(\mathbf{k})\biggr)^2
@@ -496,12 +516,11 @@ If $\alpha\left(i,j,t_{o},t_{f}\right)>1$, then the perturbation \emph{increased
 if $\alpha\left(i,j,t_{o},t_{f}\right)\ll{1}$ the perturbation \emph{decreased} the marker concentration. Lastly, if
 $\alpha\left(i,j,t_{o},t_{f}\right)\sim{1}$ the perturbation did not influence the marker concentration.
 
-\subsection*{Species clustering and dendrogram.}
+\subsection*{Clustering and identification of distinguishable species}
 A dendrogram was derived by considering each of the knockouts(over-expressions) as variables and the average log of robustness coefficient (LRC) for each of the species as observations.
 We used the Euclidean norm in LRC space as the distance metric. The linkage function (objective function for identifying variable clusters) was the inner squared distance (minimum variance algorithm).
 The Statistical Toolbox of Matlab (The Mathworks, Natick, MA) was used to generate the distances, linkages, and the final dendrogram.
 
-\subsection*{Identification of distinguishable species.}
 Robustness coefficients were used to rank-order knockout (overexpression) experiments in terms of the greatest unique responses and identify species which were linearly distinguishable.
 The response of the knockout (overexpression) was measured in terms of the robustness coefficients. The LRC had desirable linear properties, such that no response (no change in trajectories from wild-type) returns a value of zero and similar negative and positive responses have different directions but similar magnitudes.
 We considered the unique component of the response to be the orthogonal component in LRC space and the magnitude of the response to be the Euclidean norm.

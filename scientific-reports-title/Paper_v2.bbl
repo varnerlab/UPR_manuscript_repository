@@ -99,96 +99,6 @@
   \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{618--29}
   (\bibinfo{year}{2007}).
 
-\bibitem{KITANO2007}
-\bibinfo{author}{Kitano, H.}
-\newblock \bibinfo{title}{{A robustness based approach to systems-oriented drug
-  design}}.
-\newblock \emph{\bibinfo{journal}{Nat. Rev. Drug Discov.}}
-  \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{202 -- 210}
-  (\bibinfo{year}{2007}).
-
-\bibitem{Gadkar:2005ad}
-\bibinfo{author}{Gadkar, K.~G.}, \bibinfo{author}{Varner, J.} \&
-  \bibinfo{author}{Doyle, F.~J.}
-\newblock \bibinfo{title}{{Model identification of signal transduction networks
-  from data using a state regulator problem.}}
-\newblock \emph{\bibinfo{journal}{Syst Biol (Stevenage)}}
-  \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{17--30} (\bibinfo{year}{2005}).
-
-\bibitem{Battogtokh:2002uq}
-\bibinfo{author}{Battogtokh, D.}, \bibinfo{author}{Asch, D.~K.},
-  \bibinfo{author}{Case, M.~E.}, \bibinfo{author}{Arnold, J.} \&
-  \bibinfo{author}{Schuttler, H.-B.}
-\newblock \bibinfo{title}{An ensemble method for identifying regulatory
-  circuits with special reference to the qa gene cluster of neurospora crassa.}
-\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
-  \textbf{\bibinfo{volume}{99}}, \bibinfo{pages}{16904--16909}
-  (\bibinfo{year}{2002}).
-
-\bibitem{Kuepfer:2007}
-\bibinfo{author}{Kuepfer, L.}, \bibinfo{author}{Peter, M.},
-  \bibinfo{author}{Sauer, U.} \& \bibinfo{author}{Stelling, J.}
-\newblock \bibinfo{title}{Ensemble modeling for analysis of cell signaling
-  dynamics}.
-\newblock \emph{\bibinfo{journal}{Nat Biotech}} \textbf{\bibinfo{volume}{25}},
-  \bibinfo{pages}{1001--1006} (\bibinfo{year}{2007}).
-
-\bibitem{Brown:2003qy}
-\bibinfo{author}{Brown, K.~S.} \& \bibinfo{author}{Sethna, J.~P.}
-\newblock \bibinfo{title}{Statistical mechanical approaches to models with many
-  poorly known parameters.}
-\newblock \emph{\bibinfo{journal}{Phys Rev E Stat Nonlin Soft Matter Phys}}
-  \textbf{\bibinfo{volume}{68}}, \bibinfo{pages}{021904}
-  (\bibinfo{year}{2003}).
-
-\bibitem{Palmer:2005}
-\bibinfo{author}{Palmer, T.} \emph{et~al.}
-\newblock \bibinfo{title}{Representing model uncertainty in weather and climate
-  prediction}.
-\newblock \emph{\bibinfo{journal}{Ann Rev Earth and Planetary Sci}}
-  \textbf{\bibinfo{volume}{33}}, \bibinfo{pages}{163--193}
-  (\bibinfo{year}{2005}).
-
-\bibitem{Song:2009uq}
-\bibinfo{author}{Song, S.~O.} \& \bibinfo{author}{Varner, J.}
-\newblock \bibinfo{title}{Modeling and analysis of the molecular basis of pain
-  in sensory neurons}.
-\newblock \emph{\bibinfo{journal}{PLoS One}} \textbf{\bibinfo{volume}{4}},
-  \bibinfo{pages}{e6758} (\bibinfo{year}{2009}).
-
-\bibitem{Gutenkunst:2007oq}
-\bibinfo{author}{Gutenkunst, R.~N.} \emph{et~al.}
-\newblock \bibinfo{title}{Universally sloppy parameter sensitivities in systems
-  biology models}.
-\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
-  \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{1871--78}
-  (\bibinfo{year}{2007}).
-
-\bibitem{Luan:2010fc}
-\bibinfo{author}{Luan, D.}, \bibinfo{author}{Szlam, F.},
-  \bibinfo{author}{Tanaka, K.~A.}, \bibinfo{author}{Barie, P.~S.} \&
-  \bibinfo{author}{Varner, J.~D.}
-\newblock \bibinfo{title}{Ensembles of uncertain mathematical models can
-  identify network response to therapeutic interventions}.
-\newblock \emph{\bibinfo{journal}{Mol Biosyst}} \textbf{\bibinfo{volume}{6}},
-  \bibinfo{pages}{2272--86} (\bibinfo{year}{2010}).
-
-\bibitem{Tasseff:2010rq}
-\bibinfo{author}{Tasseff, R.} \emph{et~al.}
-\newblock \bibinfo{title}{Analysis of the molecular networks in androgen
-  dependent and independent prostate cancer revealed fragile and robust
-  subsystems}.
-\newblock \emph{\bibinfo{journal}{PLoS One}} \textbf{\bibinfo{volume}{5}},
-  \bibinfo{pages}{e8864} (\bibinfo{year}{2010}).
-
-\bibitem{szegezdi2006mediators}
-\bibinfo{author}{Szegezdi, E.}, \bibinfo{author}{Logue, S.~E.},
-  \bibinfo{author}{Gorman, A.~M.} \& \bibinfo{author}{Samali, A.}
-\newblock \bibinfo{title}{Mediators of endoplasmic reticulum stress-induced
-  apoptosis}.
-\newblock \emph{\bibinfo{journal}{EMBO Rep}} \textbf{\bibinfo{volume}{7}},
-  \bibinfo{pages}{880--5} (\bibinfo{year}{2006}).
-
 \bibitem{Schroder:2005vn}
 \bibinfo{author}{Schr{\"o}der, M.} \& \bibinfo{author}{Kaufman, R.~J.}
 \newblock \bibinfo{title}{The mammalian unfolded protein response}.
@@ -236,6 +146,14 @@
   protein kinases by transmembrane protein kinase ire1}.
 \newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{287}},
   \bibinfo{pages}{664--6} (\bibinfo{year}{2000}).
+
+\bibitem{szegezdi2006mediators}
+\bibinfo{author}{Szegezdi, E.}, \bibinfo{author}{Logue, S.~E.},
+  \bibinfo{author}{Gorman, A.~M.} \& \bibinfo{author}{Samali, A.}
+\newblock \bibinfo{title}{Mediators of endoplasmic reticulum stress-induced
+  apoptosis}.
+\newblock \emph{\bibinfo{journal}{EMBO Rep}} \textbf{\bibinfo{volume}{7}},
+  \bibinfo{pages}{880--5} (\bibinfo{year}{2006}).
 
 \bibitem{Jensen:2009fk}
 \bibinfo{author}{Jensen, L.~J.} \emph{et~al.}
