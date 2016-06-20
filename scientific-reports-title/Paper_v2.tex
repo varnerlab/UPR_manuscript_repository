@@ -40,7 +40,7 @@ In this study, we developed a family of mechanistic models of the mammalian UPR 
 An ensemble of models parameters was estimated by minimizing the difference between simulations and experimental measurements using multiobjective optimization.
 The ensemble of model parameters was validated using cross-validation.
 Analysis of the model ensemble suggested the three branches of UPR fired simultaneously.
-However, the importance of each brach as ranked ordered in time; PERK and IRE1 were more important early, while ATF6 was important later in the response.
+However, the importance of each brach was ranked ordered in time; PERK and IRE1 were more important early, while ATF6 was important later in the response.
 The activity of all three branches as coordinated by the molecular chaperone BiP.
 Model analysis suggested that BiP feedback was critical to the overall robustness of the system.
 Removal of any one branch of BiP feedback, destabilized the other branches.
@@ -76,21 +76,31 @@ The alarm phase involves several signal transduction events, ultimately leading 
 After the alarm phase, cells can undergo apoptosis, although ER stress can also initiate autophagy \cite{ogata2006aac, yorimitsu2006ers, bernales2006ace, kamimoto2006iic, hoyerhansen2007cmc, kouroku2006esp, fujita2007ter}.
 Thus, ER folding homeostasis strongly influences mammalian physiology \cite{Fonseca:2009fk}.
 
-ER stress and UPR plays an important role in a spectrum of diseases and technological applications.
-In the context of diseases such as diabetes, pancreatic $\beta$-cells depend on efficient UPR signaling to meet the demands for constantly varying levels of insulin synthesis. Type 1 diabetes is marked by excessive loss of pancreatic $\beta$-cells, while type 2 diabetes is marked by pancreatic $\beta$-cell dysfunction. The large biosynthetic load placed on the ER because of insulin production in response to food uptake (glucose) can overwhelm the folding capacity of the ER, resulting in ER stress. This leads to subsequent PERK activation and reduction of protein synthesis. In PERK $\textit{-/-}$ cells, protein synthesis is unresponsive to the stress and leads to accumulation of unfolded proteins (e.g. proinsulin) and ultimately cell death. It has been shown that PERK deficient mice are more prone to diabetes and progressive hyperglycemia \cite{harding2001dma}. In type II diabetes, ER stress leads to JNK-mediated phosphorylation of insulin receptor substrate 1 (IRS1) at S307 \cite{ozcan2004ers}. IRS1 is a substrate of Insulin receptor. Phosphorylation of IRS1 therefore inhibits insulin action. Nitric oxide (NO), is also a key player in $\beta$-cell death in type-1 diabetes and vascular complications in type-2 diabetes. NO depletes ER Ca$^{2+}$ leading to ER stress and ultimately apoptosis. Pancreatic $\beta$-cells have shown that NO-induced apoptosis is CHOP dependent \cite{oyadomari2001noi}. Thus, ER stress is a critical feature of both type-I and type-II diabetes at the molecular, cellular and organismal level. ER stress and UPR function can also be important in cancers.
+ER stress and UPR plays an important role in a spectrum of diseases and technological applications \cite{Chakrabarti:2011aa}.
+In the context of diseases such as diabetes, pancreatic $\beta$-cells depend on efficient UPR signaling to meet the demands for constantly varying levels of insulin synthesis.
+Type I diabetes is marked by excessive loss of pancreatic $\beta$-cells, while type II diabetes is marked by pancreatic $\beta$-cell dysfunction.
+The large biosynthetic load placed on the ER by insulin production in response to blood glucose levels, can overwhelm the folding capacity of the ER.
+This leads to PERK activation and the reduction of protein synthesis.
+In PERK $\textit{-/-}$ cells, protein synthesis is unresponsive to the stress, leading to the accumulation of unfolded proteins (e.g. proinsulin) and ultimately cell death.
+PERK deficient mice are more prone to diabetes and progressive hyperglycemia \cite{harding2001dma}.
+In type II diabetes, ER stress leads to JNK-mediated phosphorylation of insulin receptor substrate 1 (IRS1) at S307, inhibiting insulin action \cite{ozcan2004ers}.
+Nitric oxide (NO), is also a key player in $\beta$-cell death in type-I diabetes and vascular complications in type-II diabetes.
+NO depletes ER Ca$^{2+}$ leading to ER stress and ultimately apoptosis.
+Pancreatic $\beta$-cells have shown that NO-induced apoptosis is CHOP dependent \cite{oyadomari2001noi}.
+Thus, ER stress is a critical feature of both type-I and type-II diabetes at the molecular, cellular and organismal level.
+ER stress and UPR function can also be important in cancers.
 The ER not only acts as the center for maturation of proteins, but also as a critical node for oxygen sensing and signaling.
-In rapidly growing tumors, cells face stressors like hypoxia and nutrient deprivation both of which can lead to ER stress and ultimately UPR.
-For example, oxygen deprivation has been shown to be an initiator of UPR \cite{Koumenis:2006zr}.
+In rapidly growing tumors, cells face stressors like hypoxia and nutrient deprivation both of which can lead to ER stress and ultimately UPR \cite{Koumenis:2006zr}.
 Interestingly, the connection between hypoxia and UPR is through hypoxia inducible factor (HIF) independent pathways.
 Hypoxia drives PERK activation and the transient phosphorylation of eIF2$\alpha$ \cite{koumenis2002regulation, ma2003delineation, koritzinsky2006gene}
-on a time scale of minutes for anoxia, and much slower hypoxic conditions \cite{koritzinsky2006gene}.
-Because of their ability to transduce pro-apoptotic signals, PERK and IRE1 activity has been explored as a potential anti-cancer strategy.
+on a time scale of minutes for anoxia, and much slower for hypoxic conditions \cite{koritzinsky2006gene}.
+Because of their ability to transduce pro-apoptotic signals, both PERK and IRE1 have been explored as potential anti-cancer targets.
 Versipelostatin, a repressor of BiP expression, has been shown to produce anti-tumor activity in MKN-74 xenograft mouse models \cite{park2004etc}.
 Enhanced apoptosis has also been observed in BiP-deficient fibrosarcoma cells, and XBP1- and PERK-deficient mouse fibroblasts \cite{jamora1996itp, romero2004xbp1, bi2005esr}.
-In the context of biotechnology, mammalian hosts, such as Chinese Hamster Ovary (CHO) cells, have been used for therapeutic protein production since as early as 1986
+In the context of biotechnology, mammalian hosts, such as Chinese Hamster Ovary (CHO) cells, have been used for therapeutic protein production since the mid-1980s
 \cite{Wurm:2004aa,Mohan:2008aa}. Several current biologics are secreted, for example, the monoclonal antibodies (MAb) interferon-$\gamma$ (IFN$\gamma$)
 or erythropoeitin (EPO) \cite{Ku:2008aa}. Thus, ER processing and the unfolded protein response are critical to the production of these and many other therapeutic proteins.
-However, despite its importance to disease and biotechnology, there has been a paucity of models of UPR in mammalian systems.
+However, despite its importance to both disease and biotechnology, there has been a paucity of mathematical models of UPR in mammalian systems.
 
 % Interestingly, the connection between hypoxia and UPR is through hypoxia inducible factor (HIF) independent pathways,
 % thus UPR is integrated into one of the core oxygen sensitive pathways in mammalian cells.
@@ -99,8 +109,9 @@ However, despite its importance to disease and biotechnology, there has been a p
 % Versipelostatin, a repressor of BiP expression, has been shown to produce anti-tumor activity in MKN-74 xenograft mouse models \citep{park2004etc}.
 % Enhanced apoptosis has also been observed in BiP-deficient fibrosarcoma cells, and XBP1- and PERK-deficient mouse fibroblasts \citep{jamora1996itp, romero2004xbp1, bi2005esr}.
 
-In this study, we developed a population of mathematical models describing the adaptation, alarm, and apoptosis phases of the mammalian unfolded protein response (UPR).
+In this study, we developed a population of mathematical models describing the adaptation, alarm, and apoptosis phases of the mammalian unfolded protein response.
 The biological connectivity of the UPR model was assembled following an extensive literature review.
+The dynamics of UPR were modeled using mass action kinetics within the framework of ordinary differential equations. 
 An ensemble of models parameters was estimated by minimizing the difference between simulations and experimental measurements using multiobjective optimization.
 The ensemble of model parameters was validated using cross-validation.
 Analysis of the model ensemble suggested the three branches of UPR fired simultaneously.
