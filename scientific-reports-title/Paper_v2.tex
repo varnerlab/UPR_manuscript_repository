@@ -76,6 +76,29 @@ The alarm phase involves several signal transduction events, ultimately leading 
 After the alarm phase, cells can undergo apoptosis, although ER stress can also initiate autophagy \cite{ogata2006aac, yorimitsu2006ers, bernales2006ace, kamimoto2006iic, hoyerhansen2007cmc, kouroku2006esp, fujita2007ter}.
 Thus, ER folding homeostasis strongly influences mammalian physiology \cite{Fonseca:2009fk}.
 
+ER stress and UPR plays an important role in a spectrum of diseases and technological applications.
+In the context of diseases such as diabetes, pancreatic $\beta$-cells depend on efficient UPR signaling to meet the demands for constantly varying levels of insulin synthesis. Type 1 diabetes is marked by excessive loss of pancreatic $\beta$-cells, while type 2 diabetes is marked by pancreatic $\beta$-cell dysfunction. The large biosynthetic load placed on the ER because of insulin production in response to food uptake (glucose) can overwhelm the folding capacity of the ER, resulting in ER stress. This leads to subsequent PERK activation and reduction of protein synthesis. In PERK $\textit{-/-}$ cells, protein synthesis is unresponsive to the stress and leads to accumulation of unfolded proteins (e.g. proinsulin) and ultimately cell death. It has been shown that PERK deficient mice are more prone to diabetes and progressive hyperglycemia \cite{harding2001dma}. In type II diabetes, ER stress leads to JNK-mediated phosphorylation of insulin receptor substrate 1 (IRS1) at S307 \cite{ozcan2004ers}. IRS1 is a substrate of Insulin receptor. Phosphorylation of IRS1 therefore inhibits insulin action. Nitric oxide (NO), is also a key player in $\beta$-cell death in type-1 diabetes and vascular complications in type-2 diabetes. NO depletes ER Ca$^{2+}$ leading to ER stress and ultimately apoptosis. Pancreatic $\beta$-cells have shown that NO-induced apoptosis is CHOP dependent \cite{oyadomari2001noi}. Thus, ER stress is a critical feature of both type-I and type-II diabetes at the molecular, cellular and organismal level. ER stress and UPR function can also be important in cancers.
+The ER not only acts as the center for maturation of proteins, but also as a critical node for oxygen sensing and signaling.
+In rapidly growing tumors, cells face stressors like hypoxia and nutrient deprivation both of which can lead to ER stress and ultimately UPR.
+For example, oxygen deprivation has been shown to be an initiator of UPR \cite{Koumenis:2006zr}.
+Interestingly, the connection between hypoxia and UPR is through hypoxia inducible factor (HIF) independent pathways.
+Hypoxia drives PERK activation and the transient phosphorylation of eIF2$\alpha$ \cite{koumenis2002regulation, ma2003delineation, koritzinsky2006gene}
+on a time scale of minutes for anoxia, and much slower hypoxic conditions \cite{koritzinsky2006gene}.
+Because of their ability to transduce pro-apoptotic signals, PERK and IRE1 activity has been explored as a potential anti-cancer strategy.
+Versipelostatin, a repressor of BiP expression, has been shown to produce anti-tumor activity in MKN-74 xenograft mouse models \cite{park2004etc}.
+Enhanced apoptosis has also been observed in BiP-deficient fibrosarcoma cells, and XBP1- and PERK-deficient mouse fibroblasts \cite{jamora1996itp, romero2004xbp1, bi2005esr}.
+In the context of biotechnology, mammalian hosts, such as Chinese Hamster Ovary (CHO) cells, have been used for therapeutic protein production since as early as 1986
+\cite{Wurm:2004aa,Mohan:2008aa}. Several current biologics are secreted, for example, the monoclonal antibodies (MAb) interferon-$\gamma$ (IFN$\gamma$)
+or erythropoeitin (EPO) \cite{Ku:2008aa}. Thus, ER processing and the unfolded protein response are critical to the production of these and many other therapeutic proteins.
+However, despite its importance to disease and biotechnology, there has been a paucity of models of UPR in mammalian systems.
+
+% Interestingly, the connection between hypoxia and UPR is through hypoxia inducible factor (HIF) independent pathways,
+% thus UPR is integrated into one of the core oxygen sensitive pathways in mammalian cells.
+% This effect occurs on a time scale of minutes in the case of anoxia, and is slower for moderate (pO$_{2}\leq{1}$\%) hypoxic conditions \citep{koritzinsky2006gene}.
+% Because of their ability to transduce pro-apoptotic signals, the modulation of PERK and IRE1 activity has been explored as a potential anti-cancer strategy.
+% Versipelostatin, a repressor of BiP expression, has been shown to produce anti-tumor activity in MKN-74 xenograft mouse models \citep{park2004etc}.
+% Enhanced apoptosis has also been observed in BiP-deficient fibrosarcoma cells, and XBP1- and PERK-deficient mouse fibroblasts \citep{jamora1996itp, romero2004xbp1, bi2005esr}.
+
 In this study, we developed a population of mathematical models describing the adaptation, alarm, and apoptosis phases of the mammalian unfolded protein response (UPR).
 The biological connectivity of the UPR model was assembled following an extensive literature review.
 An ensemble of models parameters was estimated by minimizing the difference between simulations and experimental measurements using multiobjective optimization.
@@ -350,44 +373,57 @@ This leads to sequestering of Bcl2 by BAD, which inhibits its downstream anti-ap
 Thus, ER-stress induced ATF6 signaling may be responsible for additional undiscovered functionality.
 
 % Network corrections/corrections for future models:
-Given the structural and parametric uncertainty associated with the current version of the UPR model, we were still able to extract interesting insight into the complex inner workings and present falsifiable hypothesis regarding manipulating the UPR program.
-While we did an extensive search of the literature to formulate the model, we were missing certain key structural aspects of UPR which could provide a more comprehensive analysis for further generations of the model.
-One key missing aspect is the negative regulation of the three ER-stress transducers. Given PERK's central role in translation attenuation, cells have evolved multiple axes to regulate PERK activity \cite{Lee:1990ye}.
-Additionally, little is known about ATF6. XBP!u, the unspliced form of XBP1, has been implicated as a negative regulator for ATF6 \cite{Yoshida:2009bs}.
-IRE1$\alpha$ activity is regulated by several proteins, specifically members of the Bcl2 protein family Bax and Bak \cite{Hetz:2006qf}.
-More detailed network considerations for future model generations that may lend more relevant insight into manipulating UPR is found in supplementary material.
-First, the cytosolic kinase domain of PERK can be inhibited by the action of the DNAJ family member P58$^{IPK}$.
+We generated insights and presented falsifiable hypothesis regarding the UPR program using mathematical modeling.
+While we did an extensive literature search to formulate the model, we are likely missing key structural interactions in the UPR interaction network.
+First, we are missing the negative regulation of the three ER-stress transducers.
+Given PERK's central role in translation attenuation, cells have evolved multiple mechanisms to regulate PERK activity \cite{Lee:1990ye}.
+The cytosolic kinase domain of PERK can be inhibited by the action of the DNAJ family member P58$^{IPK}$.
 P58$^{IPK}$ was initially discovered as an inhibitor of the eIF2$\alpha$ protein kinase PKR \cite{Lee:1990ye}.
 P58$^{IPK}$, whose expression is induced following ATF6 activation, binds to the cytosolic kinase domain of PERK, inhibiting its activity \cite{Yan:2002fk,Huizen:2003qo}.
-Inhibition of PERK kinase activity relieves eIF2$\alpha$ phosphorylation, thereby removing the translational block. Interestingly, P58$^{IPK}$ expression occurs several hours after PERK activation and eIF2$\alpha$ phosphorylation.
+Inhibition of PERK kinase activity relieves eIF2$\alpha$ phosphorylation, thereby removing the translational block.
+Interestingly, P58$^{IPK}$ expression occurs several hours after PERK activation and eIF2$\alpha$ phosphorylation.
 Thus, P58$^{IPK}$ induction may mark the end of UPR adaptation, and the beginning of the alarm/apoptosis phase of the response \cite{szegezdi2006mediators}.
-Second, PERK induces a negative feedback loop, through its downstream effector CHOP, involving the direct de-phosphorylation of eIF2$\alpha$.
-CHOP induces the expression of GADD34 which, in conjunction with protein phosphatase 1 (PP1), assembles into a phosphatase which dephosphorylates the S51 residue of eIF2$\alpha$ \cite{Novoa:2001mb}.
-GADD34 is a member of the GADD family of genes which are induced by DNA damage and a variety of other cellular stresses \cite{Zhan:1994cq}.
-The GADD34 binding partner in this complex appears to be responsible for PP1$\alpha$ recognition and targeting of the phosphatase complex to the ER. Association between GADD34 and PP1 is encoded by a C-terminal canonical PP1 binding motif, KVRF, while approximately 180 residues, near the N-terminus of GADD34, appear to be responsible for ER localization \cite{Brush:2003kh}.
-Currently, little is known about deactivation of ATF6. Recently, XBP1u, the unspliced form of XBP1, has been implicated as a negative regulator for ATF6 \cite{Yoshida:2009bs}. Following, the induction of ER stress, two versions of XBP1 exist: XBP1u and sXBP1 \cite{Yoshida:2009bs}.
-In the recovery phase following ER stress, high levels of XBP1u may play a dual role. First, XBP1u binds sXBP1, promoting complex degradation \cite{Yoshida:2006dz, Tirosh:2006fv}.
-Second, XBP1u can bind ATF6$\alpha$ rendering it more prone to proteasomal degradation \cite{Yoshida:2009bs}.
-Taken together, these two steps may slow the transcription of ER chaperones and ERAD components during the recovery phase following ER stress. IRE1$\alpha$ activity is regulated by several proteins, including tyrosine phosphatase 1B (PTP-1B), ASK1-interactive protein 1 (AIP1) and members of the Bcl2 protein family.
-PTP-1B has been implicated in a number of IRE1$\alpha$ signaling events. The absence of PTP-1B reduced IRE1$\alpha$ dependent JNK activation, XBP1 splicing and EDEM transcription in immortalized and primary mouse embryonic fibroblasts \cite{Gu:2004kx}.
-However, no physical interaction between IRE1$\alpha$ and PTP-1B was established. On the other hand, AIP1 physically interacts with both TRAF2 and IRE1$\alpha$, suggesting a model in which AIP1 facilitates IRE1$\alpha$ dimerization and activation \cite{Luo:2008ly}.
-The C-terminal period-like domain (PER) of AIF1 binds the N-terminal RING finger domain of TRAF2, followed by ASK1-JNK signaling \cite{Zhang:2004ve}.
-Thus, based on these findings, Luo \emph{et al.} postulated that AIF1 may be directly involved in the IRE1$\alpha$-TRAF2 complex and its activation of the ASK1-JNK signaling axis \cite{Luo:2008ly}.
-This hypothesis was validated in AIP1-KO mouse studies; AIP1-knockout mouse embryonic fibroblasts and vascular endothelial cells showed significant reductions in ER-stress induced ASK1-JNK activation that was rescued in AIP1 knock-in cells \cite{Luo:2008ly}.
-IRE1$\alpha$ has also been shown to directly interact with Bcl-2 family members Bax and Bak. Hetz \emph{et al.} showed that Bax and Bak complex with the cytosolic domain of IRE1$\alpha$ and modulate IRE1$\alpha$ signaling \cite{Hetz:2006qf}.
-Bax and Bak double knockout mice failed to signal through the IRE1$\alpha$ UPR branch following tunicamycin-induced ER stress; however, PERK signaling markers, e.g., eIF2$\alpha$ phosphorylation, responded normally \cite{Hetz:2006qf}.
-This pro-activation role of Bak and Bax may be modulated by one of the few negative regulators of IRE1$\alpha$ activity, Bax inhibitor 1 (BI-1). BI-1 is an anti-apoptotic protein that enhances cell survival following several intrinsic death stimuli \cite{Xu:1998dq}.
-Bailly-Maitre \emph{et al.} were the first to suggest that BI-1 may downregulate IRE1$\alpha$ and possibly ATF6 activity \cite{Bailly-Maitre:2006bh}.
-BI-1 deficient mice displayed increased XBP1s and enhanced JNK activity in the liver and kidney, while eIF2$\alpha$ phosphorylation remained normal under ER-stress conditions \cite{Bailly-Maitre:2006bh}.
-Lisbona \emph{et al.} later showed that BI-1 directly interacts with the cytosolic domain of IRE1$\alpha$, inhibiting its endoribonuclease activity \cite{Lisbona:2009cr}.
-Interestingly, BI-1 interacts with several members of the Bcl2 protein family e.g., Bcl2 and Bcl-X$_{L}$, even though it has no homology \cite{Xu:1998dq}.
+Second, PERK induces a negative feedback loop, through its downstream effector CHOP, involving the de-phosphorylation of eIF2$\alpha$.
+CHOP induces the expression of GADD34 which, in conjunction with protein phosphatase 1 (PP1), assembles into a phosphatase which dephosphorylates the S51 residue of eIF2$\alpha$ \cite{Novoa:2001mb}. GADD34 is a member of the GADD family of genes which are induced by DNA damage and a variety of other cellular stresses \cite{Zhan:1994cq}.
+The GADD34 binding partner in this complex appears to be responsible for PP1$\alpha$ recognition and targeting of the phosphatase complex to the ER.
+Association between GADD34 and PP1 is encoded by a C-terminal canonical PP1 binding motif, KVRF, while approximately 180 residues near the N-terminus of GADD34, appear to be responsible for ER localization \cite{Brush:2003kh}.
+Next, little is known about deactivation of ATF6. Recently, XBP1u, the unspliced form of XBP1, has been implicated as a negative regulator for ATF6 \cite{Yoshida:2009bs}.
+In the recovery phase following ER stress, high levels of XBP1u may play a dual role by promoting degradation \cite{Yoshida:2006dz, Tirosh:2006fv},
+and binding of ATF6$\alpha$ rendering it prone to proteasomal degradation \cite{Yoshida:2009bs}.
+Lastly, we should revisit the regulation of IRE1$\alpha$ activity.
+IRE1$\alpha$ activity is regulated by several proteins, including tyrosine phosphatase 1B (PTP-1B), ASK1-interactive protein 1 (AIP1) and members of the Bcl2 protein family.
 Members of the HSP family of proteins have also been shown to regulate IRE1$\alpha$.
 For example, HSP90 interacts with the cytosolic domain of IRE1$\alpha$, potentially protecting it from degradation by the proteasome \cite{Marcu:2002oq}.
 HSP72 interaction with the cytosolic IRE1$\alpha$ domain has also recently been shown to enhance IRE1$\alpha$ endoribonuclease activity \cite{Gupta:2010kl}.
-Taken together, these modes of IRE1$\alpha$ regulation with the exception of B1-1, largely promote or enhance IRE1$\alpha$ signaling. Given the importance of CHOP in regulation of Bcl2, it is vital to establish the exact connectivity.
-However, while CHOP expression is negatively correlated with Bcl2 levels, there is no CHOP binding site in the \emph{bcl2} promoter \cite{mccullough2001gsc}. McCullough \emph{et al.} have suggested that the bZIP domain of CHOP could act with other bZIP transcription factors to regulate \emph{bcl2} expression \cite{mccullough2001gsc}.
-Thus, it's likely that the connection between CHOP expression and apoptosis is more complex than simple down-regulation of Bcl2 expression.
-These missing structural connections shall allow us to establish a detailed model and extract more relevant insights into manipulating UPR.
+These missing structural connections could be important to fully understanding and manipulating UPR.
+
+% PTP-1B has been implicated in a number of IRE1$\alpha$ signaling events. The absence of PTP-1B reduced IRE1$\alpha$ dependent JNK activation, XBP1 splicing and EDEM transcription in immortalized and primary mouse embryonic fibroblasts \cite{Gu:2004kx}.
+% However, no physical interaction between IRE1$\alpha$ and PTP-1B was established. On the other hand, AIP1 physically interacts with both TRAF2 and IRE1$\alpha$, suggesting a model in which AIP1 facilitates IRE1$\alpha$ dimerization and activation \cite{Luo:2008ly}.
+% The C-terminal period-like domain (PER) of AIF1 binds the N-terminal RING finger domain of TRAF2, followed by ASK1-JNK signaling \cite{Zhang:2004ve}.
+% Thus, based on these findings, Luo \emph{et al.} postulated that AIF1 may be directly involved in the IRE1$\alpha$-TRAF2 complex and its activation of the ASK1-JNK signaling axis \cite{Luo:2008ly}.
+% This hypothesis was validated in AIP1-KO mouse studies; AIP1-knockout mouse embryonic fibroblasts and vascular endothelial cells showed significant reductions in ER-stress induced ASK1-JNK activation that was rescued in AIP1 knock-in cells \cite{Luo:2008ly}.
+% IRE1$\alpha$ has also been shown to directly interact with Bcl-2 family members Bax and Bak. Hetz \emph{et al.} showed that Bax and Bak complex with the cytosolic domain of IRE1$\alpha$ and modulate IRE1$\alpha$ signaling \cite{Hetz:2006qf}.
+% Bax and Bak double knockout mice failed to signal through the IRE1$\alpha$ UPR branch following tunicamycin-induced ER stress; however, PERK signaling markers, e.g., eIF2$\alpha$ phosphorylation, responded normally \cite{Hetz:2006qf}.
+% This pro-activation role of Bak and Bax may be modulated by one of the few negative regulators of IRE1$\alpha$ activity, Bax inhibitor 1 (BI-1). BI-1 is an anti-apoptotic protein that enhances cell survival following several intrinsic death stimuli \cite{Xu:1998dq}.
+% Bailly-Maitre \emph{et al.} were the first to suggest that BI-1 may downregulate IRE1$\alpha$ and possibly ATF6 activity \cite{Bailly-Maitre:2006bh}.
+% BI-1 deficient mice displayed increased XBP1s and enhanced JNK activity in the liver and kidney, while eIF2$\alpha$ phosphorylation remained normal under ER-stress conditions \cite{Bailly-Maitre:2006bh}.
+% Lisbona \emph{et al.} later showed that BI-1 directly interacts with the cytosolic domain of IRE1$\alpha$, inhibiting its endoribonuclease activity \cite{Lisbona:2009cr}.
+% Interestingly, BI-1 interacts with several members of the Bcl2 protein family e.g., Bcl2 and Bcl-X$_{L}$, even though it has no homology \cite{Xu:1998dq}.
+
+% aken together, these modes of IRE1$\alpha$ regulation with the exception of B1-1, largely promote or enhance IRE1$\alpha$ signaling. Given the importance of CHOP in regulation of Bcl2, it is vital to establish the exact connectivity.
+% However, while CHOP expression is negatively correlated with Bcl2 levels, there is no CHOP binding site in the \emph{bcl2} promoter \cite{mccullough2001gsc}. McCullough \emph{et al.} have suggested that the bZIP domain of CHOP could act with other bZIP transcription factors to regulate \emph{bcl2} expression \cite{mccullough2001gsc}.
+% Thus, it's likely that the connection between CHOP expression and apoptosis is more complex than simple down-regulation of Bcl2 expression.
+
+
+% Additionally, little is known about ATF6. XBP1u, the unspliced form of XBP1, has been implicated as a negative regulator for ATF6 \cite{Yoshida:2009bs}.
+% IRE1$\alpha$ activity is regulated by several proteins, specifically members of the Bcl2 protein family Bax and Bak \cite{Hetz:2006qf}.
+% More detailed network considerations for future model generations that may lend more relevant insight into manipulating UPR is found in supplementary material.
+% First,Currently, l
+% Second, XBP1u can
+
+
+
+%Given the structural and parametric uncertainty associated with the current version of the UPR model, we were still able to extract interesting insight into the complex inner workings and present falsifiable hypothesis regarding manipulating the UPR program.
 
 
 \section*{Methods}
@@ -473,7 +509,7 @@ We simultaneously calculated training and prediction error during the parameter 
 The complete set of training data (33 objectives) was subdivided into four bins; in each bin 25 data sets were reserved for training while eight were reserved for prediction.
 In the first bin DS$_{1}\hdots$DS$_{8}$ were used for validation while DS$_{9}\hdots$DS$_{33}$ were used for training.
 In the second bin DS$_{9}\hdots$DS$_{16}$ were used for validation while DS$_{1}\hdots$DS$_{8}~$DS$_{17}\hdots$DS$_{33}$ were used for training, etc.
-Thus, we formulated four ensembles from which we evenly selected parameter sets for the \emph{parent} ensemble (Fig. \ref{fg:fig2}).
+Thus, we formulated four ensembles from which we evenly selected parameter sets for the \emph{parent} ensemble.
 While cross-validation required that we generate additional model populations, we trained and tested against all the data sets.
 
 \subsection*{Sensitivity and robustness analysis of the population of UPR models.}

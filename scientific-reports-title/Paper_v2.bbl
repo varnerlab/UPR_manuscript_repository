@@ -99,6 +99,117 @@
   \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{618--29}
   (\bibinfo{year}{2007}).
 
+\bibitem{harding2001dma}
+\bibinfo{author}{Harding, H.~P.} \emph{et~al.}
+\newblock \bibinfo{title}{Diabetes mellitus and exocrine pancreatic dysfunction
+  in perk-/- mice reveals a role for translational control in secretory cell
+  survival}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{7}},
+  \bibinfo{pages}{1153--63} (\bibinfo{year}{2001}).
+
+\bibitem{ozcan2004ers}
+\bibinfo{author}{Ozcan, U.} \emph{et~al.}
+\newblock \bibinfo{title}{Endoplasmic reticulum stress links obesity, insulin
+  action, and type 2 diabetes}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{306}},
+  \bibinfo{pages}{457--61} (\bibinfo{year}{2004}).
+
+\bibitem{oyadomari2001noi}
+\bibinfo{author}{Oyadomari, S.} \emph{et~al.}
+\newblock \bibinfo{title}{Nitric oxide-induced apoptosis in pancreatic beta
+  cells is mediated by the endoplasmic reticulum stress pathway}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
+  \textbf{\bibinfo{volume}{98}}, \bibinfo{pages}{10845--50}
+  (\bibinfo{year}{2001}).
+
+\bibitem{Koumenis:2006zr}
+\bibinfo{author}{Koumenis, C.} \& \bibinfo{author}{Wouters, B.~G.}
+\newblock \bibinfo{title}{"translating" tumor hypoxia: unfolded protein
+  response (upr)-dependent and upr-independent pathways}.
+\newblock \emph{\bibinfo{journal}{Mol Cancer Res}}
+  \textbf{\bibinfo{volume}{4}}, \bibinfo{pages}{423--36}
+  (\bibinfo{year}{2006}).
+
+\bibitem{koumenis2002regulation}
+\bibinfo{author}{Koumenis, C.} \emph{et~al.}
+\newblock \bibinfo{title}{Regulation of protein synthesis by hypoxia via
+  activation of the endoplasmic reticulum kinase perk and phosphorylation of
+  the translation initiation factor eif2alpha}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{7405--16}
+  (\bibinfo{year}{2002}).
+
+\bibitem{ma2003delineation}
+\bibinfo{author}{Ma, Y.} \& \bibinfo{author}{Hendershot, L.~M.}
+\newblock \bibinfo{title}{Delineation of a negative feedback regulatory loop
+  that controls protein translation during endoplasmic reticulum stress}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{278}},
+  \bibinfo{pages}{34864--73} (\bibinfo{year}{2003}).
+
+\bibitem{koritzinsky2006gene}
+\bibinfo{author}{Koritzinsky, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Gene expression during acute and prolonged hypoxia is
+  regulated by distinct mechanisms of translational control}.
+\newblock \emph{\bibinfo{journal}{EMBO J}} \textbf{\bibinfo{volume}{25}},
+  \bibinfo{pages}{1114--25} (\bibinfo{year}{2006}).
+
+\bibitem{park2004etc}
+\bibinfo{author}{Park, H.-R.} \emph{et~al.}
+\newblock \bibinfo{title}{Effect on tumor cells of blocking survival response
+  to glucose deprivation}.
+\newblock \emph{\bibinfo{journal}{J Natl Cancer Inst}}
+  \textbf{\bibinfo{volume}{96}}, \bibinfo{pages}{1300--10}
+  (\bibinfo{year}{2004}).
+
+\bibitem{jamora1996itp}
+\bibinfo{author}{Jamora, C.}, \bibinfo{author}{Dennert, G.} \&
+  \bibinfo{author}{Lee, A.~S.}
+\newblock \bibinfo{title}{Inhibition of tumor progression by suppression of
+  stress protein grp78/bip induction in fibrosarcoma b/c10me}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
+  \textbf{\bibinfo{volume}{93}}, \bibinfo{pages}{7690--4}
+  (\bibinfo{year}{1996}).
+
+\bibitem{romero2004xbp1}
+\bibinfo{author}{Romero-Ramirez, L.} \emph{et~al.}
+\newblock \bibinfo{title}{Xbp1 is essential for survival under hypoxic
+  conditions and is required for tumor growth}.
+\newblock \emph{\bibinfo{journal}{Cancer Res}} \textbf{\bibinfo{volume}{64}},
+  \bibinfo{pages}{5943--7} (\bibinfo{year}{2004}).
+
+\bibitem{bi2005esr}
+\bibinfo{author}{Bi, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Er stress-regulated translation increases tolerance
+  to extreme hypoxia and promotes tumor growth}.
+\newblock \emph{\bibinfo{journal}{EMBO J}} \textbf{\bibinfo{volume}{24}},
+  \bibinfo{pages}{3470--81} (\bibinfo{year}{2005}).
+
+\bibitem{Wurm:2004aa}
+\bibinfo{author}{Wurm, F.~M.}
+\newblock \bibinfo{title}{Production of recombinant protein therapeutics in
+  cultivated mammalian cells}.
+\newblock \emph{\bibinfo{journal}{Nat Biotechnol}}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{1393--8}
+  (\bibinfo{year}{2004}).
+
+\bibitem{Mohan:2008aa}
+\bibinfo{author}{Mohan, C.}, \bibinfo{author}{Kim, Y.-G.},
+  \bibinfo{author}{Koo, J.} \& \bibinfo{author}{Lee, G.~M.}
+\newblock \bibinfo{title}{Assessment of cell engineering strategies for
+  improved therapeutic protein production in cho cells}.
+\newblock \emph{\bibinfo{journal}{Biotechnol J}} \textbf{\bibinfo{volume}{3}},
+  \bibinfo{pages}{624--30} (\bibinfo{year}{2008}).
+
+\bibitem{Ku:2008aa}
+\bibinfo{author}{Ku, S. C.~Y.}, \bibinfo{author}{Ng, D. T.~W.},
+  \bibinfo{author}{Yap, M. G.~S.} \& \bibinfo{author}{Chao, S.-H.}
+\newblock \bibinfo{title}{Effects of overexpression of x-box binding protein 1
+  on recombinant protein production in chinese hamster ovary and ns0 myeloma
+  cells}.
+\newblock \emph{\bibinfo{journal}{Biotechnol Bioeng}}
+  \textbf{\bibinfo{volume}{99}}, \bibinfo{pages}{155--64}
+  (\bibinfo{year}{2008}).
+
 \bibitem{Schroder:2005vn}
 \bibinfo{author}{Schr{\"o}der, M.} \& \bibinfo{author}{Kaufman, R.~J.}
 \newblock \bibinfo{title}{The mammalian unfolded protein response}.
@@ -358,22 +469,6 @@
   \textbf{\bibinfo{volume}{87}}, \bibinfo{pages}{6208--12}
   (\bibinfo{year}{1990}).
 
-\bibitem{Yoshida:2009bs}
-\bibinfo{author}{Yoshida, H.}, \bibinfo{author}{Uemura, A.} \&
-  \bibinfo{author}{Mori, K.}
-\newblock \bibinfo{title}{pxbp1(u), a negative regulator of the unfolded
-  protein response activator pxbp1(s), targets atf6 but not atf4 in
-  proteasome-mediated degradation}.
-\newblock \emph{\bibinfo{journal}{Cell Struct Funct}}
-  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{1--10} (\bibinfo{year}{2009}).
-
-\bibitem{Hetz:2006qf}
-\bibinfo{author}{Hetz, C.} \emph{et~al.}
-\newblock \bibinfo{title}{Proapoptotic bax and bak modulate the unfolded
-  protein response by a direct interaction with ire1alpha}.
-\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{312}},
-  \bibinfo{pages}{572--6} (\bibinfo{year}{2006}).
-
 \bibitem{Yan:2002fk}
 \bibinfo{author}{Yan, W.} \emph{et~al.}
 \newblock \bibinfo{title}{Control of perk eif2alpha kinase activity by the
@@ -419,6 +514,15 @@
   \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{1292--303}
   (\bibinfo{year}{2003}).
 
+\bibitem{Yoshida:2009bs}
+\bibinfo{author}{Yoshida, H.}, \bibinfo{author}{Uemura, A.} \&
+  \bibinfo{author}{Mori, K.}
+\newblock \bibinfo{title}{pxbp1(u), a negative regulator of the unfolded
+  protein response activator pxbp1(s), targets atf6 but not atf4 in
+  proteasome-mediated degradation}.
+\newblock \emph{\bibinfo{journal}{Cell Struct Funct}}
+  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{1--10} (\bibinfo{year}{2009}).
+
 \bibitem{Yoshida:2006dz}
 \bibinfo{author}{Yoshida, H.}, \bibinfo{author}{Oku, M.},
   \bibinfo{author}{Suzuki, M.} \& \bibinfo{author}{Mori, K.}
@@ -435,50 +539,6 @@
   modulates the unfolded protein response}.
 \newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{281}},
   \bibinfo{pages}{5852--60} (\bibinfo{year}{2006}).
-
-\bibitem{Gu:2004kx}
-\bibinfo{author}{Gu, F.} \emph{et~al.}
-\newblock \bibinfo{title}{Protein-tyrosine phosphatase 1b potentiates ire1
-  signaling during endoplasmic reticulum stress}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{279}},
-  \bibinfo{pages}{49689--93} (\bibinfo{year}{2004}).
-
-\bibitem{Luo:2008ly}
-\bibinfo{author}{Luo, D.} \emph{et~al.}
-\newblock \bibinfo{title}{Aip1 is critical in transducing ire1-mediated
-  endoplasmic reticulum stress response}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{283}},
-  \bibinfo{pages}{11905--12} (\bibinfo{year}{2008}).
-
-\bibitem{Zhang:2004ve}
-\bibinfo{author}{Zhang, H.} \emph{et~al.}
-\newblock \bibinfo{title}{Aip1/dab2ip, a novel member of the ras-gap family,
-  transduces traf2-induced ask1-jnk activation}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{279}},
-  \bibinfo{pages}{44955--65} (\bibinfo{year}{2004}).
-
-\bibitem{Xu:1998dq}
-\bibinfo{author}{Xu, Q.} \& \bibinfo{author}{Reed, J.~C.}
-\newblock \bibinfo{title}{Bax inhibitor-1, a mammalian apoptosis suppressor
-  identified by functional screening in yeast}.
-\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{1}},
-  \bibinfo{pages}{337--46} (\bibinfo{year}{1998}).
-
-\bibitem{Bailly-Maitre:2006bh}
-\bibinfo{author}{Bailly-Maitre, B.} \emph{et~al.}
-\newblock \bibinfo{title}{Cytoprotective gene bi-1 is required for intrinsic
-  protection from endoplasmic reticulum stress and ischemia-reperfusion
-  injury}.
-\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
-  \textbf{\bibinfo{volume}{103}}, \bibinfo{pages}{2809--14}
-  (\bibinfo{year}{2006}).
-
-\bibitem{Lisbona:2009cr}
-\bibinfo{author}{Lisbona, F.} \emph{et~al.}
-\newblock \bibinfo{title}{Bax inhibitor-1 is a negative regulator of the er
-  stress sensor ire1alpha}.
-\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{33}},
-  \bibinfo{pages}{679--91} (\bibinfo{year}{2009}).
 
 \bibitem{Marcu:2002oq}
 \bibinfo{author}{Marcu, M.~G.} \emph{et~al.}
@@ -937,12 +997,56 @@
 \newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{440}},
   \bibinfo{pages}{1064--8} (\bibinfo{year}{2006}).
 
-\bibitem{ma2003delineation}
-\bibinfo{author}{Ma, Y.} \& \bibinfo{author}{Hendershot, L.~M.}
-\newblock \bibinfo{title}{Delineation of a negative feedback regulatory loop
-  that controls protein translation during endoplasmic reticulum stress}.
-\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{278}},
-  \bibinfo{pages}{34864--73} (\bibinfo{year}{2003}).
+\bibitem{Gu:2004kx}
+\bibinfo{author}{Gu, F.} \emph{et~al.}
+\newblock \bibinfo{title}{Protein-tyrosine phosphatase 1b potentiates ire1
+  signaling during endoplasmic reticulum stress}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{279}},
+  \bibinfo{pages}{49689--93} (\bibinfo{year}{2004}).
+
+\bibitem{Luo:2008ly}
+\bibinfo{author}{Luo, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Aip1 is critical in transducing ire1-mediated
+  endoplasmic reticulum stress response}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{283}},
+  \bibinfo{pages}{11905--12} (\bibinfo{year}{2008}).
+
+\bibitem{Zhang:2004ve}
+\bibinfo{author}{Zhang, H.} \emph{et~al.}
+\newblock \bibinfo{title}{Aip1/dab2ip, a novel member of the ras-gap family,
+  transduces traf2-induced ask1-jnk activation}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{279}},
+  \bibinfo{pages}{44955--65} (\bibinfo{year}{2004}).
+
+\bibitem{Hetz:2006qf}
+\bibinfo{author}{Hetz, C.} \emph{et~al.}
+\newblock \bibinfo{title}{Proapoptotic bax and bak modulate the unfolded
+  protein response by a direct interaction with ire1alpha}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{312}},
+  \bibinfo{pages}{572--6} (\bibinfo{year}{2006}).
+
+\bibitem{Xu:1998dq}
+\bibinfo{author}{Xu, Q.} \& \bibinfo{author}{Reed, J.~C.}
+\newblock \bibinfo{title}{Bax inhibitor-1, a mammalian apoptosis suppressor
+  identified by functional screening in yeast}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{1}},
+  \bibinfo{pages}{337--46} (\bibinfo{year}{1998}).
+
+\bibitem{Bailly-Maitre:2006bh}
+\bibinfo{author}{Bailly-Maitre, B.} \emph{et~al.}
+\newblock \bibinfo{title}{Cytoprotective gene bi-1 is required for intrinsic
+  protection from endoplasmic reticulum stress and ischemia-reperfusion
+  injury}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci U S A}}
+  \textbf{\bibinfo{volume}{103}}, \bibinfo{pages}{2809--14}
+  (\bibinfo{year}{2006}).
+
+\bibitem{Lisbona:2009cr}
+\bibinfo{author}{Lisbona, F.} \emph{et~al.}
+\newblock \bibinfo{title}{Bax inhibitor-1 is a negative regulator of the er
+  stress sensor ire1alpha}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{33}},
+  \bibinfo{pages}{679--91} (\bibinfo{year}{2009}).
 
 \bibitem{lin2009divergent}
 \bibinfo{author}{Lin, J.}, \bibinfo{author}{Li, H.}, \bibinfo{author}{Zhang,
