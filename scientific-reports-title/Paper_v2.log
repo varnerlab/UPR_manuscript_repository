@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 JUN 2016 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.3.22)  18 JUL 2016 18:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,19 +8,19 @@ LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./wlscirep.cls
 Document Class: wlscirep 18/03/2016, v1.1
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -170,7 +170,7 @@ File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -201,7 +201,7 @@ File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -225,13 +225,13 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2014/09/25 3.9l The Babel package
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count79
 \U@D=\dimen102
@@ -240,10 +240,10 @@ File: babel.def 2014/09/25 3.9l Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count80
 \calc@Bcount=\count81
@@ -256,9 +256,9 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count82
 \calc@Cskip=\skip43
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fleqn.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
 File: fleqn.clo 2015/03/31 v1.1i Standard LaTeX option (flush left equations)
 \mathindent=\dimen105
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -268,7 +268,7 @@ Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count83
@@ -283,10 +283,10 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip45
 \bibindent=\dimen106
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathptmx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -322,28 +322,28 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip46
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen107
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen108
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count91
@@ -384,41 +384,41 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup6
 \symAMSb=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count103
@@ -426,10 +426,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen116
 \Gin@req@width=\dimen117
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -443,7 +443,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen118
 \lightrulewidth=\dimen119
@@ -463,7 +463,7 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count107
 \@thisrulewidth=\dimen130
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/preprint/authblk.sty
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
 \affilsep=\skip49
 \@affilsep=\skip50
@@ -471,14 +471,14 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@authors=\count109
 \c@affil=\count110
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count111
@@ -494,10 +494,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen138
 \Gm@dimlist=\toks22
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen139
@@ -510,14 +510,14 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 )
 \c@ContinuedFloat=\count114
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -556,24 +556,24 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen146
 \Hy@linkcounter=\count115
 \Hy@pagecounter=\count116
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count117
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
@@ -586,7 +586,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count118
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -611,25 +611,25 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count123
 \c@bookmark@seq@number=\count124
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip51
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/cite/cite.sty
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 LaTeX Info: Redefining \cite on input line 441.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip52
 \f@ncyO@elh=\skip53
 \f@ncyO@erh=\skip54
@@ -640,10 +640,10 @@ LaTeX Info: Redefining \cite on input line 441.
 \f@ncyO@olf=\skip59
 \f@ncyO@orf=\skip60
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lastpage/lastpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box28
 \beforetitleunit=\skip61
@@ -655,14 +655,14 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen153
 \titlewidthfirst=\dimen154
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/ttlkeys.def
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/ttlkeys.def
 File: ttlkeys.def 2011/12/15
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titletoc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen155
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip63
 \enit@outerparindent=\dimen156
@@ -672,11 +672,11 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 )
 \tocsep=\skip64
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count126
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks25
 \MT@count=\count127
@@ -685,7 +685,7 @@ LaTeX Info: Redefining \textls on input line 766.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
 \MT@listname@count=\count128
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
@@ -694,21 +694,21 @@ LaTeX Info: Redefining \lslig on input line 915.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen158
 \epsfysize=\dimen159
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -716,11 +716,11 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip66
 \LTright=\skip67
@@ -738,7 +738,7 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count133
 \LT@p@ftn=\toks26
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/supertabular/supertabular.sty
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count134
 \ST@wd=\dimen161
@@ -757,10 +757,10 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@dimen=\dimen171
 \ST@pbox=\box34
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen172
 \extrarowheight=\dimen173
@@ -788,10 +788,11 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 51.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count135
 \scratchdimen=\dimen174
@@ -842,7 +843,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/ltcaption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
@@ -850,10 +851,10 @@ Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box36
 Package hyperref Info: Link coloring ON on input line 51.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count141
@@ -880,12 +881,12 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 56.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1phv.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 Package microtype Info: Loading generic settings for font family
@@ -899,7 +900,7 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20> not available
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 56
 .
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 Package microtype Info: Loading generic settings for font family
@@ -909,19 +910,19 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 56
 .
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 56
 .
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 56
 .
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -931,10 +932,10 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msa.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msb.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
@@ -949,19 +950,19 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 56.
  [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4]
-[5] [6] [7] [8] [9
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8
+] [9
 
-] (./Paper_v2.bbl [10
+]
+(./Paper_v2.bbl [10
 
 ] [11] [12] [13] [14]) [15]
 Package epstopdf Info: Source file: <./Main_Figures/Pathway_F1.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 3912230 bytes
 (epstopdf)             Output file: <./Main_Figures/Pathway_F1-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1309760 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Main_Figures/Pathway_F1-
 eps-converted-to.pdf ./Main_Figures/Pathway_F1.eps>
@@ -976,11 +977,11 @@ Package pdftex.def Info: ./Main_Figures/Pathway_F1-eps-converted-to.pdf used on
  input line 613.
 (pdftex.def)             Requested size: 400.38872pt x 430.65556pt.
 Package epstopdf Info: Source file: <./Main_Figures/OBJ_F2.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1276514 bytes
 (epstopdf)             Output file: <./Main_Figures/OBJ_F2-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 142642 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Main_Figures/OBJ_F2-eps-
 converted-to.pdf ./Main_Figures/OBJ_F2.eps>
@@ -995,11 +996,11 @@ Package pdftex.def Info: ./Main_Figures/OBJ_F2-eps-converted-to.pdf used on inp
 ut line 619.
 (pdftex.def)             Requested size: 500.484pt x 329.4664pt.
 Package epstopdf Info: Source file: <./Main_Figures/TRPR_F3.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1783603 bytes
 (epstopdf)             Output file: <./Main_Figures/TRPR_F3-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 184673 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Main_Figures/TRPR_F3-eps
 -converted-to.pdf ./Main_Figures/TRPR_F3.eps>
@@ -1013,11 +1014,11 @@ Package pdftex.def Info: ./Main_Figures/TRPR_F3-eps-converted-to.pdf used on in
 put line 625.
 (pdftex.def)             Requested size: 500.484pt x 520.25786pt.
 Package epstopdf Info: Source file: <./Main_Figures/Proof_F4.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1543542 bytes
 (epstopdf)             Output file: <./Main_Figures/Proof_F4-eps-converted-to.p
 df>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 139811 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Main_Figures/Proof_F4-ep
 s-converted-to.pdf ./Main_Figures/Proof_F4.eps>
@@ -1032,11 +1033,11 @@ Package pdftex.def Info: ./Main_Figures/Proof_F4-eps-converted-to.pdf used on i
 nput line 631.
 (pdftex.def)             Requested size: 500.484pt x 386.2717pt.
 Package epstopdf Info: Source file: <./Main_Figures/Flux_F5.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 4628110 bytes
 (epstopdf)             Output file: <./Main_Figures/Flux_F5-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1231410 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Main_Figures/Flux_F5-eps
 -converted-to.pdf ./Main_Figures/Flux_F5.eps>
@@ -1058,11 +1059,11 @@ File: ./Main_Figures/Sens_F1.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Main_Figures/Sens_F1.pdf used on input line 646.
 (pdftex.def)             Requested size: 433.62334pt x 397.48402pt.
 Package epstopdf Info: Source file: <./Main_Figures/Rob_F7.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 5656240 bytes
 (epstopdf)             Output file: <./Main_Figures/Rob_F7-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1477794 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Main_Figures/Rob_F7-eps-
 converted-to.pdf ./Main_Figures/Rob_F7.eps>
@@ -1090,11 +1091,11 @@ Underfull \vbox (badness 4072) has occurred while \output is active []
  [2]
 [3] [4] [5]
 Package epstopdf Info: Source file: <./Supp_Figures/Para_S1.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 573845 bytes
 (epstopdf)             Output file: <./Supp_Figures/Para_S1-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 65824 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/Para_S1-eps
 -converted-to.pdf ./Supp_Figures/Para_S1.eps>
@@ -1108,11 +1109,11 @@ Package pdftex.def Info: ./Supp_Figures/Para_S1-eps-converted-to.pdf used on in
 put line 727.
 (pdftex.def)             Requested size: 500.484pt x 189.33383pt.
 Package epstopdf Info: Source file: <./Supp_Figures/Flux_S1.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1388417 bytes
 (epstopdf)             Output file: <./Supp_Figures/Flux_S1-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 123092 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/Flux_S1-eps
 -converted-to.pdf ./Supp_Figures/Flux_S1.eps>
@@ -1127,11 +1128,11 @@ Package pdftex.def Info: ./Supp_Figures/Flux_S1-eps-converted-to.pdf used on in
 put line 733.
 (pdftex.def)             Requested size: 500.484pt x 210.83568pt.
 Package epstopdf Info: Source file: <./Supp_Figures/Sens_S1.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 5263768 bytes
 (epstopdf)             Output file: <./Supp_Figures/Sens_S1-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1251134 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/Sens_S1-eps
 -converted-to.pdf ./Supp_Figures/Sens_S1.eps>
@@ -1146,11 +1147,11 @@ Package pdftex.def Info: ./Supp_Figures/Sens_S1-eps-converted-to.pdf used on in
 put line 744.
 (pdftex.def)             Requested size: 500.484pt x 408.69705pt.
 Package epstopdf Info: Source file: <./Supp_Figures/Sens_S3.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 1209396 bytes
 (epstopdf)             Output file: <./Supp_Figures/Sens_S3-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 146934 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/Sens_S3-eps
 -converted-to.pdf ./Supp_Figures/Sens_S3.eps>
@@ -1165,11 +1166,11 @@ Package pdftex.def Info: ./Supp_Figures/Sens_S3-eps-converted-to.pdf used on in
 put line 750.
 (pdftex.def)             Requested size: 300.29344pt x 478.43573pt.
 Package epstopdf Info: Source file: <./Supp_Figures/TRANS_S1.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 595525 bytes
 (epstopdf)             Output file: <./Supp_Figures/TRANS_S1-eps-converted-to.p
 df>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 61457 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/TRANS_S1-ep
 s-converted-to.pdf ./Supp_Figures/TRANS_S1.eps>
@@ -1184,11 +1185,11 @@ Package pdftex.def Info: ./Supp_Figures/TRANS_S1-eps-converted-to.pdf used on i
 nput line 758.
 (pdftex.def)             Requested size: 500.484pt x 327.01546pt.
 Package epstopdf Info: Source file: <./Supp_Figures/COUP_S1.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 580648 bytes
 (epstopdf)             Output file: <./Supp_Figures/COUP_S1-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 68768 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/COUP_S1-eps
 -converted-to.pdf ./Supp_Figures/COUP_S1.eps>
@@ -1203,11 +1204,11 @@ Package pdftex.def Info: ./Supp_Figures/COUP_S1-eps-converted-to.pdf used on in
 put line 764.
 (pdftex.def)             Requested size: 500.484pt x 197.09706pt.
 Package epstopdf Info: Source file: <./Supp_Figures/COUP_S2.eps>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 892495 bytes
 (epstopdf)             Output file: <./Supp_Figures/COUP_S2-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-20 16:18:16
+(epstopdf)                    date: 2016-06-21 06:48:09
 (epstopdf)                    size: 110568 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Supp_Figures/COUP_S2-eps
 -converted-to.pdf ./Supp_Figures/COUP_S2.eps>
@@ -1301,26 +1302,26 @@ Package rerunfilecheck Info: File `Paper_v2.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 783.
  ) 
 Here is how much of TeX's memory you used:
- 12483 strings out of 493089
- 186104 string characters out of 6134842
- 457287 words of memory out of 5000000
+ 12475 strings out of 493085
+ 185080 string characters out of 6136917
+ 457409 words of memory out of 5000000
  15219 multiletter control sequences out of 15000+600000
- 72523 words of font info for 306 fonts, out of 8000000 for 9000
+ 72247 words of font info for 301 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,45p,6366b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/urw/symbol/usyr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw
-/symbol/usyr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb
-8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Paper_v2.pdf (35 pages, 10004115 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/rsfs/rsfs10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
+uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
+imes/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on Paper_v2.pdf (35 pages, 10003588 bytes).
 PDF statistics:
  19132 PDF objects out of 22161 (max. 8388607)
  17213 compressed objects within 173 object streams

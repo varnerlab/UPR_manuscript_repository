@@ -34,14 +34,14 @@
 % where the counteracting effects of the ER stress transducers converge at feedback regulation of the molecular chaperone BiP.
 
 \begin{abstract}
-Cells monitor protein folding by an inbuilt quality-control system in which incorrectly or misfolded folded proteins are tagged for degradation or sent back through a refolding cycle.
+Cells monitor protein folding by an inbuilt quality-control system in which incorrectly or misfolded proteins are tagged for degradation or sent back through a refolding cycle.
 However, continued accumulation of incorrectly folded proteins triggers the Unfolded Protein Response (UPR), which attempts to re-establish folding homeostasis or commits the cell to apoptosis.
 In this study, we developed a family of mechanistic models of the mammalian UPR system.
 An ensemble of models parameters was estimated by minimizing the difference between simulations and experimental measurements using multiobjective optimization.
 The ensemble of model parameters was validated using cross-validation.
 Analysis of the model ensemble suggested the three branches of UPR fired simultaneously.
-However, the importance of each brach was ranked ordered in time; PERK and IRE1 were more important early, while ATF6 was important later in the response.
-The activity of all three branches as coordinated by the molecular chaperone BiP.
+However, the importance of each branch was rank ordered in time; PERK and IRE1 were more important early, while ATF6 was important later in the response.
+The activity of all three branches was coordinated by the molecular chaperone BiP.
 Model analysis suggested that BiP feedback was critical to the overall robustness of the system.
 Removal of any one branch of BiP feedback, destabilized the other branches.
 On the other hand, removal of all nodes of BiP feedback increased the overall robustness of the system.
@@ -63,14 +63,14 @@ Thus, while BiP feedback is crucial to allowing the cell to adapt to small pertu
 
 \section*{Introduction}
 Protein folding is strategically important to cellular function in all organisms.
-In eukaryotes, secreted, membrane-bound and organelle-targeted proteins are typically processed and folded in the endoplasmic reticulum (ER) \cite{naidoo2009er, ron2002translational, kaufman2002unfolded}.
+In eukaryotes, secreted, membrane-bound, and organelle-targeted proteins are typically processed and folded in the endoplasmic reticulum (ER) \cite{naidoo2009er, ron2002translational, kaufman2002unfolded}.
 Intracellular perturbations caused by a variety of stressors disturb the specialized environment of the ER leading to the accumulation of misfolded or unfolded proteins \cite{ellgaard2003qce,Fonseca:2009fk}.
-Shifts in folding capacity have been associated with diseases such as cancer, diabetes and cardiovascular disorders \cite{ellgaard2003qce}. Physiological processes such as aging can also influence protein folding.
-Normally, cells ensure proper protein folding using a combination of molecular chaperones, foldases and lectins \cite{naidoo2009er}.
+Shifts in folding capacity have been associated with diseases such as cancer, diabetes, and cardiovascular disorders \cite{ellgaard2003qce}. Physiological processes such as aging can also influence protein folding.
+Normally, cells ensure proper protein folding using a combination of molecular chaperones, foldases, and lectins \cite{naidoo2009er}.
 However, when proper folding can not be restored, unfolded or misfolded proteins are targeted to ER Associated Degradation (ERAD) pathways for processing \cite{kaufman2002unfolded}.
 If unfolded or misfolded proteins continue to accumulate, eukaryotes induce the unfolded protein response (UPR).
-In mammalian cells, UPR is a complex signaling program mediated by three ER transmembrane receptors: activating transcription factor 6 (ATF6), inositol requiring kinase 1 (IRE1) and double-stranded RNA-activated protein kinase (PKR)-like endoplasmic reticulum kinase (PERK).
-UPR performs three functions, adaptation, alarm and apoptosis. During adaptation, the UPR tries to reestablish folding homeostasis by inducing the expression of chaperones that enhance protein folding.
+In mammalian cells, UPR is a complex signaling program mediated by three ER transmembrane receptors: activating transcription factor 6 (ATF6), inositol requiring kinase 1 (IRE1), and double-stranded RNA-activated protein kinase (PKR)-like endoplasmic reticulum kinase (PERK).
+UPR performs three functions: adaptation, alarm, and apoptosis. During adaptation, the UPR tries to reestablish folding homeostasis by inducing the expression of chaperones that enhance protein folding.
 Simultaneously, translation is globally attenuated to reduce the ER folding load while the degradation of unfolded proteins is increased. If these steps fail, the UPR induces a cellular alarm and apoptosis program.
 The alarm phase involves several signal transduction events, ultimately leading to the removal of the translational block and the down-regulation of the expression and activity of pro-survival factors such as the B-cell lymphoma 2 (Bcl2) protein.
 After the alarm phase, cells can undergo apoptosis, although ER stress can also initiate autophagy \cite{ogata2006aac, yorimitsu2006ers, bernales2006ace, kamimoto2006iic, hoyerhansen2007cmc, kouroku2006esp, fujita2007ter}.
@@ -87,7 +87,7 @@ In type II diabetes, ER stress leads to JNK-mediated phosphorylation of insulin 
 Nitric oxide (NO), is also a key player in $\beta$-cell death in type-I diabetes and vascular complications in type-II diabetes.
 NO depletes ER Ca$^{2+}$ leading to ER stress and ultimately apoptosis.
 Pancreatic $\beta$-cells have shown that NO-induced apoptosis is CHOP dependent \cite{oyadomari2001noi}.
-Thus, ER stress is a critical feature of both type-I and type-II diabetes at the molecular, cellular and organismal level.
+Thus, ER stress is a critical feature of both type-I and type-II diabetes at the molecular, cellular, and organismal level.
 ER stress and UPR function can also be important in cancers.
 The ER not only acts as the center for maturation of proteins, but also as a critical node for oxygen sensing and signaling.
 In rapidly growing tumors, cells face stressors like hypoxia and nutrient deprivation both of which can lead to ER stress and ultimately UPR \cite{Koumenis:2006zr}.
@@ -99,7 +99,7 @@ Versipelostatin, a repressor of BiP expression, has been shown to produce anti-t
 Enhanced apoptosis has also been observed in BiP-deficient fibrosarcoma cells, and XBP1- and PERK-deficient mouse fibroblasts \cite{jamora1996itp, romero2004xbp1, bi2005esr}.
 In the context of biotechnology, mammalian hosts, such as Chinese Hamster Ovary (CHO) cells, have been used for therapeutic protein production since the mid-1980s
 \cite{Wurm:2004aa,Mohan:2008aa}. Several current biologics are secreted, for example, the monoclonal antibodies (MAb) interferon-$\gamma$ (IFN$\gamma$)
-or erythropoeitin (EPO) \cite{Ku:2008aa}. Thus, ER processing and the unfolded protein response are critical to the production of these and many other therapeutic proteins.
+or erythropoeitin (EPO) \cite{Ku:2008aa}. Thus, ER processing and the UPR are critical to the production of these and many other therapeutic proteins.
 However, despite its importance to both disease and biotechnology, there has been a paucity of mathematical models of UPR in mammalian systems.
 
 % Interestingly, the connection between hypoxia and UPR is through hypoxia inducible factor (HIF) independent pathways,
@@ -115,8 +115,8 @@ The dynamics of UPR were modeled using mass action kinetics within the framework
 An ensemble of models parameters was estimated by minimizing the difference between simulations and experimental measurements using multiobjective optimization.
 The ensemble of model parameters was validated using cross-validation.
 Analysis of the model ensemble suggested the three branches of UPR fired simultaneously.
-However, the importance of each brach as ranked ordered in time; PERK and IRE1 were more important early, while ATF6 was important later in the response.
-The activity of all three branches as coordinated by the molecular chaperone BiP.
+However, the importance of each brach was rank ordered in time; PERK and IRE1 were more important early, while ATF6 was important later in the response.
+The activity of all three branches was coordinated by the molecular chaperone BiP.
 Model analysis suggested that BiP feedback was critical to the overall robustness of the system.
 Removal of any one branch of BiP feedback, destabilized the other branches.
 On the other hand, removal of all nodes of BiP feedback increased the overall robustness of the system.
@@ -152,14 +152,14 @@ The UPR model code and parameter ensemble is available under an MIT software lic
 \section*{Results}
 
 \subsection*{Formulation of the UPR network architecture}
-The UPR network described the ER folding cycle, ER-associated degradation (ERAD), ER-stress transducer (PERK, IRE1 and ATF6) signaling cascades and stress-induced caspase activation (Fig. \ref{fg:fig1}).
+The UPR network described the ER folding cycle, ER-associated degradation (ERAD), ER-stress transducer (PERK, IRE1 and ATF6) signaling cascades, and stress-induced caspase activation (Fig. \ref{fg:fig1}).
 The network consisted of 636 protein or mRNA species interconnected by 1090 interactions (Fig. \ref{fg:fig1} Inset).
-Connectivity was formulated from a comprehensive review of the primary literature  \cite{naidoo2009er, ron2002translational, kaufman2002unfolded,ellgaard2003qce,Fonseca:2009fk,Schroder:2005vn,gotoh:hdc,mccullough2001gsc, belmont2008cga,Hetz:2009qc,Urano:2000uq,szegezdi2006mediators}, and from on-line databases; String-8 \cite{Jensen:2009fk}, NetworKIN \cite{Linding:2007fk} and TRANSFAC.
+Connectivity was formulated from a comprehensive review of the primary literature  \cite{naidoo2009er, ron2002translational, kaufman2002unfolded,ellgaard2003qce,Fonseca:2009fk,Schroder:2005vn,gotoh:hdc,mccullough2001gsc, belmont2008cga,Hetz:2009qc,Urano:2000uq,szegezdi2006mediators}, and from on-line databases: String-8 \cite{Jensen:2009fk}, NetworKIN \cite{Linding:2007fk}, and TRANSFAC.
 Model connectivity was not specific to a single cell-line; rather, it was a canonical representation of the pathways involved in monitoring and controlling the folding capacity of a generic well-mixed ER compartment.
-UPR induction was modeled as the release of BiP from the ER stress transducers, PERK, IRE1$\alpha$, and ATF6 leading initially to adaptation of the folding cycle and then, subsequently, to alarm and apoptosis.
+UPR induction was modeled as the release of BiP from the ER stress transducers PERK, IRE1$\alpha$, and ATF6 leading initially to adaptation of the folding cycle and then, subsequently, to alarm and apoptosis.
 The adaption phase of UPR was marked by general translation attenuation, selective transcriptional programs for key species like bZIP transcription factor ATF4 \cite{lu2004tra}, cellular inhibitor of apoptosis (cIAP) \cite{hamanaka2008pdr}, molecular chaperones e.g., BiP \cite{harding2003isr}, and enhanced clearance of accumulated proteins via ERAD.
-The alarm and apoptosis phases were mediated by the induction of CHOP \cite{ron1992cnd}, regulation of Bcl2, Bcl2-antagonist of cell death (BAD) \cite {wang1999cia} and (TNF) receptor associated factor 2 (TRAF2) \cite{lei2003jpb,putcha2003jmb, yamamoto1999bpa, szegezdi2006mediators} activation (Fig. \ref{fg:fig1}).
-Model connectivity is available from the GitHub model repository, and is described further in the supplementary materials.
+The alarm and apoptosis phases were mediated by the induction of CHOP \cite{ron1992cnd}, regulation of Bcl2, Bcl2-antagonist of cell death (BAD) \cite {wang1999cia}, and (TNF) receptor associated factor 2 (TRAF2) \cite{lei2003jpb,putcha2003jmb, yamamoto1999bpa, szegezdi2006mediators} activation (Fig. \ref{fg:fig1}).
+Model connectivity is available from the GitHub model repository and is described further in the supplementary materials.
 
 
 %\clearpage
@@ -179,7 +179,7 @@ where eight of the 33 objectives were reserved for validation and 25 were used f
 Starting from an initial best-fit parameter set (nominal set), more than 25,000 probable models were estimated by POETs from which we selected N = 100 models (25 from each training family) with a Pareto rank of one or less (from approximately 1200 possible choices).
 The nominal, training (75 models), and prediction (25 models) errors were calculated for each objective (Table \ref{obj-table}).
 Models used for prediction error calculations for a particular objective were \emph{not} trained on that objective.
-The prediction likelihood was statistically significantly better for 31 of the 33 objective functions at a 95\% confidence level, compared with random parameter sets generated from the nominal set (Table \ref{obj-table}).
+The prediction likelihood was statistically significantly better for 31 of the 33 objective functions at a 95\% confidence level compared with random parameter sets generated from the nominal set (Table \ref{obj-table}).
 POETs generated model families that predicted approximately 94\% of the training data with a significantly higher likelihood than a random control.
 However, the specific value of any given parameter was likely not well described; the coefficient of variation (CV) for the model parameters ranged from 0.5 - 1.6, where approximately 65\% of the parameters were constrained with a CV $\leq$ 1.0 (supplementary materials Fig. \ref{fg:Para_S1}).
 The most constrained parameters involved a wide-array of functions e.g., regulation of PERK, eIF2$\alpha$, ATF4, Calcineurin, BiP, CHOP and ATF6 signaling.
@@ -195,7 +195,7 @@ Conflicts between these early and late phase markers suggested the UPR time scal
 
 %For example, XBP1 mRNA measurements (O14) conflicted with CHOP protein measurements (O13), even though these data-sets were taken from the same study and were collected in the same cell-line. XBP1 splicing increased BiP levels, which in turn reduced CHOP protein levels, hence the trade-off. Lastly, in addition to fronts, we also observed strong correlation between objectives. For example, models that performed well for the CHOP protein (O11), also performed well against Procaspase-12 (O22) measurements, even though these were not in the same cell-line or from the same study. Both CHOP and Procaspase-12 are downstream of the IRE1/TRAF2/JNK signaling cascade, so these errors were directly correlated.
 %\clearpage
-% \subsection*{The population of UPR models recapitulated adaptation, alarm, and apoptotic events across multiple cell-lines and timescales.}
+% \subsection*{The population of UPR models recapitulated adaptation, alarm, and apoptotic events across multiple cell-lines and timescales}
 %The counteracting effects are further substantiated in simulated knockout studies, wherein knockout of one ER stress transducer led to enhancement of the other branches of UPR (supplementary materials Fig. \ref{fg:Flux_Supp_Fig1}A-C).
 %We compared the ability of the system to recuperate upon reversal of unfolded protein loads from the alarm phase (P4, Fig. \ref{fg:proof_of_concept_simulation} ) and the apoptosis phase (P2, Fig. \ref{fg:proof_of_concept_simulation} ). If we reduced the protein load after the cell was committed to apoptosis (as in P3), we found that the cell continued to function similar to the UPR state even upon protein load reduction after 25 hrs (Fig. \ref{fg:cross_plot_flux}C).
 
@@ -225,9 +225,9 @@ Next, we looked at the signal flow through the three branches following the indu
 % Certain modules were seen to reduce like IRE1-TRAF2 signaling, ASK1 activation.
 % However, not much difference was seen in terms of apoptotic fluxes, denoting the commitment of the cell to death.
 
-\subsection*{Signal flow analysis suggested the UPR branches fired simultaneously.}
+\subsection*{Signal flow analysis suggested the UPR branches fired simultaneously}
 Traditionally, it has been hypothesized that there is a sequential order for firing of the ER stress transducers in UPR.
-The PERK and ATF6 branches are thought to be activated before IRE1 \cite{szegezdi2006mediators} and largely promote ER adaptation to misfolding, while IRE1 transmits both survival and pro-apoptotic signals.
+The PERK and ATF6 branches are thought to be activated before IRE1 \cite{szegezdi2006mediators} and to largely promote ER adaptation to misfolding, while IRE1 transmits both survival and pro-apoptotic signals.
 However, analysis of the UPR model ensemble suggested the three branches fired simultaneously, and that adaptation, alarm, or apoptosis was the result of counteracting effects of the three UPR signaling pathways (Fig. \ref{fg:proof_of_concept_simulation} and Fig. \ref{fg:Flux_Supp_Fig1}). UPR induction was controlled by manipulation of the generation rate of unfolded or misfolded protein (qP) in the ER compartment.
 Upon induction, initially ($t\leq$ 1hr) the response was damped, marking the adaptation phase of UPR (Fig. \ref{fg:proof_of_concept_simulation}A).
 Adaptation was followed by increased IRE1$\alpha$, PERK, and ATF6 activity at $t\sim$ 1 hr, marking the onset of the alarm phase.
@@ -237,14 +237,14 @@ At P1, there was a marked increase in ATF4 and CHOP activity, ATF6 signaling and
 These are hallmarks of the adaptation-alarm phase of the UPR response (Fig. \ref{fg:cross_plot_flux}D).
 The apoptosis phase at P2 ($t\geq$ 8-10 hrs) was marked by increased BiP regulation, enhanced ATF4 transcriptional activity, increased mitochondrial membrane permeability, and increased apoptotic fluxes.
 On the other hand, if we reduced the load of unfolded protein in the adaptation-alarm phase (P4), the cell recuperated using its ERAD machinery and the regulation of BiP (Fig. \ref{fg:cross_plot_flux}E-F).
-Thus, following initiation of UPR all three sensor branches were simultaneously activated. However, it was unclear which parameters or species controlled the responses of the three branches.
+Thus, following initiation of UPR, all three sensor branches were simultaneously activated. However, it was unclear which parameters or species controlled the responses of the three branches.
 We addressed this question using sensitivity and robustness analysis.
 
 % We further investigated the effect of simulated knockout (KO) and overexpression (OX) of key proteins on the UPR system
 % (supplementary materials Fig. \ref{fg:Flux_Supp_Fig1}).
 % Interestingly, PERK and ATF4 KO studies revealed a slower and lower amount of BiP production ($\sim$ 50\%) as compared to WT. However, ATF6 or IRE1 KO did not affect BiP regulation as compared to WT. This highlighted the dominant role of ATF4 in regulation of BiP, which is consistent with experimental evidence \cite{ma2003delineation}. Regulation of BiP was the critical regulator of spliced XBP1 (XBP1s), which in turn acts as a key marker of progression through different stages of UPR (supplementary materials Fig. \ref{fg:Flux_Supp_Fig1}E). ATF4, cleaved ATF6, and XBP1s act as integrators of the signals coming from all the three branches of UPR and furthermore leads to regulation of BiP, thereby leading to a negative feedback or control of UPR signal. Another interesting note was the regulation of pro-apoptosis phenotype via regulation of Bcl2. PERK and ATF4 KO led to delay in the onset of apoptosis (marked by slower and lower reduction of Bcl2 levels, supplementary materials Fig. \ref{fg:Flux_Supp_Fig1}F). This effect could be attributed to the lack of CHOP mediated branch of Bcl2 regulation. On the other hand, IRE1 and CHOP KO leads to drastic reduction in apoptosis (marked by little or no change of Bcl2 levels, supplementary materials Fig. \ref{fg:Flux_Supp_Fig1}F). CHOP KO implicated the importance of CHOP in the down-regulation of Bcl2. IRE1 KO implicated the critical role of IRE1-TRAF2 mediated route of apoptosis.
 % Overall signal flow analysis highlighted the extensive amount of crosstalk within the three branches of the UPR network.
-% Taken together, the population of UPR models recapitulated both short- and long timescale behavior following overload of unfolded proteins in a variety of cell types.
+% Taken together, the population of UPR models recapitulated both short- and long-timescale behavior following overload of unfolded proteins in a variety of cell types.
 % It also captured the integration between multiple pathways and generated specific and testable hypothesis about the role of network components in signal propagation.
 
 % Five parameter sets were selected from the parent ensemble based on rightful representation of the diversity for the sensitivity calculations (further details in the supplementary materials).
@@ -258,9 +258,9 @@ We addressed this question using sensitivity and robustness analysis.
 % Knockout of any individual feedback branch like that of ATF4, ATF6 and XBP1s, the system overall remains equally robust.
 % Interestingly,  However . Overall $\sim$ 54 \% of the parameters were differentially less sensitive upon removal of BiP feedback as compared to WT.
 
-
+\subsection*{Sensitivity analysis stratified locally and globally important components of the UPR architecture}
 First-order sensitivity coefficients were computed and time-averaged for normal and UPR induced conditions (Fig. \ref{fg:fig5}).
-Infrastructure parameters e.g. nuclear transport, RNA polymerase or ribosome binding were globally critical, independent of stress (Fig. \ref{fg:fig5}, black points).
+Infrastructure parameters e.g. nuclear transport, RNA polymerase, or ribosome binding were globally critical, independent of stress (Fig. \ref{fg:fig5}, black points).
 Additionally, apoptotic species and parameters were also important, both in the presence and absence of UPR (Fig. \ref{fg:fig5}, yellow points).
 While the majority of parameters and species became more important in the presence of stress, we found a band of parameters (Fig. \ref{fg:fig5}, inset) that were differentially important under stressed.
 The importance of the sensor and stress-transducer modules clearly increased in the presence of UPR; approximately 15\% of the parameters were significantly more important in the presence of stress.
@@ -275,7 +275,7 @@ This was consistent with the dominant role of the negative feedback via the tran
 Interestingly, the majority of species rankings were similar after 6 hrs (bottom row,  Fig. \ref{fg:fig5} and supplementary materials Fig. \ref{fg:Sens_S1}).
 To further investigate the role of BiP regulation, we conducted sensitivity analysis upon knocking out the feedback branches of BiP for the nominal parameter set (Fig. \ref{fg:Sens_S3}).
 System performance was robust to any single knockout, however the sensitivity of the alternate feedback branches increased.
-The was most evident following the deletion of the ATF4 feedback.
+This was most evident following the deletion of the ATF4 feedback.
 However, sensitivity coefficients are only a local measure of how small changes in parameters affect model performance.
 To better understand the response of UPR to a perturbation, we performed robustness analysis.
 
@@ -291,14 +291,14 @@ To better understand the response of UPR to a perturbation, we performed robustn
 
 
 \subsection*{Robustness analysis predicted fragile and robust structural perturbations to the UPR network}
-Robustness coefficients quantify the response of a protein marker to a macroscopic structural or operational perturbation to a biochemical network.
+Robustness coefficients quantify the response of a protein marker to a macroscopic structural or operational perturbation in a biochemical network.
 We quantified shifts for 636 markers following single parameter knockouts (edge KO), single gene knockouts (GKO), and single gene overexpression (GOX) in the presence of ER stress (Fig. \ref{fg:robustness_figure}).
 Coefficients with values $>$ 1 ($<$ 1) indicated a marker increased (decreased) compared to the basal state, while a value $\sim$ 1 indicated approximately no change following a perturbation.
 The cell death program (marked by robustness coefficients for caspase 3) was robust; few perturbations increased caspase 3 levels, e.g., overexpression of Procaspases 9/3 (Fig \ref{fg:robustness_figure} A, Table \ref{KO-O-table}).
 The robustness of caspase 3, follwed from the redundant sources of cell death (e.g., APAF-1 dependent and independent pathways).
 To confirm this, we simulated APAF-1 KOs over the entire ensemble (Fig. \ref{fg:COUP_S1}).
 We found two populations of cells in the ensemble: population 1 where APAF-1 was the dominant regulator of cell-death (marked by reduction in caspase 3 upon APAF-1 KO),
-and population 2 where APAF-1 was not dominant regulator.
+and population 2 where APAF-1 was not a dominant regulator.
 This behavior was consistent with the training data from Sak2 cells (APAF-1 $-ve$ cells) \cite{rao2002cer}.
 Interestingly, manipulation of the pro-survival axis via regulation of Bcl2 was possible (Fig \ref{fg:robustness_figure}A, Table \ref{KO-O-table}).
 For example, deletion of the PERK/ATF4 signaling axes increased Bcl2 levels by removing CHOP repression (Fig. \ref{fg:robustness_figure}A).
@@ -343,7 +343,7 @@ Proteins requiring post-translational modifications such as N-linked glycosylati
 A diverse array of cellular stresses can lead to dysfunction of the ER, and ultimately to an imbalance between protein-folding capacity and protein-folding load.
 Unfolded or misfolded proteins are tagged for degradation via ER associated degradation (ERAD) or sent back through the folding cycle.
 Continued accumulation of incorrectly folded proteins can also trigger UPR.
-PRKR-like ER kinase (PERK), inositol-requiring kinase 1 (IRE1) and activating transcription factor 6 (ATF6) were modeled as the key UPR initiators.
+PRKR-like ER kinase (PERK), inositol-requiring kinase 1 (IRE1), and activating transcription factor 6 (ATF6) were modeled as the key UPR initiators.
 While UPR has been extensively studied \cite{naidoo2009er, ron2002translational, kaufman2002unfolded,ellgaard2003qce,Fonseca:2009fk,Schroder:2005vn,gotoh:hdc,mccullough2001gsc, belmont2008cga,Hetz:2009qc,Urano:2000uq,szegezdi2006mediators},
 a detailed mathematical model of this important system has not been developed.
 The UPR network architecture used in the model was based on extensive review of the literature (supplementary materials).
@@ -360,12 +360,12 @@ The counteracting/competing effects were further substantiated in simulated knoc
 Signal transduction architectures frequently contain redundancy, feedback, and crosstalk. These topological features ensure signal propagation is adaptable, efficient, and robust.
 However, they also make reprogramming signal flow challenging. This was highlighted remarkably in the case of UPR. Signals from the three ER-stress transducers converged at the level of up-regulation of BiP.
 This is the key junction which regulates the three stages (onset and time) of adaptation, alarm, and apoptosis. In this regard, regulators of this feedback cleaved ATF6, ATF4, and XBP1s and were seen as highly sensitive components of UPR.
-Interestingly these components put-together increased the overall fragility of the system and presented a greater scope of manipulation of the UPR response.
+Interestingly, these components put-together increased the overall fragility of the system and presented a greater scope of manipulation of the UPR response.
 This was substantiated by sensitivity analysis upon KO of the feedback loops, where we saw increased stability of the UPR module.
-When these feedback components were knocked out individually, the system overall remained stable thanks to increased activity and load sharing via the other feedback branches.
-Amongst the three components of feedback, we identified ATF4 as the key load bearer/regulator. This was substantiated by signal flow, robustness and sensitivity analysis.
+When these feedback components were knocked out individually, the system remained stable overall as a result of increased activity and load sharing via the other feedback branches.
+Amongst the three components of feedback, we identified ATF4 as the key load bearer/regulator. This was substantiated by signal flow, robustness, and sensitivity analysis.
 This is really interesting as ATF4 protein has shown to be present in greater levels in cancer compared to normal tissue, and it is up-regulated by signals of the tumor microenvironment such as hypoxia/anoxia, oxidative stress, and ER stress \cite{Ameri:2008fk}.
-So any aberrations in regulation of ATF4 could potentially serve as a specific target in cancer therapy.
+As a result, any aberrations in regulation of ATF4 could potentially serve as a specific target in cancer therapy.
 As a target, ATF4 is attractive because it is also potentially involved in angiogenesis and adaptation of cancer cells to hypoxia/anoxia, which are major problems in cancer progression \cite{Ameri:2008fk}.
 
 % Paragraph 2:
@@ -402,7 +402,7 @@ Next, little is known about deactivation of ATF6. Recently, XBP1u, the unspliced
 In the recovery phase following ER stress, high levels of XBP1u may play a dual role by promoting degradation \cite{Yoshida:2006dz, Tirosh:2006fv},
 and binding of ATF6$\alpha$ rendering it prone to proteasomal degradation \cite{Yoshida:2009bs}.
 Lastly, we should revisit the regulation of IRE1$\alpha$ activity.
-IRE1$\alpha$ activity is regulated by several proteins, including tyrosine phosphatase 1B (PTP-1B), ASK1-interactive protein 1 (AIP1) and members of the Bcl2 protein family.
+IRE1$\alpha$ activity is regulated by several proteins, including tyrosine phosphatase 1B (PTP-1B), ASK1-interactive protein 1 (AIP1), and members of the Bcl2 protein family.
 Members of the HSP family of proteins have also been shown to regulate IRE1$\alpha$.
 For example, HSP90 interacts with the cytosolic domain of IRE1$\alpha$, potentially protecting it from degradation by the proteasome \cite{Marcu:2002oq}.
 HSP72 interaction with the cytosolic IRE1$\alpha$ domain has also recently been shown to enhance IRE1$\alpha$ endoribonuclease activity \cite{Gupta:2010kl}.
@@ -611,13 +611,13 @@ Not applicable.
 
 \begin{figure}\centering
 \epsfig{file=./Main_Figures/Pathway_F1.eps,width=0.8\textwidth}
-	\caption{An array of cellular stressors can perturb the folding environment in the endoplasmic reticulum (ER) leading to unfolded or misfolded protein. In response to the folding imbalance, cells initiate the cytoprotective unfolded protein response (UPR). The problem of unfolded or misfolded proteins in the ER is addressed by increasing the folding capacity through the up-regulation of the expression of chaperone proteins, attenuating translation by regulating eIF2$\alpha$, and promoting the degradation of misfolded proteins through ER-associated degradation (ERAD). If UPR is unable to restore the folding balance, ER stress will eventually lead to apoptotic cell-death. The three signal transduction pathways mediating the unfolded protein response in higher eukaryotes. First, the PRKR-like ER kinase (PERK) pathway is initiated after BiP dissociation from PERK. While PERK transduces both pro- and anti-apoptotic signals, its main function is translation attenuation through the phosphorylation of eIF2$\alpha$. Next, the activating transcription factor 6 (ATF6) pathway is activated following BiP dissociation. ATF6 induces the expression of chaperones e.g., BiP as well as apoptosis effectors such as CHOP. Lastly, the inositol-requiring kinase 1 (IRE1) pathway is activated following BiP dissociation from IRE1. Activated IRE1 has both an endoribonuclease and a serine-threonine kinase activity that drive can pro-apoptotic signals. Inset: The UPR network consisted of 636 protein or mRNA species interconnected by 1090 interactions.}
+	\caption{An array of cellular stressors can perturb the folding environment in the endoplasmic reticulum (ER) leading to unfolded or misfolded protein. In response to the folding imbalance, cells initiate the cytoprotective unfolded protein response (UPR). The problem of unfolded or misfolded proteins in the ER is addressed by increasing the folding capacity through the up-regulation of the expression of chaperone proteins, attenuating translation by regulating eIF2$\alpha$, and promoting the degradation of misfolded proteins through ER-associated degradation (ERAD). If UPR is unable to restore the folding balance, ER stress will eventually lead to apoptotic cell-death. The three signal transduction pathways mediate the unfolded protein response in higher eukaryotes. First, the PRKR-like ER kinase (PERK) pathway is initiated after BiP dissociation from PERK. While PERK transduces both pro- and anti-apoptotic signals, its main function is translation attenuation through the phosphorylation of eIF2$\alpha$. Next, the activating transcription factor 6 (ATF6) pathway is activated following BiP dissociation. ATF6 induces the expression of chaperones e.g., BiP as well as apoptosis effectors such as CHOP. Lastly, the inositol-requiring kinase 1 (IRE1) pathway is activated following BiP dissociation from IRE1. Activated IRE1 has both an endoribonuclease and a serine-threonine kinase activity that can drive pro-apoptotic signals. Inset: The UPR network consisted of 636 protein or mRNA species interconnected by 1090 interactions.}
 	\label{fg:fig1}
 \end{figure}
 
 \begin{figure}\centering
 \epsfig{file=./Main_Figures/OBJ_F2.eps,width=1.0\textwidth}
-	\caption{Objective function plot for selected training constrains (O1,O2,$\hdots$O33) for the UPR model population generated using POETs. Points denote separate models in the population. Several objectives exhibit clear Pareto fronts, e.g., O29 $\times$ O25. This suggests an inability to model both training constraints simultaneously or conflicts in the training data.}
+	\caption{Objective function plot for selected training constraints (O1,O2,$\hdots$O33) for the UPR model population generated using POETs. Points denote separate models in the population. Several objectives exhibit clear Pareto fronts, e.g., O29 $\times$ O25. This suggests an inability to model both training constraints simultaneously or conflicts in the training data.}
 	\label{fg:objective_plot}
 \end{figure}
 
@@ -630,15 +630,15 @@ Not applicable.
 \begin{figure}\centering
 \epsfig{file=./Main_Figures/Proof_F4.eps,width=1.0\textwidth}
 	\caption{Proof of concept simulation unfolded protein response activation.
-	\textbf{A:}UPR induction was controlled by manipulating the generation rate of unfolded or misfolded protein (qP) in the ER compartment. A step-change in qP from qP = 0.1 to qP = 100 was issued at approximately t = 0.1 hrs and then adjusted back to qP = 0.1 at t = 20 hrs.
-	\textbf{B:}Flux through the PERK, ATF6 and IRE1 stress sensing branches as a function of time following a step change in misfolded protein generation.
-	\textbf{C:}Simulated expression profile for the 59 genes in the model. The symbol UPROT denotes the level of unfolded protein.}
+(A) UPR induction was controlled by manipulating the generation rate of unfolded or misfolded protein (qP) in the ER compartment. A step-change in qP from qP = 0.1 to qP = 100 was issued at approximately t = 0.1 hrs and then adjusted back to qP = 0.1 at t = 20 hrs.
+(B) Flux through the PERK, ATF6, and IRE1 stress sensing branches as a function of time following a step change in misfolded protein generation.
+(C) Simulated expression profile for the 59 genes in the model. The symbol UPROT denotes the level of unfolded protein.}
 	\label{fg:proof_of_concept_simulation}
 \end{figure}
 
 \begin{figure}\centering
 \epsfig{file=./Main_Figures/Flux_F5.eps,width=0.8\textwidth}
-	\caption{Cross plot of the fluxes at P1-P5 as denoted in Figure 4: We tried to see is how the system behaves and how the system can recuperate from UPR dose when it is in the adaptation phase as compared to the apoptosis phase. (D) As compared to P1 (No-UPR Steady State), we see that early on at 1 hr after UPR dose there is a marked increase in ATF4 and CHOP regulation, ATF6 signaling along with unfolded protein sensing and degradation. These are hallmarks of the adaptation-alarm phase of the UPR response. (A) If we continue with the dose of UPR till around 25 hrs, we see the fluxes reach a steady state. This state is marked by increased BiP regulation, enhanced ATF4 transcriptional activity, increased mitochondrial membrane permeability and increased apoptotic fluxes. This state is similar to the Apoptotic phase of UPR, where in the cell has committed itself to apoptosis mediated cell death. (B) and (C) If we reduce the UPR load after the cell has committed to apoptosis (as in P3), we find that the cell continues to function similar to the UPR state even upon UPR load reduction after 25 hrs. There are certain aspects which are seen to reduce like IRE1-TRAF2 signaling, ASK1 activation. However not much difference is seen in terms of apoptotic fluxes, denoting the cell has committed itself to death and is in a point of no return. (E)-(F) On the contrary if we reduce the load of UPR in the adaptation-alarm phase (P4), we see that the cell can recuperate using its ERAD machinery and the regulation of BiP.}
+	\caption{Cross plot of the fluxes at P1-P5 as denoted in Figure 4: We see how the system behaves and how the system can recuperate from UPR dose when it is in the adaptation phase as compared to the apoptosis phase. (D) As compared to P1 (No-UPR Steady State), we see that early on at 1 hr after UPR dose there is a marked increase in ATF4 and CHOP regulation, ATF6 signaling along with unfolded protein sensing and degradation. These are hallmarks of the adaptation-alarm phase of the UPR response. (A) If we continue with the dose of UPR till around 25 hrs, we see the fluxes reach a steady state. This state is marked by increased BiP regulation, enhanced ATF4 transcriptional activity, increased mitochondrial membrane permeability, and increased apoptotic fluxes. This state is similar to the Apoptotic phase of UPR, wherein the cell has committed itself to apoptosis mediated cell death. (B)-(C) If we reduce the UPR load after the cell has committed to apoptosis (as in P3), we find that the cell continues to function similarly to the UPR state even upon UPR load reduction after 25 hrs. There are certain aspects which are seen to reduce like IRE1-TRAF2 signaling, ASK1 activation; however, not much difference is seen in terms of apoptotic fluxes, denoting the cell has committed itself to death and is in a point of no return. (E)-(F) On the contrary if we reduce the load of UPR in the adaptation-alarm phase (P4), we see that the cell can recuperate using its ERAD machinery and the regulation of BiP.}
 	\label{fg:cross_plot_flux}
 \end{figure}
 
@@ -646,13 +646,13 @@ Not applicable.
 \includegraphics[width = 6.0in,height=5.5in]{./Main_Figures/Sens_F1.pdf}
 	\caption{Rank-ordering of species sensitivities in the presence of UPR as a function of time.
 	\textbf{Inset:} Rank-ordering of parameter sensitivity for UPR-induced versus normal conditions.
-Points denote the mean ranking computed over N = 5 parameter sets from the model population, while error bars denote one standard deviation. Points are color-coded based based upon biological function.}
+Points denote the mean ranking computed over N = 5 parameter sets from the model population, while error bars denote one standard deviation. Points are color-coded based upon biological function.}
 	\label{fg:fig5}
 \end{figure}
 
 \begin{figure}\centering
 \epsfig{file=./Main_Figures/Rob_F7.eps,width=0.8\textwidth}
-	\caption{Robustness analysis of the UPR network: A-B Phenotypic phase plane analysis for the the UPR model following structural perturbations. Coupling coefficients (area under the curve from the simulation with species removed dived by the wild-type simulation) for all 636 model species were calculated for the nominal parameter set following gene overexpression/knockout (A) and deletion of single network edges (B). Coupling coefficients of one indicate no change in a marker level following a perturbation, while values less (greater) than one denote decreased (increases) marker levels. C Structural distinguishability analysis: We computed the dendrogram of the coupling coefficients for single GKO of model species. Individual coupling coefficients were clustered, where the euclidean norm was used as the distance metric and the linkage function was the inner square product (variance minimization algorithm). Each additional cluster was chosen to reduce the overall variance (y-axis). A general description of the biological function of the clusters were indicated by each group. \textbf{Insets:} Distinguishability as the magnitude of the orthogonal components for all knockout species.  Species were ordered from largest to smallest magnitudes.  Red markers indicate species which were statistically significant.}
+	\caption{Robustness analysis of the UPR network: (A)-(B) Phenotypic phase plane analysis for the the UPR model following structural perturbations. Coupling coefficients (area under the curve from the simulation with species removed divided by the wild-type simulation) for all 636 model species were calculated for the nominal parameter set following gene overexpression/knockout (A) and deletion of single network edges (B). Coupling coefficients equal to one indicate no change in a marker level following a perturbation, while values less (greater) than one denote decreased (increased) marker levels. (C) Structural distinguishability analysis: We computed the dendrogram of the coupling coefficients for single GKO of model species. Individual coupling coefficients were clustered, where the euclidean norm was used as the distance metric and the linkage function was the inner square product (variance minimization algorithm). Each additional cluster was chosen to reduce the overall variance (y-axis). A general description of the biological function of the clusters were indicated by each group. \textbf{Insets:} Distinguishability as the magnitude of the orthogonal components for all knockout species.  Species were ordered from largest to smallest magnitudes.  Red markers indicate species which were statistically significant.}
 	\label{fg:robustness_figure}
 \end{figure}
 
@@ -711,7 +711,7 @@ Using the multiobjective POETs algorithm was used to generate predictive UPR mod
 
 Strong Pareto fronts identified in POETs suggested an inability to simultaneously model different aspects of the training data as well as experimental artifacts. Negative feedback was considered to lead to conflicting objectives. For example, XBP1 mRNA measurements (O14) conflicted with CHOP protein measurements (O13), even though these data-sets were taken from the same study and were collected in the same cell-line. XBP1 splicing increased BiP levels, which in turn reduced CHOP protein levels, hence the trade-off. Lastly, in addition to fronts, we also observed strong correlation between objectives. For example, models that performed well for the CHOP protein (O11), also performed well against Procaspase-12 (O22) measurements, even though these were not in the same cell-line or from the same study. Both CHOP and Procaspase-12 are downstream of the IRE1/TRAF2/JNK signaling cascade, so these errors were directly correlated  (Fig. \ref{fg:objective_plot}).
 
-\subsection*{Signal flow, sensitivity, and robustness analysis of UPR network:}
+\subsection*{Signal flow, sensitivity, and robustness analysis of UPR network}
 Simulated KO and OX studies of key protiens provided insight into the signal flow within the UPR network. Interestingly, PERK and ATF4 KO studies revealed a slower and lower amount of BiP production ($\sim$ 50\%) as compared to WT. However, ATF6 or IRE1 KO did not affect BiP regulation as compared to WT. This highlighted the dominant role of ATF4 in regulation of BiP, which is consistent with experimental evidence \cite{ma2003delineation}. Regulation of BiP was the critical regulator of spliced XBP1 (XBP1s), which in turn acts as a key marker of progression through different stages of UPR (supplementary materials Fig. \ref{fg:Flux_Supp_Fig1}E). ATF4, cleaved ATF6, and XBP1s act as integrators of the signals coming from all the three branches of UPR and furthermore leads to regulation of BiP, thereby leading to a negative feedback or control of UPR signal. Another interesting note was the regulation of pro-apoptosis phenotype via regulation of Bcl2. PERK and ATF4 KO led to delay in the onset of apoptosis (marked by slower and lower reduction of Bcl2 levels, supplementary materials Fig. \ref{fg:Flux_Supp_Fig1}F). This effect could be attributed to the lack of CHOP mediated branch of Bcl2 regulation. On the other hand, IRE1 and CHOP KO leads to drastic reduction in apoptosis (marked by little or no change of Bcl2 levels, supplementary materials Fig. \ref{fg:Flux_Supp_Fig1}F). CHOP KO implicated the importance of CHOP in the down-regulation of Bcl2. IRE1 KO implicated the critical role of IRE1-TRAF2 mediated route of apoptosis.
 
 A few parameter sets for the sensitivity analysis were diversely selected based on the scatter in the CV values (supplementary materials Fig. \ref{fg:Para_S1}). Infrastructure parameters e.g. nuclear transport, RNA polymerase or ribosome binding were globally critical, independent of stress (black points, Fig. \ref{fg:fig5}). Additionally, apoptotic species and parameters were also important, both in the presence and absence of UPR (yellow points, Fig. \ref{fg:fig5}). Thus, as expected, components such as RNA polymerase, or caspase activation were globally important irrespective of the folding state of the ER. More interesting, however, were coefficients that shifted above or below the 45$^{o}$-line in the presence of UPR. These points denote differentially important network components. While the majority of parameters and species became more important in the presence of stress, we found a band of parameters (Fig. \ref{fg:fig5} Inset) that were differentially important under stressed. For example, the rank-ordering of the sensor and stress-transducer modules clearly increased in the presence of UPR; approximately 172 or 15\% of the parameters were significantly more important. These parameters were largely associated with adaptation and processing of unfolded or misfolded proteins, e.g., unfolded protein degradation, cleaved ATF6-induced gene expression, IRE1-TRAF2 mediated apoptosis regulation, and RCAN1 regulation. Likewise, 75 or 12\% of the species were significantly more important in UPR compared with normal protein loads (data not shown).
